@@ -1,0 +1,8 @@
+README.md
+detect_delimiter.py
+setup.cfg
+setup.py
+detect_delimiter.egg-info/PKG-INFO
+detect_delimiter.egg-info/SOURCES.txt
+detect_delimiter.egg-info/dependency_links.txt
+detect_delimiter.egg-info/top_level.txt

@@ -1,0 +1,24 @@
+﻿ID,SERVICE,Name,Assignee,Start Date,Due Date,Priority,Status
+MD1,Modeling,Light 1,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+MD2,Modeling,Light 2,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+MD3,Modeling,Light 3,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+MD4,Modeling,Light 4,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+MD5,Modeling,Light 5,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+MD6,Modeling,Light 6,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+MD7,Modeling,Armchair,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+MD8,Modeling,Bench,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+MD9,Modeling,Ottoman,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+MD10,Modeling,Center table,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+MD11,Modeling,Side table,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+MD12,Modeling,Sofa,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+SH1,LTR,Armchair,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+SH2,LTR,Bench,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+SH3,LTR,Ottoman,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+SH4,LTR,Center table,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+SH5,LTR,Side table,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+SH6,LTR,Sofa,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+SH7,LTR,Armchair,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+SH8,LTR,Bench,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+SH9,LTR,Ottoman,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+SH10,LTR,Center table,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
+SH11,LTR,Side table,Jonathan Hidalgo,12/04/2022,12/05/2022,P4,In Progress
