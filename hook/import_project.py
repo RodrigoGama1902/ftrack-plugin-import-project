@@ -22,6 +22,8 @@ def load_dependencies_path():
         sys.path.append(_sources_path)
 
 def execute_action():
+    
+    '''
     import pandas as pd
 
     csv_file = r"C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\excel.csv"
@@ -32,7 +34,10 @@ def execute_action():
     with open(txt_file, "w") as text_file:
         for item in sheet['ID']:
             text_file.write(item)   
-            text_file.write("\n")     
+            text_file.write("\n") 
+    '''    
+    
+    write_log("Executing Action")
     
 def write_log(message):
     
@@ -73,6 +78,8 @@ class MyCustomAction(BaseAction):
         try:    
             entity_type, entity_id = entities[0] 
             project = session.query('Project where id is "{0}"'.format(entity_id)).one()
+            
+            execute_action()
             
             return {
                 'success': True,
