@@ -21,3 +21,2646 @@
 14/04/2022 16:47:50 'Project' object has no attribute 'name'
 14/04/2022 16:48:30 'Project' object has no attribute 'name'
 20/04/2022 16:43:25 Executing Action
+20/04/2022 16:50:20 Executing Action
+20/04/2022 16:50:21 Creating Service Type: Modeling
+20/04/2022 16:50:21 Creating Service Type: LTR
+20/04/2022 16:55:04 Executing Action
+20/04/2022 16:55:04 Creating Service Type: Modeling
+20/04/2022 16:55:04 Creating Service Type: LTR
+20/04/2022 16:57:47 Executing Action
+20/04/2022 16:57:47 create_folder() takes exactly 2 arguments (3 given)
+20/04/2022 16:58:56 Executing Action
+20/04/2022 16:58:57 Creating Service Type: Modeling
+20/04/2022 16:58:57 Creating Service Type: LTR
+20/04/2022 17:01:27 Executing Action
+20/04/2022 17:01:27 Creating Service Type: Modeling
+20/04/2022 17:01:27 Creating Service Type: LTR
+20/04/2022 17:01:27 global name 'project' is not defined
+20/04/2022 17:02:34 Executing Action
+20/04/2022 17:02:34 Creating Service Type: Modeling
+20/04/2022 17:02:34 Creating Service Type: LTR
+20/04/2022 17:02:34 Server reported error: PermissionError(Permission denied: not allowed to 'create' 'Task'. Missing the required 'Create objects (sequence,shot,task)' permission.)
+20/04/2022 17:06:31 Executing Action
+20/04/2022 17:06:32 Creating Service Type: Modeling
+20/04/2022 17:06:32 Creating Service Type: LTR
+20/04/2022 17:06:32 global name 'project_id' is not defined
+20/04/2022 17:10:00 Clearing Project Structure
+20/04/2022 17:10:00 CreateProjectStructure instance has no attribute 'delete'
+20/04/2022 17:10:56 Clearing Project Structure
+20/04/2022 17:10:56 Executing Action
+20/04/2022 17:10:57 Creating Service Type: Modeling
+20/04/2022 17:10:57 Creating Service Type: LTR
+20/04/2022 17:11:21 Clearing Project Structure
+20/04/2022 17:11:21 Server reported error: ValueError(Could not find entity Folder with entity_key [u'9d4400d4-2eab-4e32-8e46-c95e104a41fc'].)
+20/04/2022 17:12:42 Clearing Project Structure
+20/04/2022 17:12:43 Server reported error: ValueError(Could not find entity Folder with entity_key [u'9d4400d4-2eab-4e32-8e46-c95e104a41fc'].)
+20/04/2022 17:13:57 Executing Action
+20/04/2022 17:13:57 Creating Service Type: Modeling
+20/04/2022 17:13:57 Creating Service Type: LTR
+20/04/2022 17:15:48 Clearing Project Structure
+20/04/2022 17:15:48 Executing Action
+20/04/2022 17:15:49 Creating Service Type: Modeling
+20/04/2022 17:15:49 Creating Service Type: LTR
+20/04/2022 17:19:26 Clearing Project Structure
+20/04/2022 17:19:26 Executing Action
+20/04/2022 17:19:26 Creating Service Type: Modeling
+20/04/2022 17:19:26 Creating Service Type: LTR
+20/04/2022 18:49:26 Clearing Project Structure
+20/04/2022 18:49:26 Executing Action
+20/04/2022 18:49:31 Creating Service Type: Modeling
+20/04/2022 18:49:31 Creating Service Type: LTR
+26/04/2022 10:13:09 Executing Action
+26/04/2022 10:13:14 Creating Service Type: Modeling
+26/04/2022 10:13:14 Creating Service Type: LTR
+26/04/2022 10:19:59 Executing Action
+26/04/2022 10:19:59 Creating Service Type: rs1319
+26/04/2022 10:19:59 Creating Service Type: rs1320
+26/04/2022 10:19:59 Creating Service Type: rs1321
+26/04/2022 10:19:59 Creating Service Type: rs1322
+26/04/2022 10:19:59 Creating Service Type: rs1323
+26/04/2022 10:19:59 Creating Service Type: rs1324
+26/04/2022 10:19:59 Creating Service Type: rs1325
+26/04/2022 10:19:59 Creating Service Type: rs1326
+26/04/2022 10:19:59 Creating Service Type: rs1327
+26/04/2022 10:19:59 Creating Service Type: rs1328
+26/04/2022 10:19:59 Creating Service Type: rs1329
+26/04/2022 10:19:59 Creating Service Type: rs1330
+26/04/2022 10:19:59 Creating Service Type: rs1331
+26/04/2022 10:19:59 Creating Service Type: rs1332
+26/04/2022 10:19:59 Creating Service Type: rs1333
+26/04/2022 10:19:59 Creating Service Type: rs1334
+26/04/2022 10:22:47 Clearing Project Structure
+26/04/2022 10:22:49 Executing Action
+26/04/2022 10:22:49 Creating Service Type: rs1319
+26/04/2022 10:22:49 Creating Service Type: rs1320
+26/04/2022 10:22:49 Creating Service Type: rs1321
+26/04/2022 10:22:49 Creating Service Type: rs1322
+26/04/2022 10:22:49 Creating Service Type: rs1323
+26/04/2022 10:22:49 Creating Service Type: rs1324
+26/04/2022 10:22:49 Creating Service Type: rs1325
+26/04/2022 10:22:49 Creating Service Type: rs1326
+26/04/2022 10:22:49 Creating Service Type: rs1327
+26/04/2022 10:22:49 Creating Service Type: rs1328
+26/04/2022 10:22:49 Creating Service Type: rs1329
+26/04/2022 10:22:49 Creating Service Type: rs1330
+26/04/2022 10:22:49 Creating Service Type: rs1331
+26/04/2022 10:22:49 Creating Service Type: rs1332
+26/04/2022 10:22:49 Creating Service Type: rs1333
+26/04/2022 10:22:49 Creating Service Type: rs1334
+26/04/2022 10:38:15 Clearing Project Structure
+26/04/2022 10:38:17 Executing Action
+26/04/2022 10:38:17 Creating Service Folder: rs1319
+26/04/2022 10:38:17 string indices must be integers, not str
+26/04/2022 10:39:35 Clearing Project Structure
+26/04/2022 10:39:35 Executing Action
+26/04/2022 10:39:35 Creating Service Folder: rs1319
+26/04/2022 10:39:35 0     rs1319
+1     rs1319
+2     rs1319
+3     rs1319
+4     rs1319
+5     rs1319
+6     rs1319
+7     rs1319
+8     rs1319
+9     rs1319
+10    rs1319
+11    rs1319
+12    rs1319
+13    rs1319
+14    rs1319
+15    rs1319
+16    rs1319
+Name: Pasta, dtype: object
+26/04/2022 10:39:35 string indices must be integers, not str
+26/04/2022 10:40:45 Clearing Project Structure
+26/04/2022 10:40:45 Executing Action
+26/04/2022 10:40:46 Creating Service Folder: rs1319
+26/04/2022 10:40:46 Creating Task: rs1319
+26/04/2022 10:40:46 Creating Task: sh10919
+26/04/2022 10:40:46 Creating Task: sh10924
+26/04/2022 10:40:46 Creating Task: sh10936
+26/04/2022 10:40:46 Creating Task: sh11008
+26/04/2022 10:40:46 Creating Task: sh11009
+26/04/2022 10:40:46 Creating Task: sh11016
+26/04/2022 10:40:46 Creating Task: sh11018
+26/04/2022 10:40:46 Creating Task: sh11024
+26/04/2022 10:40:46 Creating Task: sh11195
+26/04/2022 10:40:46 Creating Task: sh11200
+26/04/2022 10:40:46 Creating Task: sh11212
+26/04/2022 10:40:46 Creating Task: sh11284
+26/04/2022 10:40:46 Creating Task: sh11285
+26/04/2022 10:40:46 Creating Task: sh11292
+26/04/2022 10:40:46 Creating Task: sh11294
+26/04/2022 10:40:46 Creating Task: sh11300
+26/04/2022 10:40:46 Creating Service Folder: rs1320
+26/04/2022 10:40:46 Creating Task: rs1320
+26/04/2022 10:40:46 Creating Task: sh10886
+26/04/2022 10:40:46 Creating Task: sh10887
+26/04/2022 10:40:46 Creating Task: sh10888
+26/04/2022 10:40:46 Creating Task: sh10889
+26/04/2022 10:40:46 Creating Task: sh10890
+26/04/2022 10:40:46 Creating Task: sh10922
+26/04/2022 10:40:46 Creating Task: sh10923
+26/04/2022 10:40:46 Creating Task: sh10933
+26/04/2022 10:40:46 Creating Task: sh11002
+26/04/2022 10:40:46 Creating Task: sh11162
+26/04/2022 10:40:46 Creating Task: sh11163
+26/04/2022 10:40:46 Creating Task: sh11164
+26/04/2022 10:40:46 Creating Task: sh11165
+26/04/2022 10:40:46 Creating Task: sh11166
+26/04/2022 10:40:46 Creating Task: sh11198
+26/04/2022 10:40:46 Creating Task: sh11199
+26/04/2022 10:40:46 Creating Task: sh11209
+26/04/2022 10:40:46 Creating Task: sh11278
+26/04/2022 10:40:46 Creating Service Folder: rs1321
+26/04/2022 10:40:46 Creating Task: rs1321
+26/04/2022 10:40:46 Creating Task: sh10855
+26/04/2022 10:40:46 Creating Task: sh10857
+26/04/2022 10:40:46 Creating Task: sh10859
+26/04/2022 10:40:46 Creating Task: sh10904
+26/04/2022 10:40:46 Creating Task: sh10909
+26/04/2022 10:40:46 Creating Task: sh10914
+26/04/2022 10:40:46 Creating Task: sh10973
+26/04/2022 10:40:46 Creating Task: sh10986
+26/04/2022 10:40:46 Creating Task: sh11032
+26/04/2022 10:40:46 Creating Task: sh11034
+26/04/2022 10:40:46 Creating Task: sh11036
+26/04/2022 10:40:46 Creating Task: sh11131
+26/04/2022 10:40:46 Creating Task: sh11133
+26/04/2022 10:40:46 Creating Task: sh11135
+26/04/2022 10:40:46 Creating Task: sh11180
+26/04/2022 10:40:46 Creating Task: sh11185
+26/04/2022 10:40:46 Creating Task: sh11190
+26/04/2022 10:40:46 Creating Task: sh11249
+26/04/2022 10:40:46 Creating Task: sh11262
+26/04/2022 10:40:46 Creating Task: sh11308
+26/04/2022 10:40:46 Creating Task: sh11310
+26/04/2022 10:40:46 Creating Task: sh11312
+26/04/2022 10:40:46 Creating Service Folder: rs1322
+26/04/2022 10:40:46 Creating Task: rs1322
+26/04/2022 10:40:46 Creating Task: sh10831
+26/04/2022 10:40:46 Creating Task: sh10837
+26/04/2022 10:40:46 Creating Task: sh10921
+26/04/2022 10:40:46 Creating Task: sh10998
+26/04/2022 10:40:46 Creating Task: sh11107
+26/04/2022 10:40:46 Creating Task: sh11113
+26/04/2022 10:40:46 Creating Task: sh11197
+26/04/2022 10:40:46 Creating Task: sh11274
+26/04/2022 10:40:46 Creating Service Folder: rs1323
+26/04/2022 10:40:46 Creating Task: rs1323
+26/04/2022 10:40:46 Creating Task: sh10792
+26/04/2022 10:40:46 Creating Task: sh10793
+26/04/2022 10:40:46 Creating Task: sh10820
+26/04/2022 10:40:46 Creating Task: sh10826
+26/04/2022 10:40:46 Creating Task: sh10900
+26/04/2022 10:40:46 Creating Task: sh10906
+26/04/2022 10:40:46 Creating Task: sh10911
+26/04/2022 10:40:46 Creating Task: sh10916
+26/04/2022 10:40:46 Creating Task: sh10963
+26/04/2022 10:40:46 Creating Task: sh10964
+26/04/2022 10:40:46 Creating Task: sh10965
+26/04/2022 10:40:46 Creating Task: sh10968
+26/04/2022 10:40:46 Creating Task: sh10969
+26/04/2022 10:40:46 Creating Task: sh10970
+26/04/2022 10:40:46 Creating Task: sh10972
+26/04/2022 10:40:46 Creating Task: sh10976
+26/04/2022 10:40:46 Creating Task: sh10977
+26/04/2022 10:40:46 Creating Task: sh10978
+26/04/2022 10:40:46 Creating Task: sh10980
+26/04/2022 10:40:46 Creating Task: sh10981
+26/04/2022 10:40:46 Creating Task: sh10982
+26/04/2022 10:40:46 Creating Task: sh10984
+26/04/2022 10:40:46 Creating Task: sh10985
+26/04/2022 10:40:46 Creating Task: sh10987
+26/04/2022 10:40:46 Creating Task: sh10988
+26/04/2022 10:40:46 Creating Task: sh10989
+26/04/2022 10:40:46 Creating Task: sh10990
+26/04/2022 10:40:46 Creating Task: sh10991
+26/04/2022 10:40:46 Creating Task: sh10994
+26/04/2022 10:40:46 Creating Task: sh10995
+26/04/2022 10:40:46 Creating Task: sh10997
+26/04/2022 10:40:46 Creating Task: sh11011
+26/04/2022 10:40:46 Creating Task: sh11029
+26/04/2022 10:40:46 Creating Task: sh11031
+26/04/2022 10:40:46 Creating Task: sh11033
+26/04/2022 10:40:46 Creating Task: sh11035
+26/04/2022 10:40:46 Creating Task: sh11068
+26/04/2022 10:40:46 Creating Task: sh11069
+26/04/2022 10:40:46 Creating Task: sh11096
+26/04/2022 10:40:46 Creating Task: sh11102
+26/04/2022 10:40:46 Creating Task: sh11176
+26/04/2022 10:40:46 Creating Task: sh11182
+26/04/2022 10:40:46 Creating Task: sh11187
+26/04/2022 10:40:46 Creating Task: sh11192
+26/04/2022 10:40:46 Creating Task: sh11239
+26/04/2022 10:40:46 Creating Task: sh11240
+26/04/2022 10:40:46 Creating Task: sh11241
+26/04/2022 10:40:46 Creating Task: sh11244
+26/04/2022 10:40:46 Creating Task: sh11245
+26/04/2022 10:40:46 Creating Task: sh11246
+26/04/2022 10:40:46 Creating Task: sh11248
+26/04/2022 10:40:46 Creating Task: sh11252
+26/04/2022 10:40:46 Creating Task: sh11253
+26/04/2022 10:40:46 Creating Task: sh11254
+26/04/2022 10:40:46 Creating Task: sh11256
+26/04/2022 10:40:46 Creating Task: sh11257
+26/04/2022 10:40:46 Creating Task: sh11258
+26/04/2022 10:40:46 Creating Task: sh11260
+26/04/2022 10:40:46 Creating Task: sh11261
+26/04/2022 10:40:46 Creating Task: sh11263
+26/04/2022 10:40:46 Creating Task: sh11264
+26/04/2022 10:40:46 Creating Task: sh11265
+26/04/2022 10:40:46 Creating Task: sh11266
+26/04/2022 10:40:46 Creating Task: sh11267
+26/04/2022 10:40:46 Creating Task: sh11270
+26/04/2022 10:40:46 Creating Task: sh11271
+26/04/2022 10:40:46 Creating Task: sh11273
+26/04/2022 10:40:46 Creating Task: sh11287
+26/04/2022 10:40:46 Creating Task: sh11305
+26/04/2022 10:40:46 Creating Task: sh11307
+26/04/2022 10:40:46 Creating Task: sh11309
+26/04/2022 10:40:46 Creating Task: sh11311
+26/04/2022 10:40:46 Creating Service Folder: rs1324
+26/04/2022 10:40:46 Creating Task: rs1324
+26/04/2022 10:40:46 Creating Task: sh10784
+26/04/2022 10:40:46 Creating Task: sh10786
+26/04/2022 10:40:46 Creating Task: sh10791
+26/04/2022 10:40:46 Creating Task: sh10802
+26/04/2022 10:40:46 Creating Task: sh10813
+26/04/2022 10:40:46 Creating Task: sh10829
+26/04/2022 10:40:46 Creating Task: sh10836
+26/04/2022 10:40:46 Creating Task: sh10852
+26/04/2022 10:40:46 Creating Task: sh10894
+26/04/2022 10:40:46 Creating Task: sh10896
+26/04/2022 10:40:46 Creating Task: sh11060
+26/04/2022 10:40:46 Creating Task: sh11062
+26/04/2022 10:40:46 Creating Task: sh11067
+26/04/2022 10:40:46 Creating Task: sh11078
+26/04/2022 10:40:46 Creating Task: sh11089
+26/04/2022 10:40:46 Creating Task: sh11105
+26/04/2022 10:40:46 Creating Task: sh11112
+26/04/2022 10:40:46 Creating Task: sh11128
+26/04/2022 10:40:46 Creating Task: sh11170
+26/04/2022 10:40:46 Creating Task: sh11172
+26/04/2022 10:40:46 Creating Service Folder: rs1325
+26/04/2022 10:40:46 Creating Task: rs1325
+26/04/2022 10:40:46 Creating Task: sh10783
+26/04/2022 10:40:46 Creating Task: sh10811
+26/04/2022 10:40:46 Creating Task: sh10844
+26/04/2022 10:40:46 Creating Task: sh10846
+26/04/2022 10:40:46 Creating Task: sh10854
+26/04/2022 10:40:46 Creating Task: sh10868
+26/04/2022 10:40:46 Creating Task: sh10895
+26/04/2022 10:40:46 Creating Task: sh11059
+26/04/2022 10:40:46 Creating Task: sh11087
+26/04/2022 10:40:46 Creating Task: sh11120
+26/04/2022 10:40:46 Creating Task: sh11122
+26/04/2022 10:40:46 Creating Task: sh11130
+26/04/2022 10:40:46 Creating Task: sh11144
+26/04/2022 10:40:46 Creating Task: sh11171
+26/04/2022 10:40:46 Creating Service Folder: rs1326
+26/04/2022 10:40:46 Creating Task: rs1326
+26/04/2022 10:40:46 Creating Task: sh10773
+26/04/2022 10:40:46 Creating Task: sh10803
+26/04/2022 10:40:46 Creating Task: sh10807
+26/04/2022 10:40:46 Creating Task: sh10817
+26/04/2022 10:40:46 Creating Task: sh10819
+26/04/2022 10:40:46 Creating Task: sh10823
+26/04/2022 10:40:46 Creating Task: sh10825
+26/04/2022 10:40:46 Creating Task: sh10833
+26/04/2022 10:40:46 Creating Task: sh10856
+26/04/2022 10:40:46 Creating Task: sh10858
+26/04/2022 10:40:46 Creating Task: sh10860
+26/04/2022 10:40:46 Creating Task: sh10862
+26/04/2022 10:40:46 Creating Task: sh10865
+26/04/2022 10:40:46 Creating Task: sh10866
+26/04/2022 10:40:46 Creating Task: sh10885
+26/04/2022 10:40:46 Creating Task: sh10899
+26/04/2022 10:40:46 Creating Task: sh10902
+26/04/2022 10:40:46 Creating Task: sh10905
+26/04/2022 10:40:46 Creating Task: sh10908
+26/04/2022 10:40:46 Creating Task: sh10910
+26/04/2022 10:40:46 Creating Task: sh10912
+26/04/2022 10:40:46 Creating Task: sh10915
+26/04/2022 10:40:46 Creating Task: sh11049
+26/04/2022 10:40:46 Creating Task: sh11079
+26/04/2022 10:40:46 Creating Task: sh11083
+26/04/2022 10:40:46 Creating Task: sh11093
+26/04/2022 10:40:46 Creating Task: sh11095
+26/04/2022 10:40:46 Creating Task: sh11099
+26/04/2022 10:40:46 Creating Task: sh11101
+26/04/2022 10:40:46 Creating Task: sh11109
+26/04/2022 10:40:46 Creating Task: sh11132
+26/04/2022 10:40:46 Creating Task: sh11134
+26/04/2022 10:40:46 Creating Task: sh11136
+26/04/2022 10:40:46 Creating Task: sh11138
+26/04/2022 10:40:46 Creating Task: sh11141
+26/04/2022 10:40:46 Creating Task: sh11142
+26/04/2022 10:40:46 Creating Task: sh11161
+26/04/2022 10:40:46 Creating Task: sh11175
+26/04/2022 10:40:46 Creating Task: sh11178
+26/04/2022 10:40:46 Creating Task: sh11181
+26/04/2022 10:40:46 Creating Task: sh11184
+26/04/2022 10:40:46 Creating Task: sh11186
+26/04/2022 10:40:46 Creating Task: sh11188
+26/04/2022 10:40:46 Creating Task: sh11191
+26/04/2022 10:40:46 Creating Service Folder: rs1327
+26/04/2022 10:40:46 Creating Task: rs1327
+26/04/2022 10:40:46 Creating Task: sh10775
+26/04/2022 10:40:46 Creating Task: sh10780
+26/04/2022 10:40:46 Creating Task: sh10781
+26/04/2022 10:40:46 Creating Task: sh10788
+26/04/2022 10:40:46 Creating Task: sh10790
+26/04/2022 10:40:46 Creating Task: sh10796
+26/04/2022 10:40:46 Creating Task: sh10798
+26/04/2022 10:40:46 Creating Task: sh10804
+26/04/2022 10:40:46 Creating Task: sh10806
+26/04/2022 10:40:46 Creating Task: sh10808
+26/04/2022 10:40:46 Creating Task: sh10809
+26/04/2022 10:40:46 Creating Task: sh10810
+26/04/2022 10:40:46 Creating Task: sh10812
+26/04/2022 10:40:46 Creating Task: sh10815
+26/04/2022 10:40:46 Creating Task: sh10821
+26/04/2022 10:40:46 Creating Task: sh10822
+26/04/2022 10:40:46 Creating Task: sh10828
+26/04/2022 10:40:46 Creating Task: sh10832
+26/04/2022 10:40:46 Creating Task: sh10838
+26/04/2022 10:40:46 Creating Task: sh10840
+26/04/2022 10:40:46 Creating Task: sh10842
+26/04/2022 10:40:46 Creating Task: sh10847
+26/04/2022 10:40:46 Creating Task: sh10848
+26/04/2022 10:40:46 Creating Task: sh10849
+26/04/2022 10:40:46 Creating Task: sh10850
+26/04/2022 10:40:46 Creating Task: sh10861
+26/04/2022 10:40:46 Creating Task: sh10863
+26/04/2022 10:40:46 Creating Task: sh10873
+26/04/2022 10:40:46 Creating Task: sh10875
+26/04/2022 10:40:46 Creating Task: sh10876
+26/04/2022 10:40:46 Creating Task: sh10880
+26/04/2022 10:40:46 Creating Task: sh10892
+26/04/2022 10:40:46 Creating Task: sh10917
+26/04/2022 10:40:46 Creating Task: sh10929
+26/04/2022 10:40:46 Creating Task: sh10930
+26/04/2022 10:40:46 Creating Task: sh10931
+26/04/2022 10:40:46 Creating Task: sh10932
+26/04/2022 10:40:46 Creating Task: sh10934
+26/04/2022 10:40:46 Creating Task: sh10935
+26/04/2022 10:40:46 Creating Task: sh10937
+26/04/2022 10:40:46 Creating Task: sh10938
+26/04/2022 10:40:46 Creating Task: sh10939
+26/04/2022 10:40:46 Creating Task: sh10944
+26/04/2022 10:40:46 Creating Task: sh10945
+26/04/2022 10:40:46 Creating Task: sh10946
+26/04/2022 10:40:46 Creating Task: sh10947
+26/04/2022 10:40:46 Creating Task: sh10948
+26/04/2022 10:40:46 Creating Task: sh10949
+26/04/2022 10:40:46 Creating Task: sh10950
+26/04/2022 10:40:46 Creating Task: sh10951
+26/04/2022 10:40:46 Creating Task: sh10952
+26/04/2022 10:40:46 Creating Task: sh10954
+26/04/2022 10:40:46 Creating Task: sh10956
+26/04/2022 10:40:46 Creating Task: sh10957
+26/04/2022 10:40:46 Creating Task: sh10960
+26/04/2022 10:40:46 Creating Task: sh10961
+26/04/2022 10:40:46 Creating Task: sh10962
+26/04/2022 10:40:46 Creating Task: sh10996
+26/04/2022 10:40:46 Creating Task: sh11000
+26/04/2022 10:40:46 Creating Task: sh11001
+26/04/2022 10:40:46 Creating Task: sh11004
+26/04/2022 10:40:46 Creating Task: sh11005
+26/04/2022 10:40:46 Creating Task: sh11006
+26/04/2022 10:40:46 Creating Task: sh11028
+26/04/2022 10:40:46 Creating Task: sh11051
+26/04/2022 10:40:46 Creating Task: sh11056
+26/04/2022 10:40:46 Creating Task: sh11057
+26/04/2022 10:40:46 Creating Task: sh11064
+26/04/2022 10:40:46 Creating Task: sh11066
+26/04/2022 10:40:46 Creating Task: sh11072
+26/04/2022 10:40:46 Creating Task: sh11074
+26/04/2022 10:40:46 Creating Task: sh11080
+26/04/2022 10:40:46 Creating Task: sh11082
+26/04/2022 10:40:46 Creating Task: sh11084
+26/04/2022 10:40:46 Creating Task: sh11085
+26/04/2022 10:40:46 Creating Task: sh11086
+26/04/2022 10:40:46 Creating Task: sh11088
+26/04/2022 10:40:46 Creating Task: sh11091
+26/04/2022 10:40:46 Creating Task: sh11097
+26/04/2022 10:40:46 Creating Task: sh11098
+26/04/2022 10:40:46 Creating Task: sh11104
+26/04/2022 10:40:46 Creating Task: sh11108
+26/04/2022 10:40:46 Creating Task: sh11114
+26/04/2022 10:40:46 Creating Task: sh11116
+26/04/2022 10:40:46 Creating Task: sh11118
+26/04/2022 10:40:46 Creating Task: sh11123
+26/04/2022 10:40:46 Creating Task: sh11124
+26/04/2022 10:40:46 Creating Task: sh11125
+26/04/2022 10:40:46 Creating Task: sh11126
+26/04/2022 10:40:46 Creating Task: sh11137
+26/04/2022 10:40:46 Creating Task: sh11139
+26/04/2022 10:40:46 Creating Task: sh11149
+26/04/2022 10:40:46 Creating Task: sh11151
+26/04/2022 10:40:46 Creating Task: sh11152
+26/04/2022 10:40:46 Creating Task: sh11156
+26/04/2022 10:40:46 Creating Task: sh11168
+26/04/2022 10:40:46 Creating Task: sh11193
+26/04/2022 10:40:46 Creating Task: sh11205
+26/04/2022 10:40:46 Creating Task: sh11206
+26/04/2022 10:40:46 Creating Task: sh11207
+26/04/2022 10:40:46 Creating Task: sh11208
+26/04/2022 10:40:46 Creating Task: sh11210
+26/04/2022 10:40:46 Creating Task: sh11211
+26/04/2022 10:40:46 Creating Task: sh11213
+26/04/2022 10:40:46 Creating Task: sh11214
+26/04/2022 10:40:46 Creating Task: sh11215
+26/04/2022 10:40:46 Creating Task: sh11220
+26/04/2022 10:40:46 Creating Task: sh11221
+26/04/2022 10:40:46 Creating Task: sh11222
+26/04/2022 10:40:46 Creating Task: sh11223
+26/04/2022 10:40:46 Creating Task: sh11224
+26/04/2022 10:40:46 Creating Task: sh11225
+26/04/2022 10:40:46 Creating Task: sh11226
+26/04/2022 10:40:46 Creating Task: sh11227
+26/04/2022 10:40:46 Creating Task: sh11228
+26/04/2022 10:40:46 Creating Task: sh11230
+26/04/2022 10:40:46 Creating Task: sh11232
+26/04/2022 10:40:46 Creating Task: sh11233
+26/04/2022 10:40:46 Creating Task: sh11236
+26/04/2022 10:40:46 Creating Task: sh11237
+26/04/2022 10:40:46 Creating Task: sh11238
+26/04/2022 10:40:46 Creating Task: sh11272
+26/04/2022 10:40:46 Creating Task: sh11276
+26/04/2022 10:40:46 Creating Task: sh11277
+26/04/2022 10:40:46 Creating Task: sh11280
+26/04/2022 10:40:46 Creating Task: sh11281
+26/04/2022 10:40:46 Creating Task: sh11282
+26/04/2022 10:40:46 Creating Task: sh11304
+26/04/2022 10:40:46 Creating Service Folder: rs1328
+26/04/2022 10:40:46 Creating Task: rs1328
+26/04/2022 10:40:46 Creating Task: sh10774
+26/04/2022 10:40:46 Creating Task: sh10799
+26/04/2022 10:40:46 Creating Task: sh10816
+26/04/2022 10:40:46 Creating Task: sh10834
+26/04/2022 10:40:46 Creating Task: sh10864
+26/04/2022 10:40:46 Creating Task: sh10869
+26/04/2022 10:40:46 Creating Task: sh10870
+26/04/2022 10:40:46 Creating Task: sh10881
+26/04/2022 10:40:46 Creating Task: sh10882
+26/04/2022 10:40:46 Creating Task: sh10953
+26/04/2022 10:40:46 Creating Task: sh10955
+26/04/2022 10:40:46 Creating Task: sh10958
+26/04/2022 10:40:46 Creating Task: sh10959
+26/04/2022 10:40:46 Creating Task: sh11050
+26/04/2022 10:40:46 Creating Task: sh11075
+26/04/2022 10:40:46 Creating Task: sh11092
+26/04/2022 10:40:46 Creating Task: sh11110
+26/04/2022 10:40:46 Creating Task: sh11140
+26/04/2022 10:40:46 Creating Task: sh11145
+26/04/2022 10:40:46 Creating Task: sh11146
+26/04/2022 10:40:46 Creating Task: sh11157
+26/04/2022 10:40:46 Creating Task: sh11158
+26/04/2022 10:40:46 Creating Task: sh11229
+26/04/2022 10:40:46 Creating Task: sh11231
+26/04/2022 10:40:46 Creating Task: sh11234
+26/04/2022 10:40:46 Creating Task: sh11235
+26/04/2022 10:40:46 Creating Service Folder: rs1329
+26/04/2022 10:40:46 Creating Task: rs1329
+26/04/2022 10:40:46 Creating Task: sh10771
+26/04/2022 10:40:46 Creating Task: sh10777
+26/04/2022 10:40:46 Creating Task: sh10785
+26/04/2022 10:40:46 Creating Task: sh10787
+26/04/2022 10:40:46 Creating Task: sh10839
+26/04/2022 10:40:46 Creating Task: sh10845
+26/04/2022 10:40:46 Creating Task: sh10877
+26/04/2022 10:40:46 Creating Task: sh10897
+26/04/2022 10:40:46 Creating Task: sh11047
+26/04/2022 10:40:46 Creating Task: sh11053
+26/04/2022 10:40:46 Creating Task: sh11061
+26/04/2022 10:40:46 Creating Task: sh11063
+26/04/2022 10:40:46 Creating Task: sh11115
+26/04/2022 10:40:46 Creating Task: sh11121
+26/04/2022 10:40:46 Creating Task: sh11153
+26/04/2022 10:40:46 Creating Task: sh11173
+26/04/2022 10:40:46 Creating Service Folder: rs1330
+26/04/2022 10:40:46 Creating Task: rs1330
+26/04/2022 10:40:46 Creating Task: sh10769
+26/04/2022 10:40:46 Creating Task: sh10794
+26/04/2022 10:40:46 Creating Task: sh10795
+26/04/2022 10:40:46 Creating Task: sh10814
+26/04/2022 10:40:46 Creating Task: sh10818
+26/04/2022 10:40:46 Creating Task: sh10824
+26/04/2022 10:40:46 Creating Task: sh10835
+26/04/2022 10:40:46 Creating Task: sh10851
+26/04/2022 10:40:46 Creating Task: sh10853
+26/04/2022 10:40:46 Creating Task: sh10867
+26/04/2022 10:40:46 Creating Task: sh10871
+26/04/2022 10:40:46 Creating Task: sh10918
+26/04/2022 10:40:46 Creating Task: sh10925
+26/04/2022 10:40:46 Creating Task: sh10926
+26/04/2022 10:40:46 Creating Task: sh10927
+26/04/2022 10:40:46 Creating Task: sh10928
+26/04/2022 10:40:46 Creating Task: sh10940
+26/04/2022 10:40:46 Creating Task: sh10942
+26/04/2022 10:40:46 Creating Task: sh10943
+26/04/2022 10:40:46 Creating Task: sh11012
+26/04/2022 10:40:46 Creating Task: sh11013
+26/04/2022 10:40:46 Creating Task: sh11014
+26/04/2022 10:40:46 Creating Task: sh11015
+26/04/2022 10:40:46 Creating Task: sh11037
+26/04/2022 10:40:46 Creating Task: sh11038
+26/04/2022 10:40:46 Creating Task: sh11045
+26/04/2022 10:40:46 Creating Task: sh11070
+26/04/2022 10:40:46 Creating Task: sh11071
+26/04/2022 10:40:46 Creating Task: sh11090
+26/04/2022 10:40:46 Creating Task: sh11094
+26/04/2022 10:40:46 Creating Task: sh11100
+26/04/2022 10:40:46 Creating Task: sh11111
+26/04/2022 10:40:46 Creating Task: sh11127
+26/04/2022 10:40:46 Creating Task: sh11129
+26/04/2022 10:40:46 Creating Task: sh11143
+26/04/2022 10:40:46 Creating Task: sh11147
+26/04/2022 10:40:46 Creating Task: sh11194
+26/04/2022 10:40:46 Creating Task: sh11201
+26/04/2022 10:40:46 Creating Task: sh11202
+26/04/2022 10:40:46 Creating Task: sh11203
+26/04/2022 10:40:46 Creating Task: sh11204
+26/04/2022 10:40:46 Creating Task: sh11216
+26/04/2022 10:40:46 Creating Task: sh11218
+26/04/2022 10:40:46 Creating Task: sh11219
+26/04/2022 10:40:46 Creating Task: sh11288
+26/04/2022 10:40:46 Creating Task: sh11289
+26/04/2022 10:40:46 Creating Task: sh11290
+26/04/2022 10:40:46 Creating Task: sh11291
+26/04/2022 10:40:46 Creating Task: sh11313
+26/04/2022 10:40:46 Creating Task: sh11314
+26/04/2022 10:40:46 Creating Service Folder: rs1331
+26/04/2022 10:40:46 Creating Task: rs1331
+26/04/2022 10:40:46 Creating Task: sh10765
+26/04/2022 10:40:46 Creating Task: sh10768
+26/04/2022 10:40:46 Creating Task: sh10797
+26/04/2022 10:40:46 Creating Task: sh10800
+26/04/2022 10:40:46 Creating Task: sh10801
+26/04/2022 10:40:46 Creating Task: sh10805
+26/04/2022 10:40:46 Creating Task: sh10827
+26/04/2022 10:40:46 Creating Task: sh10872
+26/04/2022 10:40:46 Creating Task: sh10891
+26/04/2022 10:40:46 Creating Task: sh10893
+26/04/2022 10:40:46 Creating Task: sh10920
+26/04/2022 10:40:46 Creating Task: sh11020
+26/04/2022 10:40:46 Creating Task: sh11022
+26/04/2022 10:40:46 Creating Task: sh11026
+26/04/2022 10:40:46 Creating Task: sh11030
+26/04/2022 10:40:46 Creating Task: sh11041
+26/04/2022 10:40:46 Creating Task: sh11044
+26/04/2022 10:40:46 Creating Task: sh11073
+26/04/2022 10:40:46 Creating Task: sh11076
+26/04/2022 10:40:46 Creating Task: sh11077
+26/04/2022 10:40:46 Creating Task: sh11081
+26/04/2022 10:40:46 Creating Task: sh11103
+26/04/2022 10:40:46 Creating Task: sh11148
+26/04/2022 10:40:46 Creating Task: sh11167
+26/04/2022 10:40:46 Creating Task: sh11169
+26/04/2022 10:40:46 Creating Task: sh11196
+26/04/2022 10:40:46 Creating Task: sh11296
+26/04/2022 10:40:46 Creating Task: sh11298
+26/04/2022 10:40:46 Creating Task: sh11302
+26/04/2022 10:40:46 Creating Task: sh11306
+26/04/2022 10:40:46 Creating Service Folder: rs1332
+26/04/2022 10:40:46 Creating Task: rs1332
+26/04/2022 10:40:46 Creating Task: sh10766
+26/04/2022 10:40:46 Creating Task: sh10767
+26/04/2022 10:40:46 Creating Task: sh10770
+26/04/2022 10:40:46 Creating Task: sh10776
+26/04/2022 10:40:46 Creating Task: sh10830
+26/04/2022 10:40:46 Creating Task: sh10843
+26/04/2022 10:40:46 Creating Task: sh10941
+26/04/2022 10:40:46 Creating Task: sh11007
+26/04/2022 10:40:46 Creating Task: sh11042
+26/04/2022 10:40:46 Creating Task: sh11043
+26/04/2022 10:40:46 Creating Task: sh11046
+26/04/2022 10:40:46 Creating Task: sh11052
+26/04/2022 10:40:46 Creating Task: sh11106
+26/04/2022 10:40:46 Creating Task: sh11119
+26/04/2022 10:40:46 Creating Task: sh11217
+26/04/2022 10:40:46 Creating Task: sh11283
+26/04/2022 10:40:46 Creating Service Folder: rs1333
+26/04/2022 10:40:46 Creating Task: rs1333
+26/04/2022 10:40:46 Creating Task: sh10764
+26/04/2022 10:40:46 Creating Task: sh10772
+26/04/2022 10:40:46 Creating Task: sh10778
+26/04/2022 10:40:46 Creating Task: sh10779
+26/04/2022 10:40:46 Creating Task: sh10782
+26/04/2022 10:40:46 Creating Task: sh10789
+26/04/2022 10:40:46 Creating Task: sh10841
+26/04/2022 10:40:46 Creating Task: sh10874
+26/04/2022 10:40:46 Creating Task: sh10878
+26/04/2022 10:40:46 Creating Task: sh10879
+26/04/2022 10:40:46 Creating Task: sh10883
+26/04/2022 10:40:46 Creating Task: sh10884
+26/04/2022 10:40:46 Creating Task: sh10898
+26/04/2022 10:40:46 Creating Task: sh10901
+26/04/2022 10:40:46 Creating Task: sh10903
+26/04/2022 10:40:47 Creating Task: sh10907
+26/04/2022 10:40:47 Creating Task: sh10913
+26/04/2022 10:40:47 Creating Task: sh10966
+26/04/2022 10:40:47 Creating Task: sh10967
+26/04/2022 10:40:47 Creating Task: sh10971
+26/04/2022 10:40:47 Creating Task: sh10974
+26/04/2022 10:40:47 Creating Task: sh10975
+26/04/2022 10:40:47 Creating Task: sh10979
+26/04/2022 10:40:47 Creating Task: sh10983
+26/04/2022 10:40:47 Creating Task: sh10992
+26/04/2022 10:40:47 Creating Task: sh10993
+26/04/2022 10:40:47 Creating Task: sh10999
+26/04/2022 10:40:47 Creating Task: sh11003
+26/04/2022 10:40:47 Creating Task: sh11010
+26/04/2022 10:40:47 Creating Task: sh11017
+26/04/2022 10:40:47 Creating Task: sh11019
+26/04/2022 10:40:47 Creating Task: sh11021
+26/04/2022 10:40:47 Creating Task: sh11023
+26/04/2022 10:40:47 Creating Task: sh11025
+26/04/2022 10:40:47 Creating Task: sh11027
+26/04/2022 10:40:47 Creating Task: sh11040
+26/04/2022 10:40:47 Creating Task: sh11048
+26/04/2022 10:40:47 Creating Task: sh11054
+26/04/2022 10:40:47 Creating Task: sh11055
+26/04/2022 10:40:47 Creating Task: sh11058
+26/04/2022 10:40:47 Creating Task: sh11065
+26/04/2022 10:40:47 Creating Task: sh11117
+26/04/2022 10:40:47 Creating Task: sh11150
+26/04/2022 10:40:47 Creating Task: sh11154
+26/04/2022 10:40:47 Creating Task: sh11155
+26/04/2022 10:40:47 Creating Task: sh11159
+26/04/2022 10:40:47 Creating Task: sh11160
+26/04/2022 10:40:47 Creating Task: sh11174
+26/04/2022 10:40:47 Creating Task: sh11177
+26/04/2022 10:40:47 Creating Task: sh11179
+26/04/2022 10:40:47 Creating Task: sh11183
+26/04/2022 10:40:47 Creating Task: sh11189
+26/04/2022 10:40:47 Creating Task: sh11242
+26/04/2022 10:40:47 Creating Task: sh11243
+26/04/2022 10:40:47 Creating Task: sh11247
+26/04/2022 10:40:47 Creating Task: sh11250
+26/04/2022 10:40:47 Creating Task: sh11251
+26/04/2022 10:40:47 Creating Task: sh11255
+26/04/2022 10:40:47 Creating Task: sh11259
+26/04/2022 10:40:47 Creating Task: sh11268
+26/04/2022 10:40:47 Creating Task: sh11269
+26/04/2022 10:40:47 Creating Task: sh11275
+26/04/2022 10:40:47 Creating Task: sh11279
+26/04/2022 10:40:47 Creating Task: sh11286
+26/04/2022 10:40:47 Creating Task: sh11293
+26/04/2022 10:40:47 Creating Task: sh11295
+26/04/2022 10:40:47 Creating Task: sh11297
+26/04/2022 10:40:47 Creating Task: sh11299
+26/04/2022 10:40:47 Creating Task: sh11301
+26/04/2022 10:40:47 Creating Task: sh11303
+26/04/2022 10:40:47 Creating Service Folder: rs1334
+26/04/2022 10:40:47 Creating Task: rs1334
+26/04/2022 10:40:47 Creating Task: sh11039
+26/04/2022 10:40:47 Creating Task: sh11315
+26/04/2022 11:02:46 Clearing Project Structure
+26/04/2022 11:03:35 Executing Action
+26/04/2022 11:03:36 Creating Service Folder: rs1319
+26/04/2022 11:03:36 Creating Task: rs1319
+26/04/2022 11:03:36 Creating Task: sh10919
+26/04/2022 11:03:36 Creating Task: sh10924
+26/04/2022 11:03:36 Creating Task: sh10936
+26/04/2022 11:03:36 Creating Task: sh11008
+26/04/2022 11:03:36 Creating Task: sh11009
+26/04/2022 11:03:36 Creating Task: sh11016
+26/04/2022 11:03:36 Creating Task: sh11018
+26/04/2022 11:03:36 Creating Task: sh11024
+26/04/2022 11:03:36 Creating Task: sh11195
+26/04/2022 11:03:36 Creating Task: sh11200
+26/04/2022 11:03:36 Creating Task: sh11212
+26/04/2022 11:03:36 Creating Task: sh11284
+26/04/2022 11:03:36 Creating Task: sh11285
+26/04/2022 11:03:36 Creating Task: sh11292
+26/04/2022 11:03:36 Creating Task: sh11294
+26/04/2022 11:03:36 Creating Task: sh11300
+26/04/2022 11:03:36 Creating Service Folder: rs1320
+26/04/2022 11:03:36 Creating Task: rs1320
+26/04/2022 11:03:36 Creating Task: sh10886
+26/04/2022 11:03:36 Creating Task: sh10887
+26/04/2022 11:03:36 Creating Task: sh10888
+26/04/2022 11:03:36 Creating Task: sh10889
+26/04/2022 11:03:36 Creating Task: sh10890
+26/04/2022 11:03:36 Creating Task: sh10922
+26/04/2022 11:03:36 Creating Task: sh10923
+26/04/2022 11:03:36 Creating Task: sh10933
+26/04/2022 11:03:36 Creating Task: sh11002
+26/04/2022 11:03:36 Creating Task: sh11162
+26/04/2022 11:03:36 Creating Task: sh11163
+26/04/2022 11:03:36 Creating Task: sh11164
+26/04/2022 11:03:36 Creating Task: sh11165
+26/04/2022 11:03:36 Creating Task: sh11166
+26/04/2022 11:03:36 Creating Task: sh11198
+26/04/2022 11:03:36 Creating Task: sh11199
+26/04/2022 11:03:36 Creating Task: sh11209
+26/04/2022 11:03:36 Creating Task: sh11278
+26/04/2022 11:03:36 Creating Service Folder: rs1321
+26/04/2022 11:03:36 Creating Task: rs1321
+26/04/2022 11:03:36 Creating Task: sh10855
+26/04/2022 11:03:36 Creating Task: sh10857
+26/04/2022 11:03:36 Creating Task: sh10859
+26/04/2022 11:03:36 Creating Task: sh10904
+26/04/2022 11:03:36 Creating Task: sh10909
+26/04/2022 11:03:36 Creating Task: sh10914
+26/04/2022 11:03:36 Creating Task: sh10973
+26/04/2022 11:03:36 Creating Task: sh10986
+26/04/2022 11:03:36 Creating Task: sh11032
+26/04/2022 11:03:36 Creating Task: sh11034
+26/04/2022 11:03:36 Creating Task: sh11036
+26/04/2022 11:03:36 Creating Task: sh11131
+26/04/2022 11:03:36 Creating Task: sh11133
+26/04/2022 11:03:36 Creating Task: sh11135
+26/04/2022 11:03:36 Creating Task: sh11180
+26/04/2022 11:03:36 Creating Task: sh11185
+26/04/2022 11:03:36 Creating Task: sh11190
+26/04/2022 11:03:36 Creating Task: sh11249
+26/04/2022 11:03:36 Creating Task: sh11262
+26/04/2022 11:03:36 Creating Task: sh11308
+26/04/2022 11:03:36 Creating Task: sh11310
+26/04/2022 11:03:36 Creating Task: sh11312
+26/04/2022 11:03:36 Creating Service Folder: rs1322
+26/04/2022 11:03:36 Creating Task: rs1322
+26/04/2022 11:03:36 Creating Task: sh10831
+26/04/2022 11:03:36 Creating Task: sh10837
+26/04/2022 11:03:36 Creating Task: sh10921
+26/04/2022 11:03:36 Creating Task: sh10998
+26/04/2022 11:03:36 Creating Task: sh11107
+26/04/2022 11:03:36 Creating Task: sh11113
+26/04/2022 11:03:36 Creating Task: sh11197
+26/04/2022 11:03:36 Creating Task: sh11274
+26/04/2022 11:03:36 Creating Service Folder: rs1323
+26/04/2022 11:03:36 Creating Task: rs1323
+26/04/2022 11:03:36 Creating Task: sh10792
+26/04/2022 11:03:36 Creating Task: sh10793
+26/04/2022 11:03:36 Creating Task: sh10820
+26/04/2022 11:03:36 Creating Task: sh10826
+26/04/2022 11:03:36 Creating Task: sh10900
+26/04/2022 11:03:36 Creating Task: sh10906
+26/04/2022 11:03:36 Creating Task: sh10911
+26/04/2022 11:03:36 Creating Task: sh10916
+26/04/2022 11:03:36 Creating Task: sh10963
+26/04/2022 11:03:36 Creating Task: sh10964
+26/04/2022 11:03:36 Creating Task: sh10965
+26/04/2022 11:03:36 Creating Task: sh10968
+26/04/2022 11:03:36 Creating Task: sh10969
+26/04/2022 11:03:36 Creating Task: sh10970
+26/04/2022 11:03:36 Creating Task: sh10972
+26/04/2022 11:03:36 Creating Task: sh10976
+26/04/2022 11:03:36 Creating Task: sh10977
+26/04/2022 11:03:36 Creating Task: sh10978
+26/04/2022 11:03:36 Creating Task: sh10980
+26/04/2022 11:03:36 Creating Task: sh10981
+26/04/2022 11:03:36 Creating Task: sh10982
+26/04/2022 11:03:36 Creating Task: sh10984
+26/04/2022 11:03:36 Creating Task: sh10985
+26/04/2022 11:03:36 Creating Task: sh10987
+26/04/2022 11:03:36 Creating Task: sh10988
+26/04/2022 11:03:36 Creating Task: sh10989
+26/04/2022 11:03:36 Creating Task: sh10990
+26/04/2022 11:03:36 Creating Task: sh10991
+26/04/2022 11:03:36 Creating Task: sh10994
+26/04/2022 11:03:36 Creating Task: sh10995
+26/04/2022 11:03:36 Creating Task: sh10997
+26/04/2022 11:03:36 Creating Task: sh11011
+26/04/2022 11:03:36 Creating Task: sh11029
+26/04/2022 11:03:36 Creating Task: sh11031
+26/04/2022 11:03:36 Creating Task: sh11033
+26/04/2022 11:03:36 Creating Task: sh11035
+26/04/2022 11:03:36 Creating Task: sh11068
+26/04/2022 11:03:36 Creating Task: sh11069
+26/04/2022 11:03:36 Creating Task: sh11096
+26/04/2022 11:03:36 Creating Task: sh11102
+26/04/2022 11:03:36 Creating Task: sh11176
+26/04/2022 11:03:36 Creating Task: sh11182
+26/04/2022 11:03:36 Creating Task: sh11187
+26/04/2022 11:03:36 Creating Task: sh11192
+26/04/2022 11:03:36 Creating Task: sh11239
+26/04/2022 11:03:36 Creating Task: sh11240
+26/04/2022 11:03:36 Creating Task: sh11241
+26/04/2022 11:03:36 Creating Task: sh11244
+26/04/2022 11:03:36 Creating Task: sh11245
+26/04/2022 11:03:36 Creating Task: sh11246
+26/04/2022 11:03:36 Creating Task: sh11248
+26/04/2022 11:03:36 Creating Task: sh11252
+26/04/2022 11:03:36 Creating Task: sh11253
+26/04/2022 11:03:36 Creating Task: sh11254
+26/04/2022 11:03:36 Creating Task: sh11256
+26/04/2022 11:03:36 Creating Task: sh11257
+26/04/2022 11:03:36 Creating Task: sh11258
+26/04/2022 11:03:36 Creating Task: sh11260
+26/04/2022 11:03:36 Creating Task: sh11261
+26/04/2022 11:03:36 Creating Task: sh11263
+26/04/2022 11:03:36 Creating Task: sh11264
+26/04/2022 11:03:36 Creating Task: sh11265
+26/04/2022 11:03:36 Creating Task: sh11266
+26/04/2022 11:03:36 Creating Task: sh11267
+26/04/2022 11:03:36 Creating Task: sh11270
+26/04/2022 11:03:36 Creating Task: sh11271
+26/04/2022 11:03:36 Creating Task: sh11273
+26/04/2022 11:03:36 Creating Task: sh11287
+26/04/2022 11:03:36 Creating Task: sh11305
+26/04/2022 11:03:36 Creating Task: sh11307
+26/04/2022 11:03:36 Creating Task: sh11309
+26/04/2022 11:03:36 Creating Task: sh11311
+26/04/2022 11:03:36 Creating Service Folder: rs1324
+26/04/2022 11:03:36 Creating Task: rs1324
+26/04/2022 11:03:36 Creating Task: sh10784
+26/04/2022 11:03:36 Creating Task: sh10786
+26/04/2022 11:03:36 Creating Task: sh10791
+26/04/2022 11:03:36 Creating Task: sh10802
+26/04/2022 11:03:36 Creating Task: sh10813
+26/04/2022 11:03:36 Creating Task: sh10829
+26/04/2022 11:03:36 Creating Task: sh10836
+26/04/2022 11:03:36 Creating Task: sh10852
+26/04/2022 11:03:36 Creating Task: sh10894
+26/04/2022 11:03:36 Creating Task: sh10896
+26/04/2022 11:03:36 Creating Task: sh11060
+26/04/2022 11:03:36 Creating Task: sh11062
+26/04/2022 11:03:36 Creating Task: sh11067
+26/04/2022 11:03:36 Creating Task: sh11078
+26/04/2022 11:03:36 Creating Task: sh11089
+26/04/2022 11:03:36 Creating Task: sh11105
+26/04/2022 11:03:36 Creating Task: sh11112
+26/04/2022 11:03:36 Creating Task: sh11128
+26/04/2022 11:03:36 Creating Task: sh11170
+26/04/2022 11:03:36 Creating Task: sh11172
+26/04/2022 11:03:36 Creating Service Folder: rs1325
+26/04/2022 11:03:36 Creating Task: rs1325
+26/04/2022 11:03:36 Creating Task: sh10783
+26/04/2022 11:03:36 Creating Task: sh10811
+26/04/2022 11:03:36 Creating Task: sh10844
+26/04/2022 11:03:36 Creating Task: sh10846
+26/04/2022 11:03:36 Creating Task: sh10854
+26/04/2022 11:03:36 Creating Task: sh10868
+26/04/2022 11:03:36 Creating Task: sh10895
+26/04/2022 11:03:36 Creating Task: sh11059
+26/04/2022 11:03:36 Creating Task: sh11087
+26/04/2022 11:03:36 Creating Task: sh11120
+26/04/2022 11:03:36 Creating Task: sh11122
+26/04/2022 11:03:36 Creating Task: sh11130
+26/04/2022 11:03:36 Creating Task: sh11144
+26/04/2022 11:03:36 Creating Task: sh11171
+26/04/2022 11:03:36 Creating Service Folder: rs1326
+26/04/2022 11:03:36 Creating Task: rs1326
+26/04/2022 11:03:36 Creating Task: sh10773
+26/04/2022 11:03:36 Creating Task: sh10803
+26/04/2022 11:03:36 Creating Task: sh10807
+26/04/2022 11:03:36 Creating Task: sh10817
+26/04/2022 11:03:36 Creating Task: sh10819
+26/04/2022 11:03:36 Creating Task: sh10823
+26/04/2022 11:03:36 Creating Task: sh10825
+26/04/2022 11:03:36 Creating Task: sh10833
+26/04/2022 11:03:36 Creating Task: sh10856
+26/04/2022 11:03:36 Creating Task: sh10858
+26/04/2022 11:03:36 Creating Task: sh10860
+26/04/2022 11:03:36 Creating Task: sh10862
+26/04/2022 11:03:36 Creating Task: sh10865
+26/04/2022 11:03:36 Creating Task: sh10866
+26/04/2022 11:03:36 Creating Task: sh10885
+26/04/2022 11:03:36 Creating Task: sh10899
+26/04/2022 11:03:36 Creating Task: sh10902
+26/04/2022 11:03:36 Creating Task: sh10905
+26/04/2022 11:03:36 Creating Task: sh10908
+26/04/2022 11:03:36 Creating Task: sh10910
+26/04/2022 11:03:36 Creating Task: sh10912
+26/04/2022 11:03:36 Creating Task: sh10915
+26/04/2022 11:03:36 Creating Task: sh11049
+26/04/2022 11:03:36 Creating Task: sh11079
+26/04/2022 11:03:36 Creating Task: sh11083
+26/04/2022 11:03:36 Creating Task: sh11093
+26/04/2022 11:03:36 Creating Task: sh11095
+26/04/2022 11:03:36 Creating Task: sh11099
+26/04/2022 11:03:36 Creating Task: sh11101
+26/04/2022 11:03:36 Creating Task: sh11109
+26/04/2022 11:03:36 Creating Task: sh11132
+26/04/2022 11:03:36 Creating Task: sh11134
+26/04/2022 11:03:36 Creating Task: sh11136
+26/04/2022 11:03:36 Creating Task: sh11138
+26/04/2022 11:03:36 Creating Task: sh11141
+26/04/2022 11:03:36 Creating Task: sh11142
+26/04/2022 11:03:36 Creating Task: sh11161
+26/04/2022 11:03:36 Creating Task: sh11175
+26/04/2022 11:03:36 Creating Task: sh11178
+26/04/2022 11:03:36 Creating Task: sh11181
+26/04/2022 11:03:36 Creating Task: sh11184
+26/04/2022 11:03:36 Creating Task: sh11186
+26/04/2022 11:03:36 Creating Task: sh11188
+26/04/2022 11:03:36 Creating Task: sh11191
+26/04/2022 11:03:36 Creating Service Folder: rs1327
+26/04/2022 11:03:36 Creating Task: rs1327
+26/04/2022 11:03:36 Creating Task: sh10775
+26/04/2022 11:03:36 Creating Task: sh10780
+26/04/2022 11:03:36 Creating Task: sh10781
+26/04/2022 11:03:36 Creating Task: sh10788
+26/04/2022 11:03:36 Creating Task: sh10790
+26/04/2022 11:03:36 Creating Task: sh10796
+26/04/2022 11:03:36 Creating Task: sh10798
+26/04/2022 11:03:36 Creating Task: sh10804
+26/04/2022 11:03:36 Creating Task: sh10806
+26/04/2022 11:03:36 Creating Task: sh10808
+26/04/2022 11:03:36 Creating Task: sh10809
+26/04/2022 11:03:36 Creating Task: sh10810
+26/04/2022 11:03:36 Creating Task: sh10812
+26/04/2022 11:03:36 Creating Task: sh10815
+26/04/2022 11:03:36 Creating Task: sh10821
+26/04/2022 11:03:36 Creating Task: sh10822
+26/04/2022 11:03:36 Creating Task: sh10828
+26/04/2022 11:03:36 Creating Task: sh10832
+26/04/2022 11:03:36 Creating Task: sh10838
+26/04/2022 11:03:36 Creating Task: sh10840
+26/04/2022 11:03:36 Creating Task: sh10842
+26/04/2022 11:03:36 Creating Task: sh10847
+26/04/2022 11:03:36 Creating Task: sh10848
+26/04/2022 11:03:36 Creating Task: sh10849
+26/04/2022 11:03:36 Creating Task: sh10850
+26/04/2022 11:03:36 Creating Task: sh10861
+26/04/2022 11:03:36 Creating Task: sh10863
+26/04/2022 11:03:36 Creating Task: sh10873
+26/04/2022 11:03:36 Creating Task: sh10875
+26/04/2022 11:03:36 Creating Task: sh10876
+26/04/2022 11:03:36 Creating Task: sh10880
+26/04/2022 11:03:36 Creating Task: sh10892
+26/04/2022 11:03:36 Creating Task: sh10917
+26/04/2022 11:03:36 Creating Task: sh10929
+26/04/2022 11:03:36 Creating Task: sh10930
+26/04/2022 11:03:36 Creating Task: sh10931
+26/04/2022 11:03:36 Creating Task: sh10932
+26/04/2022 11:03:36 Creating Task: sh10934
+26/04/2022 11:03:36 Creating Task: sh10935
+26/04/2022 11:03:36 Creating Task: sh10937
+26/04/2022 11:03:36 Creating Task: sh10938
+26/04/2022 11:03:36 Creating Task: sh10939
+26/04/2022 11:03:36 Creating Task: sh10944
+26/04/2022 11:03:36 Creating Task: sh10945
+26/04/2022 11:03:36 Creating Task: sh10946
+26/04/2022 11:03:36 Creating Task: sh10947
+26/04/2022 11:03:36 Creating Task: sh10948
+26/04/2022 11:03:36 Creating Task: sh10949
+26/04/2022 11:03:36 Creating Task: sh10950
+26/04/2022 11:03:36 Creating Task: sh10951
+26/04/2022 11:03:36 Creating Task: sh10952
+26/04/2022 11:03:36 Creating Task: sh10954
+26/04/2022 11:03:36 Creating Task: sh10956
+26/04/2022 11:03:36 Creating Task: sh10957
+26/04/2022 11:03:36 Creating Task: sh10960
+26/04/2022 11:03:36 Creating Task: sh10961
+26/04/2022 11:03:36 Creating Task: sh10962
+26/04/2022 11:03:36 Creating Task: sh10996
+26/04/2022 11:03:36 Creating Task: sh11000
+26/04/2022 11:03:36 Creating Task: sh11001
+26/04/2022 11:03:36 Creating Task: sh11004
+26/04/2022 11:03:36 Creating Task: sh11005
+26/04/2022 11:03:36 Creating Task: sh11006
+26/04/2022 11:03:36 Creating Task: sh11028
+26/04/2022 11:03:36 Creating Task: sh11051
+26/04/2022 11:03:36 Creating Task: sh11056
+26/04/2022 11:03:36 Creating Task: sh11057
+26/04/2022 11:03:36 Creating Task: sh11064
+26/04/2022 11:03:36 Creating Task: sh11066
+26/04/2022 11:03:36 Creating Task: sh11072
+26/04/2022 11:03:36 Creating Task: sh11074
+26/04/2022 11:03:36 Creating Task: sh11080
+26/04/2022 11:03:36 Creating Task: sh11082
+26/04/2022 11:03:36 Creating Task: sh11084
+26/04/2022 11:03:36 Creating Task: sh11085
+26/04/2022 11:03:36 Creating Task: sh11086
+26/04/2022 11:03:36 Creating Task: sh11088
+26/04/2022 11:03:36 Creating Task: sh11091
+26/04/2022 11:03:36 Creating Task: sh11097
+26/04/2022 11:03:36 Creating Task: sh11098
+26/04/2022 11:03:36 Creating Task: sh11104
+26/04/2022 11:03:36 Creating Task: sh11108
+26/04/2022 11:03:36 Creating Task: sh11114
+26/04/2022 11:03:36 Creating Task: sh11116
+26/04/2022 11:03:36 Creating Task: sh11118
+26/04/2022 11:03:36 Creating Task: sh11123
+26/04/2022 11:03:36 Creating Task: sh11124
+26/04/2022 11:03:36 Creating Task: sh11125
+26/04/2022 11:03:36 Creating Task: sh11126
+26/04/2022 11:03:36 Creating Task: sh11137
+26/04/2022 11:03:36 Creating Task: sh11139
+26/04/2022 11:03:36 Creating Task: sh11149
+26/04/2022 11:03:36 Creating Task: sh11151
+26/04/2022 11:03:36 Creating Task: sh11152
+26/04/2022 11:03:36 Creating Task: sh11156
+26/04/2022 11:03:36 Creating Task: sh11168
+26/04/2022 11:03:36 Creating Task: sh11193
+26/04/2022 11:03:36 Creating Task: sh11205
+26/04/2022 11:03:36 Creating Task: sh11206
+26/04/2022 11:03:36 Creating Task: sh11207
+26/04/2022 11:03:36 Creating Task: sh11208
+26/04/2022 11:03:36 Creating Task: sh11210
+26/04/2022 11:03:36 Creating Task: sh11211
+26/04/2022 11:03:36 Creating Task: sh11213
+26/04/2022 11:03:36 Creating Task: sh11214
+26/04/2022 11:03:36 Creating Task: sh11215
+26/04/2022 11:03:36 Creating Task: sh11220
+26/04/2022 11:03:36 Creating Task: sh11221
+26/04/2022 11:03:36 Creating Task: sh11222
+26/04/2022 11:03:36 Creating Task: sh11223
+26/04/2022 11:03:36 Creating Task: sh11224
+26/04/2022 11:03:36 Creating Task: sh11225
+26/04/2022 11:03:36 Creating Task: sh11226
+26/04/2022 11:03:36 Creating Task: sh11227
+26/04/2022 11:03:36 Creating Task: sh11228
+26/04/2022 11:03:36 Creating Task: sh11230
+26/04/2022 11:03:36 Creating Task: sh11232
+26/04/2022 11:03:36 Creating Task: sh11233
+26/04/2022 11:03:36 Creating Task: sh11236
+26/04/2022 11:03:36 Creating Task: sh11237
+26/04/2022 11:03:36 Creating Task: sh11238
+26/04/2022 11:03:36 Creating Task: sh11272
+26/04/2022 11:03:36 Creating Task: sh11276
+26/04/2022 11:03:36 Creating Task: sh11277
+26/04/2022 11:03:36 Creating Task: sh11280
+26/04/2022 11:03:36 Creating Task: sh11281
+26/04/2022 11:03:36 Creating Task: sh11282
+26/04/2022 11:03:36 Creating Task: sh11304
+26/04/2022 11:03:36 Creating Service Folder: rs1328
+26/04/2022 11:03:36 Creating Task: rs1328
+26/04/2022 11:03:36 Creating Task: sh10774
+26/04/2022 11:03:36 Creating Task: sh10799
+26/04/2022 11:03:36 Creating Task: sh10816
+26/04/2022 11:03:36 Creating Task: sh10834
+26/04/2022 11:03:36 Creating Task: sh10864
+26/04/2022 11:03:36 Creating Task: sh10869
+26/04/2022 11:03:36 Creating Task: sh10870
+26/04/2022 11:03:36 Creating Task: sh10881
+26/04/2022 11:03:36 Creating Task: sh10882
+26/04/2022 11:03:36 Creating Task: sh10953
+26/04/2022 11:03:36 Creating Task: sh10955
+26/04/2022 11:03:36 Creating Task: sh10958
+26/04/2022 11:03:36 Creating Task: sh10959
+26/04/2022 11:03:36 Creating Task: sh11050
+26/04/2022 11:03:36 Creating Task: sh11075
+26/04/2022 11:03:36 Creating Task: sh11092
+26/04/2022 11:03:36 Creating Task: sh11110
+26/04/2022 11:03:36 Creating Task: sh11140
+26/04/2022 11:03:36 Creating Task: sh11145
+26/04/2022 11:03:36 Creating Task: sh11146
+26/04/2022 11:03:36 Creating Task: sh11157
+26/04/2022 11:03:36 Creating Task: sh11158
+26/04/2022 11:03:36 Creating Task: sh11229
+26/04/2022 11:03:36 Creating Task: sh11231
+26/04/2022 11:03:36 Creating Task: sh11234
+26/04/2022 11:03:36 Creating Task: sh11235
+26/04/2022 11:03:36 Creating Service Folder: rs1329
+26/04/2022 11:03:36 Creating Task: rs1329
+26/04/2022 11:03:36 Creating Task: sh10771
+26/04/2022 11:03:36 Creating Task: sh10777
+26/04/2022 11:03:36 Creating Task: sh10785
+26/04/2022 11:03:36 Creating Task: sh10787
+26/04/2022 11:03:36 Creating Task: sh10839
+26/04/2022 11:03:36 Creating Task: sh10845
+26/04/2022 11:03:36 Creating Task: sh10877
+26/04/2022 11:03:36 Creating Task: sh10897
+26/04/2022 11:03:36 Creating Task: sh11047
+26/04/2022 11:03:36 Creating Task: sh11053
+26/04/2022 11:03:36 Creating Task: sh11061
+26/04/2022 11:03:36 Creating Task: sh11063
+26/04/2022 11:03:36 Creating Task: sh11115
+26/04/2022 11:03:36 Creating Task: sh11121
+26/04/2022 11:03:36 Creating Task: sh11153
+26/04/2022 11:03:36 Creating Task: sh11173
+26/04/2022 11:03:36 Creating Service Folder: rs1330
+26/04/2022 11:03:36 Creating Task: rs1330
+26/04/2022 11:03:36 Creating Task: sh10769
+26/04/2022 11:03:36 Creating Task: sh10794
+26/04/2022 11:03:36 Creating Task: sh10795
+26/04/2022 11:03:36 Creating Task: sh10814
+26/04/2022 11:03:36 Creating Task: sh10818
+26/04/2022 11:03:36 Creating Task: sh10824
+26/04/2022 11:03:36 Creating Task: sh10835
+26/04/2022 11:03:36 Creating Task: sh10851
+26/04/2022 11:03:36 Creating Task: sh10853
+26/04/2022 11:03:36 Creating Task: sh10867
+26/04/2022 11:03:36 Creating Task: sh10871
+26/04/2022 11:03:36 Creating Task: sh10918
+26/04/2022 11:03:36 Creating Task: sh10925
+26/04/2022 11:03:36 Creating Task: sh10926
+26/04/2022 11:03:36 Creating Task: sh10927
+26/04/2022 11:03:36 Creating Task: sh10928
+26/04/2022 11:03:36 Creating Task: sh10940
+26/04/2022 11:03:36 Creating Task: sh10942
+26/04/2022 11:03:36 Creating Task: sh10943
+26/04/2022 11:03:36 Creating Task: sh11012
+26/04/2022 11:03:36 Creating Task: sh11013
+26/04/2022 11:03:36 Creating Task: sh11014
+26/04/2022 11:03:36 Creating Task: sh11015
+26/04/2022 11:03:36 Creating Task: sh11037
+26/04/2022 11:03:36 Creating Task: sh11038
+26/04/2022 11:03:36 Creating Task: sh11045
+26/04/2022 11:03:36 Creating Task: sh11070
+26/04/2022 11:03:36 Creating Task: sh11071
+26/04/2022 11:03:36 Creating Task: sh11090
+26/04/2022 11:03:36 Creating Task: sh11094
+26/04/2022 11:03:36 Creating Task: sh11100
+26/04/2022 11:03:36 Creating Task: sh11111
+26/04/2022 11:03:36 Creating Task: sh11127
+26/04/2022 11:03:36 Creating Task: sh11129
+26/04/2022 11:03:36 Creating Task: sh11143
+26/04/2022 11:03:36 Creating Task: sh11147
+26/04/2022 11:03:36 Creating Task: sh11194
+26/04/2022 11:03:36 Creating Task: sh11201
+26/04/2022 11:03:36 Creating Task: sh11202
+26/04/2022 11:03:36 Creating Task: sh11203
+26/04/2022 11:03:36 Creating Task: sh11204
+26/04/2022 11:03:36 Creating Task: sh11216
+26/04/2022 11:03:36 Creating Task: sh11218
+26/04/2022 11:03:36 Creating Task: sh11219
+26/04/2022 11:03:36 Creating Task: sh11288
+26/04/2022 11:03:36 Creating Task: sh11289
+26/04/2022 11:03:36 Creating Task: sh11290
+26/04/2022 11:03:36 Creating Task: sh11291
+26/04/2022 11:03:36 Creating Task: sh11313
+26/04/2022 11:03:36 Creating Task: sh11314
+26/04/2022 11:03:36 Creating Service Folder: rs1331
+26/04/2022 11:03:36 Creating Task: rs1331
+26/04/2022 11:03:36 Creating Task: sh10765
+26/04/2022 11:03:36 Creating Task: sh10768
+26/04/2022 11:03:36 Creating Task: sh10797
+26/04/2022 11:03:36 Creating Task: sh10800
+26/04/2022 11:03:36 Creating Task: sh10801
+26/04/2022 11:03:36 Creating Task: sh10805
+26/04/2022 11:03:36 Creating Task: sh10827
+26/04/2022 11:03:36 Creating Task: sh10872
+26/04/2022 11:03:36 Creating Task: sh10891
+26/04/2022 11:03:36 Creating Task: sh10893
+26/04/2022 11:03:36 Creating Task: sh10920
+26/04/2022 11:03:36 Creating Task: sh11020
+26/04/2022 11:03:36 Creating Task: sh11022
+26/04/2022 11:03:36 Creating Task: sh11026
+26/04/2022 11:03:36 Creating Task: sh11030
+26/04/2022 11:03:36 Creating Task: sh11041
+26/04/2022 11:03:36 Creating Task: sh11044
+26/04/2022 11:03:36 Creating Task: sh11073
+26/04/2022 11:03:36 Creating Task: sh11076
+26/04/2022 11:03:36 Creating Task: sh11077
+26/04/2022 11:03:36 Creating Task: sh11081
+26/04/2022 11:03:36 Creating Task: sh11103
+26/04/2022 11:03:36 Creating Task: sh11148
+26/04/2022 11:03:36 Creating Task: sh11167
+26/04/2022 11:03:36 Creating Task: sh11169
+26/04/2022 11:03:36 Creating Task: sh11196
+26/04/2022 11:03:36 Creating Task: sh11296
+26/04/2022 11:03:36 Creating Task: sh11298
+26/04/2022 11:03:36 Creating Task: sh11302
+26/04/2022 11:03:36 Creating Task: sh11306
+26/04/2022 11:03:36 Creating Service Folder: rs1332
+26/04/2022 11:03:36 Creating Task: rs1332
+26/04/2022 11:03:36 Creating Task: sh10766
+26/04/2022 11:03:36 Creating Task: sh10767
+26/04/2022 11:03:36 Creating Task: sh10770
+26/04/2022 11:03:36 Creating Task: sh10776
+26/04/2022 11:03:36 Creating Task: sh10830
+26/04/2022 11:03:36 Creating Task: sh10843
+26/04/2022 11:03:36 Creating Task: sh10941
+26/04/2022 11:03:36 Creating Task: sh11007
+26/04/2022 11:03:36 Creating Task: sh11042
+26/04/2022 11:03:36 Creating Task: sh11043
+26/04/2022 11:03:36 Creating Task: sh11046
+26/04/2022 11:03:36 Creating Task: sh11052
+26/04/2022 11:03:36 Creating Task: sh11106
+26/04/2022 11:03:36 Creating Task: sh11119
+26/04/2022 11:03:36 Creating Task: sh11217
+26/04/2022 11:03:36 Creating Task: sh11283
+26/04/2022 11:03:36 Creating Service Folder: rs1333
+26/04/2022 11:03:36 Creating Task: rs1333
+26/04/2022 11:03:36 Creating Task: sh10764
+26/04/2022 11:03:36 Creating Task: sh10772
+26/04/2022 11:03:36 Creating Task: sh10778
+26/04/2022 11:03:36 Creating Task: sh10779
+26/04/2022 11:03:36 Creating Task: sh10782
+26/04/2022 11:03:36 Creating Task: sh10789
+26/04/2022 11:03:36 Creating Task: sh10841
+26/04/2022 11:03:36 Creating Task: sh10874
+26/04/2022 11:03:36 Creating Task: sh10878
+26/04/2022 11:03:36 Creating Task: sh10879
+26/04/2022 11:03:36 Creating Task: sh10883
+26/04/2022 11:03:36 Creating Task: sh10884
+26/04/2022 11:03:36 Creating Task: sh10898
+26/04/2022 11:03:36 Creating Task: sh10901
+26/04/2022 11:03:36 Creating Task: sh10903
+26/04/2022 11:03:36 Creating Task: sh10907
+26/04/2022 11:03:36 Creating Task: sh10913
+26/04/2022 11:03:36 Creating Task: sh10966
+26/04/2022 11:03:36 Creating Task: sh10967
+26/04/2022 11:03:36 Creating Task: sh10971
+26/04/2022 11:03:36 Creating Task: sh10974
+26/04/2022 11:03:36 Creating Task: sh10975
+26/04/2022 11:03:36 Creating Task: sh10979
+26/04/2022 11:03:36 Creating Task: sh10983
+26/04/2022 11:03:36 Creating Task: sh10992
+26/04/2022 11:03:36 Creating Task: sh10993
+26/04/2022 11:03:36 Creating Task: sh10999
+26/04/2022 11:03:36 Creating Task: sh11003
+26/04/2022 11:03:36 Creating Task: sh11010
+26/04/2022 11:03:36 Creating Task: sh11017
+26/04/2022 11:03:36 Creating Task: sh11019
+26/04/2022 11:03:36 Creating Task: sh11021
+26/04/2022 11:03:36 Creating Task: sh11023
+26/04/2022 11:03:36 Creating Task: sh11025
+26/04/2022 11:03:36 Creating Task: sh11027
+26/04/2022 11:03:36 Creating Task: sh11040
+26/04/2022 11:03:36 Creating Task: sh11048
+26/04/2022 11:03:36 Creating Task: sh11054
+26/04/2022 11:03:36 Creating Task: sh11055
+26/04/2022 11:03:36 Creating Task: sh11058
+26/04/2022 11:03:36 Creating Task: sh11065
+26/04/2022 11:03:36 Creating Task: sh11117
+26/04/2022 11:03:36 Creating Task: sh11150
+26/04/2022 11:03:36 Creating Task: sh11154
+26/04/2022 11:03:36 Creating Task: sh11155
+26/04/2022 11:03:36 Creating Task: sh11159
+26/04/2022 11:03:36 Creating Task: sh11160
+26/04/2022 11:03:36 Creating Task: sh11174
+26/04/2022 11:03:36 Creating Task: sh11177
+26/04/2022 11:03:36 Creating Task: sh11179
+26/04/2022 11:03:36 Creating Task: sh11183
+26/04/2022 11:03:36 Creating Task: sh11189
+26/04/2022 11:03:36 Creating Task: sh11242
+26/04/2022 11:03:36 Creating Task: sh11243
+26/04/2022 11:03:36 Creating Task: sh11247
+26/04/2022 11:03:36 Creating Task: sh11250
+26/04/2022 11:03:36 Creating Task: sh11251
+26/04/2022 11:03:36 Creating Task: sh11255
+26/04/2022 11:03:36 Creating Task: sh11259
+26/04/2022 11:03:36 Creating Task: sh11268
+26/04/2022 11:03:36 Creating Task: sh11269
+26/04/2022 11:03:36 Creating Task: sh11275
+26/04/2022 11:03:36 Creating Task: sh11279
+26/04/2022 11:03:36 Creating Task: sh11286
+26/04/2022 11:03:36 Creating Task: sh11293
+26/04/2022 11:03:36 Creating Task: sh11295
+26/04/2022 11:03:36 Creating Task: sh11297
+26/04/2022 11:03:36 Creating Task: sh11299
+26/04/2022 11:03:36 Creating Task: sh11301
+26/04/2022 11:03:36 Creating Task: sh11303
+26/04/2022 11:03:36 Creating Service Folder: rs1334
+26/04/2022 11:03:36 Creating Task: rs1334
+26/04/2022 11:03:36 Creating Task: sh11039
+26/04/2022 11:03:36 Creating Task: sh11315
+26/04/2022 11:03:36 Creating Service Folder: MLTR
+26/04/2022 11:03:36 Creating Task: md6991
+26/04/2022 11:03:36 Creating Task: md6992
+26/04/2022 11:03:36 Creating Task: md6993
+26/04/2022 11:03:36 Creating Task: md6994
+26/04/2022 11:03:36 Creating Task: md6995
+26/04/2022 11:03:36 Creating Task: md6996
+26/04/2022 11:03:36 Creating Task: md6997
+26/04/2022 11:03:36 Creating Task: md6998
+26/04/2022 11:03:36 Creating Task: md6999
+26/04/2022 11:03:36 Creating Task: md7000
+26/04/2022 11:03:36 Creating Task: md7001
+26/04/2022 11:03:36 Creating Task: md7002
+26/04/2022 11:03:36 Creating Task: md7003
+26/04/2022 11:03:36 Creating Task: md7004
+26/04/2022 11:03:36 Creating Task: md7005
+26/04/2022 11:03:36 Creating Task: md7006
+26/04/2022 11:03:36 Creating Task: md7007
+26/04/2022 11:03:36 Creating Task: md7008
+26/04/2022 11:03:36 Creating Task: md7009
+26/04/2022 11:03:36 Creating Task: md7010
+26/04/2022 11:03:36 Creating Task: md7011
+26/04/2022 11:03:36 Creating Task: md7012
+26/04/2022 11:03:36 Creating Task: md7013
+26/04/2022 11:03:36 Creating Task: md7014
+26/04/2022 11:03:36 Creating Task: md7015
+26/04/2022 11:03:36 Creating Task: md7016
+26/04/2022 11:03:36 Creating Task: md7017
+26/04/2022 11:03:36 Creating Task: md7018
+26/04/2022 11:03:36 Creating Task: md7019
+26/04/2022 11:03:36 Creating Task: md7020
+26/04/2022 11:03:36 Creating Task: md7021
+26/04/2022 11:03:36 Creating Task: md7022
+26/04/2022 11:03:36 Creating Task: md7023
+26/04/2022 11:03:36 Creating Task: md7024
+26/04/2022 11:03:36 Creating Task: md7025
+26/04/2022 11:03:36 Creating Task: md7026
+26/04/2022 11:03:36 Creating Task: md7027
+26/04/2022 11:03:36 Creating Task: md7028
+26/04/2022 11:03:36 Creating Task: md7029
+26/04/2022 11:03:36 Creating Task: md7030
+26/04/2022 11:03:36 Creating Task: md7031
+26/04/2022 11:03:36 Creating Task: md7032
+26/04/2022 11:03:36 Creating Task: md7033
+26/04/2022 11:03:36 Creating Task: md7034
+26/04/2022 11:03:36 Creating Task: md7035
+26/04/2022 11:03:36 Creating Task: md7036
+26/04/2022 11:03:36 Creating Task: md7037
+26/04/2022 11:03:36 Creating Task: md7038
+26/04/2022 11:03:36 Creating Task: md7039
+26/04/2022 11:03:36 Creating Task: md7040
+26/04/2022 11:03:36 Creating Task: md7041
+26/04/2022 11:03:36 Creating Task: md7042
+26/04/2022 11:03:36 Creating Task: md7043
+26/04/2022 11:03:36 Creating Task: md7044
+26/04/2022 11:03:36 Creating Task: md7045
+26/04/2022 11:03:36 Creating Task: md7046
+26/04/2022 11:03:36 Creating Task: md7047
+26/04/2022 11:03:36 Creating Task: md7048
+26/04/2022 11:03:36 Creating Task: md7049
+26/04/2022 11:03:36 Creating Task: md7050
+26/04/2022 11:03:36 Creating Task: md7051
+26/04/2022 11:03:36 Creating Task: md7052
+26/04/2022 11:03:36 Creating Task: md7053
+26/04/2022 11:03:36 Creating Task: md7054
+26/04/2022 11:03:36 Creating Task: md7055
+26/04/2022 11:03:36 Creating Task: md7056
+26/04/2022 11:03:36 Creating Task: md7057
+26/04/2022 11:03:36 Creating Task: md7058
+26/04/2022 11:03:36 Creating Task: md7059
+26/04/2022 11:03:36 Creating Task: md7060
+26/04/2022 11:03:36 Creating Task: md7061
+26/04/2022 11:03:36 Creating Task: md7062
+26/04/2022 11:03:36 Creating Task: md7063
+26/04/2022 11:03:36 Creating Task: md7064
+26/04/2022 11:03:36 Creating Task: md7065
+26/04/2022 11:03:36 Creating Task: md7066
+26/04/2022 11:03:36 Creating Task: md7067
+26/04/2022 11:03:36 Creating Task: md7068
+26/04/2022 11:03:36 Creating Task: md7069
+26/04/2022 11:03:36 Creating Task: md7070
+26/04/2022 11:03:36 Creating Task: md7071
+26/04/2022 11:03:36 Creating Task: md7072
+26/04/2022 11:03:36 Creating Task: md7073
+26/04/2022 11:03:36 Creating Task: md7074
+26/04/2022 11:03:36 Creating Task: md7075
+26/04/2022 11:03:36 Creating Task: md7076
+26/04/2022 11:03:36 Creating Task: md7077
+26/04/2022 11:03:36 Creating Task: md7078
+26/04/2022 11:03:36 Creating Task: md7079
+26/04/2022 11:03:36 Creating Task: md7080
+26/04/2022 11:03:36 Creating Task: md7081
+26/04/2022 11:03:36 Creating Task: md7082
+26/04/2022 11:03:36 Creating Task: md7083
+26/04/2022 11:03:36 Creating Task: md7084
+26/04/2022 11:03:36 Creating Task: md7085
+26/04/2022 11:03:36 Creating Task: md7086
+26/04/2022 11:03:36 Creating Task: md7087
+26/04/2022 11:03:36 Creating Task: md7088
+26/04/2022 11:03:36 Creating Task: md7089
+26/04/2022 11:03:36 Creating Task: md7090
+26/04/2022 11:03:36 Creating Task: md7091
+26/04/2022 11:03:36 Creating Task: md7092
+26/04/2022 11:03:36 Creating Task: md7093
+26/04/2022 11:03:36 Creating Task: md7094
+26/04/2022 11:03:36 Creating Task: md7095
+26/04/2022 11:03:36 Creating Task: md7096
+26/04/2022 11:03:36 Creating Task: md7097
+26/04/2022 11:03:36 Creating Task: md7098
+26/04/2022 11:03:36 Creating Task: md7099
+26/04/2022 11:03:36 Creating Task: md7100
+26/04/2022 11:03:36 Creating Task: md7101
+26/04/2022 11:03:36 Creating Task: md7102
+26/04/2022 11:03:36 Creating Task: md7103
+26/04/2022 11:03:36 Creating Task: md7104
+26/04/2022 11:03:36 Creating Task: md7105
+26/04/2022 11:03:36 Creating Task: md7106
+26/04/2022 11:03:36 Creating Task: md7107
+26/04/2022 11:03:36 Creating Task: md7108
+26/04/2022 11:03:36 Creating Task: md7109
+26/04/2022 11:03:36 Creating Task: md7110
+26/04/2022 11:03:36 Creating Task: md7111
+26/04/2022 11:03:36 Creating Task: md7112
+26/04/2022 11:03:36 Creating Task: md7113
+26/04/2022 11:03:36 Creating Task: md7114
+26/04/2022 11:03:36 Creating Task: md7115
+26/04/2022 11:03:36 Creating Task: md7116
+26/04/2022 11:03:36 Creating Task: md7117
+26/04/2022 11:03:36 Creating Task: md7118
+26/04/2022 11:03:36 Creating Task: md7119
+26/04/2022 11:03:36 Creating Task: md7120
+26/04/2022 11:03:36 Creating Task: md7121
+26/04/2022 11:03:36 Creating Task: md7122
+26/04/2022 11:03:36 Creating Task: md7123
+26/04/2022 11:03:36 Creating Task: md7124
+26/04/2022 11:03:36 Creating Task: md7125
+26/04/2022 11:03:36 Creating Task: md7126
+26/04/2022 11:03:36 Creating Task: md7127
+26/04/2022 11:03:36 Creating Task: md7128
+26/04/2022 11:03:36 Creating Task: md7129
+26/04/2022 11:03:36 Creating Task: md7130
+26/04/2022 11:03:36 Creating Task: md7131
+26/04/2022 11:03:36 Creating Task: md7132
+26/04/2022 11:03:36 Creating Task: md7133
+26/04/2022 11:03:36 Creating Task: md7134
+26/04/2022 11:03:36 Creating Task: md7135
+26/04/2022 11:03:36 Creating Task: md7136
+26/04/2022 11:03:36 Creating Task: md7137
+26/04/2022 11:03:36 Creating Task: md7138
+26/04/2022 11:03:36 Creating Task: md7139
+26/04/2022 11:03:36 Creating Task: md7140
+26/04/2022 11:03:36 Creating Task: md7141
+26/04/2022 11:03:36 Creating Task: md7142
+26/04/2022 11:03:36 Creating Task: md7143
+26/04/2022 11:03:36 Creating Task: md7144
+26/04/2022 11:03:36 Creating Task: md7145
+26/04/2022 11:03:36 Creating Task: md7146
+26/04/2022 11:03:36 Creating Task: md7147
+26/04/2022 11:03:36 Creating Task: md7148
+26/04/2022 11:03:36 Creating Task: md7149
+26/04/2022 11:03:36 Creating Task: md7150
+26/04/2022 11:03:36 Creating Task: md7151
+26/04/2022 11:03:36 Creating Task: md7152
+26/04/2022 11:03:36 Creating Task: md7153
+26/04/2022 11:03:36 Creating Task: md7154
+26/04/2022 11:03:36 Creating Task: md7155
+26/04/2022 11:03:36 Creating Task: md7156
+26/04/2022 11:03:36 Creating Task: md7157
+26/04/2022 11:03:36 Creating Task: md7158
+26/04/2022 11:03:36 Creating Task: md7159
+26/04/2022 11:03:36 Creating Task: md7160
+26/04/2022 11:03:36 Creating Task: md7161
+26/04/2022 11:03:36 Creating Task: md7162
+26/04/2022 11:03:36 Creating Task: md7163
+26/04/2022 11:03:36 Creating Task: md7164
+26/04/2022 11:03:36 Creating Task: md7165
+26/04/2022 11:03:36 Creating Task: md7166
+26/04/2022 11:03:36 Creating Task: md7167
+26/04/2022 11:03:36 Creating Task: md7168
+26/04/2022 11:03:36 Creating Task: md7169
+26/04/2022 11:03:36 Creating Task: md7170
+26/04/2022 11:03:36 Creating Task: md7171
+26/04/2022 11:03:36 Creating Task: md7172
+26/04/2022 11:03:36 Creating Task: md7173
+26/04/2022 11:03:36 Creating Task: md7174
+26/04/2022 11:03:36 Creating Task: md7175
+26/04/2022 11:03:36 Creating Task: md7176
+26/04/2022 11:03:36 Creating Task: md7177
+26/04/2022 11:03:36 Creating Task: md7178
+26/04/2022 11:03:36 Creating Task: md7179
+26/04/2022 11:03:36 Creating Task: md7180
+26/04/2022 11:03:36 Creating Task: md7181
+26/04/2022 11:03:36 Creating Task: md7182
+26/04/2022 11:03:36 Creating Task: md7183
+26/04/2022 11:03:36 Creating Task: md7184
+26/04/2022 11:03:36 Creating Task: md7185
+26/04/2022 11:03:36 Creating Task: md7186
+26/04/2022 11:03:36 Creating Task: md7187
+26/04/2022 11:03:36 Creating Task: md7188
+26/04/2022 11:03:36 Creating Task: md7189
+26/04/2022 11:03:36 Creating Task: md7190
+26/04/2022 11:03:36 Creating Task: md7191
+26/04/2022 11:03:36 Creating Task: md7192
+26/04/2022 11:03:36 Creating Task: md7193
+26/04/2022 11:03:36 Creating Task: md7194
+26/04/2022 11:03:36 Creating Task: md7195
+26/04/2022 11:03:36 Creating Task: md7196
+26/04/2022 11:03:36 Creating Task: md7197
+26/04/2022 11:03:36 Creating Task: md7198
+26/04/2022 11:03:36 Creating Task: md7199
+26/04/2022 11:03:36 Creating Task: md7200
+26/04/2022 11:03:36 Creating Task: md7201
+26/04/2022 11:03:36 Creating Task: md7202
+26/04/2022 11:03:36 Creating Task: md7203
+26/04/2022 11:03:36 Creating Task: md7204
+26/04/2022 11:03:36 Creating Task: md7205
+26/04/2022 11:03:36 Creating Task: md7206
+26/04/2022 11:03:36 Creating Task: md7207
+26/04/2022 11:03:36 Creating Task: md7208
+26/04/2022 11:03:36 Creating Task: md7209
+26/04/2022 11:03:36 Creating Task: md7210
+26/04/2022 11:03:36 Creating Task: md7211
+26/04/2022 11:03:36 Creating Task: md7212
+26/04/2022 11:03:36 Creating Task: md7213
+26/04/2022 11:03:36 Creating Task: md7214
+26/04/2022 11:03:36 Creating Task: md7215
+26/04/2022 11:03:36 Creating Task: md7216
+26/04/2022 11:03:36 Creating Task: md7217
+26/04/2022 11:03:36 Creating Task: md7218
+26/04/2022 11:03:36 Creating Task: md7219
+26/04/2022 11:03:36 Creating Task: md7220
+26/04/2022 11:03:36 Creating Task: md7221
+26/04/2022 11:03:36 Creating Task: md7222
+26/04/2022 11:03:36 Creating Task: md7223
+26/04/2022 11:03:36 Creating Task: md7224
+26/04/2022 11:03:36 Creating Task: md7225
+26/04/2022 11:03:36 Creating Task: md7226
+26/04/2022 11:03:36 Creating Task: md7227
+26/04/2022 11:03:36 Creating Task: md7228
+26/04/2022 11:03:36 Creating Task: md7229
+26/04/2022 11:03:36 Creating Task: md7230
+26/04/2022 11:03:36 Creating Task: md7231
+26/04/2022 11:03:36 Creating Task: md7232
+26/04/2022 11:03:36 Creating Task: md7233
+26/04/2022 11:03:36 Creating Task: md7234
+26/04/2022 11:03:36 Creating Task: md7235
+26/04/2022 11:03:36 Creating Task: md7236
+26/04/2022 11:03:36 Creating Task: md7237
+26/04/2022 11:03:36 Creating Task: md7238
+26/04/2022 11:03:36 Creating Task: md7239
+26/04/2022 11:03:36 Creating Task: md7240
+26/04/2022 11:03:36 Creating Task: md7241
+26/04/2022 11:03:36 Creating Task: md7242
+26/04/2022 11:03:36 Creating Task: md7243
+26/04/2022 11:03:36 Creating Task: md7244
+26/04/2022 11:03:36 Creating Task: md7245
+26/04/2022 11:03:36 Creating Task: md7246
+26/04/2022 11:03:36 Creating Task: md7247
+26/04/2022 11:03:36 Creating Task: md7248
+26/04/2022 11:03:36 Creating Task: md7249
+26/04/2022 11:03:36 Creating Task: md7250
+26/04/2022 11:03:36 Creating Task: md7251
+26/04/2022 11:03:36 Creating Task: md7252
+26/04/2022 11:03:36 Creating Task: md7253
+26/04/2022 11:03:36 Creating Task: md7254
+26/04/2022 11:03:36 Creating Task: md7255
+26/04/2022 11:03:36 Creating Task: md7256
+26/04/2022 11:03:36 Creating Task: md7257
+26/04/2022 11:03:36 Creating Task: md7258
+26/04/2022 11:03:36 Creating Task: md7259
+26/04/2022 11:03:36 Creating Task: md7260
+26/04/2022 11:03:36 Creating Task: md7261
+26/04/2022 11:03:36 Creating Task: md7262
+26/04/2022 11:03:36 Creating Task: md7263
+26/04/2022 11:03:36 Creating Task: md7264
+26/04/2022 11:03:36 Creating Task: md7265
+26/04/2022 11:03:36 Creating Task: md7266
+26/04/2022 11:06:49 Clearing Project Structure
+26/04/2022 11:08:05 Executing Action
+26/04/2022 11:08:05 Creating Service Folder: MLTR
+26/04/2022 11:08:05 Creating Task: md6991
+26/04/2022 11:08:05 Creating Task: md6992
+26/04/2022 11:08:05 Creating Task: md6993
+26/04/2022 11:08:05 Creating Task: md6994
+26/04/2022 11:08:05 Creating Task: md6995
+26/04/2022 11:08:05 Creating Task: md6996
+26/04/2022 11:08:05 Creating Task: md6997
+26/04/2022 11:08:05 Creating Service Folder: rs1319
+26/04/2022 11:08:05 Creating Task: rs1319
+26/04/2022 11:08:05 Creating Task: sh10919
+26/04/2022 11:08:05 Creating Task: sh10924
+26/04/2022 11:08:05 Creating Task: sh10936
+26/04/2022 11:08:05 Creating Task: sh11008
+26/04/2022 11:08:05 cannot concatenate 'str' and 'float' objects
+26/04/2022 11:10:05 Clearing Project Structure
+26/04/2022 11:10:06 Executing Action
+26/04/2022 11:10:06 Creating Service Folder: MLTR
+26/04/2022 11:10:06 Creating Task: md6991
+26/04/2022 11:10:06 Creating Task: md6992
+26/04/2022 11:10:06 Creating Task: md6993
+26/04/2022 11:10:06 Creating Task: md6994
+26/04/2022 11:10:06 Creating Task: md6995
+26/04/2022 11:10:06 Creating Task: md6996
+26/04/2022 11:10:06 Creating Task: md6997
+26/04/2022 11:10:06 Creating Service Folder: rs1319
+26/04/2022 11:10:06 Creating Task: rs1319
+26/04/2022 11:10:06 Creating Task: sh10919
+26/04/2022 11:10:06 Creating Task: sh10924
+26/04/2022 11:10:06 Creating Task: sh10936
+26/04/2022 11:10:06 Creating Task: sh11008
+26/04/2022 11:10:06 cannot concatenate 'str' and 'float' objects
+26/04/2022 11:12:47 Clearing Project Structure
+26/04/2022 11:12:49 Executing Action
+26/04/2022 11:12:49 Creating Service Folder: MLTR
+26/04/2022 11:12:49 Creating Task: md6991
+26/04/2022 11:12:49 Creating Task: md6992
+26/04/2022 11:12:49 Creating Task: md6993
+26/04/2022 11:12:49 Creating Task: md6994
+26/04/2022 11:12:49 Creating Task: md6995
+26/04/2022 11:12:49 Creating Task: md6996
+26/04/2022 11:12:49 Creating Task: md6997
+26/04/2022 11:12:49 Creating Service Folder: rs1319
+26/04/2022 11:12:49 Creating Task: rs1319
+26/04/2022 11:12:49 Creating Task: sh10919
+26/04/2022 11:12:49 Creating Task: sh10924
+26/04/2022 11:12:49 Creating Task: sh10936
+26/04/2022 11:12:49 Creating Task: sh11008
+26/04/2022 11:12:49 cannot concatenate 'str' and 'float' objects
+26/04/2022 11:13:38 Clearing Project Structure
+26/04/2022 11:13:39 Executing Action
+26/04/2022 11:13:39 Creating Service Folder: MLTR
+26/04/2022 11:13:39 Creating Task: md6991
+26/04/2022 11:13:39 Creating Task: md6992
+26/04/2022 11:13:39 Creating Task: md6993
+26/04/2022 11:13:39 Creating Task: md6994
+26/04/2022 11:13:39 Creating Task: md6995
+26/04/2022 11:13:39 Creating Task: md6996
+26/04/2022 11:13:39 Creating Task: md6997
+26/04/2022 11:13:39 Creating Service Folder: rs1319
+26/04/2022 11:13:39 Creating Task: rs1319
+26/04/2022 11:13:39 Creating Task: sh10919
+26/04/2022 11:13:39 Creating Task: sh10924
+26/04/2022 11:13:39 Creating Task: sh10936
+26/04/2022 11:13:39 Creating Task: sh11008
+26/04/2022 11:13:39 cannot concatenate 'str' and 'float' objects
+26/04/2022 11:14:49 Clearing Project Structure
+26/04/2022 11:14:50 Executing Action
+26/04/2022 11:14:50 Creating Service Folder: MLTR
+26/04/2022 11:14:50 Creating Task: md6991
+26/04/2022 11:14:50 Creating Task: md6992
+26/04/2022 11:14:50 Creating Task: md6993
+26/04/2022 11:14:50 Creating Task: md6994
+26/04/2022 11:14:50 Creating Task: md6995
+26/04/2022 11:14:50 Creating Task: md6996
+26/04/2022 11:14:50 Creating Task: md6997
+26/04/2022 11:14:50 Creating Service Folder: rs1319
+26/04/2022 11:14:50 Creating Task: rs1319
+26/04/2022 11:14:50 Creating Task: sh10919
+26/04/2022 11:14:50 Creating Task: sh10924
+26/04/2022 11:14:50 Creating Task: sh10936
+26/04/2022 11:14:50 Creating Task: sh11008
+26/04/2022 11:14:51 Server reported error: IntegrityError((MySQLdb._exceptions.IntegrityError) (1062, "Duplicate entry '1993a0ce-c562-11ec-97b1-02a0d5fc5f47-MLTR' for key 'context_parent_id_key'") [SQL: u'INSERT INTO context (context_type, name, parent_id, created_at, id, created_by_id) VALUES (%s, %s, %s, %s, %s, %s)'] [parameters: (('task', 'MLTR', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', datetime.datetime(2022, 4, 26, 14, 14, 51, 32475), u'34e10b2f-a50e-4503-a9c5-afc29cbc855e', u'bcdf57b0-acc6-11e1-a554-f23c91df1211'), ('task', 'rs1319', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', datetime.datetime(2022, 4, 26, 14, 14, 51, 59113), u'9277ac37-6bab-4d57-bb28-986f950811a2', u'bcdf57b0-acc6-11e1-a554-f23c91df1211'))] (Background on this error at: http://sqlalche.me/e/gkpj))
+26/04/2022 11:15:35 Clearing Project Structure
+26/04/2022 11:15:36 Server reported error: IntegrityError((MySQLdb._exceptions.IntegrityError) (1062, "Duplicate entry '1993a0ce-c562-11ec-97b1-02a0d5fc5f47-MLTR' for key 'context_parent_id_key'") [SQL: u'INSERT INTO context (context_type, name, parent_id, created_at, id, created_by_id) VALUES (%s, %s, %s, %s, %s, %s)'] [parameters: (('task', 'MLTR', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', datetime.datetime(2022, 4, 26, 14, 15, 36, 17055), u'34e10b2f-a50e-4503-a9c5-afc29cbc855e', u'bcdf57b0-acc6-11e1-a554-f23c91df1211'), ('task', 'rs1319', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', datetime.datetime(2022, 4, 26, 14, 15, 36, 35066), u'9277ac37-6bab-4d57-bb28-986f950811a2', u'bcdf57b0-acc6-11e1-a554-f23c91df1211'))] (Background on this error at: http://sqlalche.me/e/gkpj))
+26/04/2022 11:16:52 Clearing Project Structure
+26/04/2022 11:16:53 Server reported error: IntegrityError((MySQLdb._exceptions.IntegrityError) (1062, "Duplicate entry '1993a0ce-c562-11ec-97b1-02a0d5fc5f47-MLTR' for key 'context_parent_id_key'") [SQL: u'INSERT INTO context (context_type, name, parent_id, created_at, id, created_by_id) VALUES (%s, %s, %s, %s, %s, %s)'] [parameters: (('task', 'MLTR', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', datetime.datetime(2022, 4, 26, 14, 16, 53, 357130), u'34e10b2f-a50e-4503-a9c5-afc29cbc855e', u'bcdf57b0-acc6-11e1-a554-f23c91df1211'), ('task', 'rs1319', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', datetime.datetime(2022, 4, 26, 14, 16, 53, 371589), u'9277ac37-6bab-4d57-bb28-986f950811a2', u'bcdf57b0-acc6-11e1-a554-f23c91df1211'))] (Background on this error at: http://sqlalche.me/e/gkpj))
+26/04/2022 11:17:23 Clearing Project Structure
+26/04/2022 11:17:24 Server reported error: ValueError(Could not find entity Folder with entity_key [u'600a363b-aa3c-4ea4-8e4e-39cbba4a1baa'].)
+26/04/2022 11:17:44 Clearing Project Structure
+26/04/2022 11:17:45 Server reported error: ValueError(Could not find entity Folder with entity_key [u'600a363b-aa3c-4ea4-8e4e-39cbba4a1baa'].)
+26/04/2022 11:20:08 Clearing Project Structure
+26/04/2022 11:20:09 Executing Action
+26/04/2022 11:20:09 Creating Service Folder: MLTR
+26/04/2022 11:20:09 Creating Task: md6991
+26/04/2022 11:20:09 Creating Task: md6992
+26/04/2022 11:20:09 Creating Task: md6993
+26/04/2022 11:20:09 Creating Task: md6994
+26/04/2022 11:20:09 Creating Task: md6995
+26/04/2022 11:20:09 Creating Task: md6996
+26/04/2022 11:20:09 Creating Task: md6997
+26/04/2022 11:20:09 Creating Service Folder: rs1319
+26/04/2022 11:20:09 Creating Task: rs1319
+26/04/2022 11:20:09 Creating Task: sh10919
+26/04/2022 11:20:09 Creating Task: sh10924
+26/04/2022 11:20:09 Creating Task: sh10936
+26/04/2022 11:20:09 Creating Task: sh11008
+26/04/2022 11:20:26 Clearing Project Structure
+26/04/2022 11:20:27 Executing Action
+26/04/2022 11:20:27 Creating Service Folder: MLTR
+26/04/2022 11:20:27 Creating Task: md6991
+26/04/2022 11:20:27 Creating Task: md6992
+26/04/2022 11:20:27 Creating Task: md6993
+26/04/2022 11:20:27 Creating Task: md6994
+26/04/2022 11:20:27 Creating Task: md6995
+26/04/2022 11:20:27 Creating Task: md6996
+26/04/2022 11:20:27 Creating Task: md6997
+26/04/2022 11:20:27 Creating Service Folder: rs1319
+26/04/2022 11:20:27 Creating Task: rs1319
+26/04/2022 11:20:27 Creating Task: sh10919
+26/04/2022 11:20:27 Creating Task: sh10924
+26/04/2022 11:20:27 Creating Task: sh10936
+26/04/2022 11:20:27 Creating Task: sh11008
+26/04/2022 11:21:01 Clearing Project Structure
+26/04/2022 11:21:02 Executing Action
+26/04/2022 11:21:02 Creating Service Folder: MLTR
+26/04/2022 11:21:02 Creating Task: md6991
+26/04/2022 11:21:02 Creating Task: md6992
+26/04/2022 11:21:02 Creating Task: md6993
+26/04/2022 11:21:02 Creating Task: md6994
+26/04/2022 11:21:02 Creating Task: md6995
+26/04/2022 11:21:02 Creating Task: md6996
+26/04/2022 11:21:02 Creating Task: md6997
+26/04/2022 11:21:02 Creating Service Folder: rs1319
+26/04/2022 11:21:02 Creating Task: rs1319
+26/04/2022 11:21:02 Creating Task: sh10919
+26/04/2022 11:21:02 Creating Task: sh10924
+26/04/2022 11:21:02 Creating Task: sh10936
+26/04/2022 11:21:02 Creating Task: sh11008
+26/04/2022 11:23:03 Clearing Project Structure
+26/04/2022 11:23:04 Executing Action
+26/04/2022 11:23:05 Creating Service Folder: MLTR
+26/04/2022 11:23:05 string indices must be integers, not str
+26/04/2022 11:23:43 Clearing Project Structure
+26/04/2022 11:23:43 Executing Action
+26/04/2022 11:23:44 Creating Service Folder: MLTR
+26/04/2022 11:23:44 string indices must be integers, not str
+26/04/2022 11:24:36 Clearing Project Structure
+26/04/2022 11:24:36 Executing Action
+26/04/2022 11:24:36 Creating Service Folder: MLTR
+26/04/2022 11:24:36      Nome Pasta                        Description  ...  Depth  Incoming  Outcoming
+0  md6991  MLTR    SEMI FLUSH 3 LIGHTS MATTE BLACK  ...  16.00       NaN        NaN
+1  md6992  MLTR       PENDANT 4 LIGHTS MATTE BLACK  ...  20.25       NaN        NaN
+2  md6993  MLTR    CHANDELIER 6 LIGHTS MATTE BLACK  ...  26.00       NaN        NaN
+3  md6994  MLTR    CHANDELIER 9 LIGHTS MATTE BLACK  ...  30.00       NaN        NaN
+4  md6995  MLTR  CHANDELIER 5 LIGHTS ANTIQUE WHITE  ...  24.00       NaN        NaN
+5  md6996  MLTR  CHANDELIER 5 LIGHTS MOTTLED BLACK  ...  24.00       NaN        NaN
+6  md6997  MLTR     CHANDELIER 5 LIGHTS LIGHT GOLD  ...  26.00       NaN        NaN
+
+[7 rows x 17 columns]
+26/04/2022 11:24:36 string indices must be integers, not str
+26/04/2022 11:31:48 Clearing Project Structure
+26/04/2022 11:31:48 Executing Action
+26/04/2022 11:31:49 Creating Service Folder: MLTR
+26/04/2022 11:31:49 Nome
+26/04/2022 11:31:49 string indices must be integers, not str
+26/04/2022 11:33:00 Clearing Project Structure
+26/04/2022 11:33:00 Executing Action
+26/04/2022 11:33:00 Creating Service Folder: MLTR
+26/04/2022 11:33:00 Nome
+26/04/2022 11:33:00 string indices must be integers, not str
+26/04/2022 11:33:18 Clearing Project Structure
+26/04/2022 11:33:19 Executing Action
+26/04/2022 11:33:19 Creating Service Folder: MLTR
+26/04/2022 11:33:19 Nome
+26/04/2022 11:33:19 string indices must be integers, not str
+26/04/2022 11:34:55 Clearing Project Structure
+26/04/2022 11:34:55 Executing Action
+26/04/2022 11:34:56 Creating Service Folder: MLTR
+26/04/2022 11:34:56 Nome
+26/04/2022 11:34:56 Pasta
+26/04/2022 11:34:56 Description
+26/04/2022 11:34:56 Assignee
+26/04/2022 11:34:56 Start Date
+26/04/2022 11:34:56 Due Date
+26/04/2022 11:34:56 Priority
+26/04/2022 11:34:56 Status
+26/04/2022 11:34:56 SKU
+26/04/2022 11:34:56 Bid
+26/04/2022 11:34:56 Scope
+26/04/2022 11:34:56 Type
+26/04/2022 11:34:56 Height
+26/04/2022 11:34:56 Width
+26/04/2022 11:34:56 Depth
+26/04/2022 11:34:56 Incoming
+26/04/2022 11:34:56 Outcoming
+26/04/2022 11:34:56 Creating Service Folder: rs1319
+26/04/2022 11:34:56 Nome
+26/04/2022 11:34:56 Pasta
+26/04/2022 11:34:56 Description
+26/04/2022 11:34:56 Assignee
+26/04/2022 11:34:56 Start Date
+26/04/2022 11:34:56 Due Date
+26/04/2022 11:34:56 Priority
+26/04/2022 11:34:56 Status
+26/04/2022 11:34:56 SKU
+26/04/2022 11:34:56 Bid
+26/04/2022 11:34:56 Scope
+26/04/2022 11:34:56 Type
+26/04/2022 11:34:56 Height
+26/04/2022 11:34:56 Width
+26/04/2022 11:34:56 Depth
+26/04/2022 11:34:56 Incoming
+26/04/2022 11:34:56 Outcoming
+26/04/2022 11:43:35 Clearing Project Structure
+26/04/2022 11:43:36 Executing Action
+26/04/2022 11:43:36 Creating Service Folder: MLTR
+26/04/2022 11:43:36 Creating Task: md6991
+26/04/2022 11:43:36 Creating Task: md6992
+26/04/2022 11:43:36 Creating Task: md6993
+26/04/2022 11:43:36 Creating Task: md6994
+26/04/2022 11:43:36 Creating Task: md6995
+26/04/2022 11:43:36 Creating Task: md6996
+26/04/2022 11:43:36 Creating Task: md6997
+26/04/2022 11:43:36 Creating Service Folder: rs1319
+26/04/2022 11:43:36 Creating Task: rs1319
+26/04/2022 11:43:36 Creating Task: sh10919
+26/04/2022 11:43:36 Creating Task: sh10924
+26/04/2022 11:43:36 Creating Task: sh10936
+26/04/2022 11:43:36 Creating Task: sh11008
+26/04/2022 11:57:21 Clearing Project Structure
+26/04/2022 11:57:23 Executing Action
+26/04/2022 11:57:23 Creating Service Folder: MLTR
+26/04/2022 11:57:23 Creating Task: md6991
+26/04/2022 11:57:23 Creating Service Folder: rs1319
+26/04/2022 11:57:23 Creating Task: rs1319
+26/04/2022 12:01:04 Clearing Project Structure
+26/04/2022 12:01:05 Executing Action
+26/04/2022 12:01:06 Creating Service Folder: MLTR
+26/04/2022 12:01:06 Creating Task: md6991
+26/04/2022 12:01:06 Creating Task: md6992
+26/04/2022 12:01:06 Creating Task: md6993
+26/04/2022 12:01:06 Creating Task: md6994
+26/04/2022 12:01:06 Creating Task: md6995
+26/04/2022 12:01:06 Creating Task: md6996
+26/04/2022 12:01:06 Creating Task: md6997
+26/04/2022 12:01:06 Creating Service Folder: rs1319
+26/04/2022 12:01:06 Creating Task: rs1319
+26/04/2022 12:01:06 Creating Task: sh10919
+26/04/2022 12:01:06 Creating Task: sh10924
+26/04/2022 12:01:06 Creating Task: sh10936
+26/04/2022 12:01:06 Creating Task: sh11008
+26/04/2022 12:02:42 Clearing Project Structure
+26/04/2022 12:02:43 Executing Action
+26/04/2022 12:02:44 Creating Service Folder: MLTR
+26/04/2022 12:02:44 'DataFrame' object has no attribute 'tolist'
+26/04/2022 12:04:13 Clearing Project Structure
+26/04/2022 12:04:13 Executing Action
+26/04/2022 12:04:14 Creating Service Folder: MLTR
+26/04/2022 12:04:14 <class 'pandas.core.frame.DataFrame'>
+26/04/2022 12:04:14 Creating Service Folder: rs1319
+26/04/2022 12:04:14 <class 'pandas.core.frame.DataFrame'>
+26/04/2022 12:05:51 Clearing Project Structure
+26/04/2022 12:05:52 Executing Action
+26/04/2022 12:05:53 Creating Service Folder: MLTR
+26/04/2022 12:05:53 (0L, Nome                                    md6991
+Pasta                                     MLTR
+Description    SEMI FLUSH 3 LIGHTS MATTE BLACK
+Assignee                                   NaN
+Start Date                                 NaN
+Due Date                                   NaN
+Priority                                    P2
+Status                                    MLTR
+SKU                                 ADL1716MBK
+Bid                                       0.25
+Scope                                  Quoizel
+Type                                      MLTR
+Height                                      19
+Width                                       16
+Depth                                       16
+Incoming                                   NaN
+Outcoming                                  NaN
+Name: 0, dtype: object)
+26/04/2022 12:05:53 (1L, Nome                                 md6992
+Pasta                                  MLTR
+Description    PENDANT 4 LIGHTS MATTE BLACK
+Assignee                                NaN
+Start Date                              NaN
+Due Date                                NaN
+Priority                                 P2
+Status                                 MLTR
+SKU                              ADL2820MBK
+Bid                                    0.25
+Scope                               Quoizel
+Type                                   MLTR
+Height                                   28
+Width                                 20.25
+Depth                                 20.25
+Incoming                                NaN
+Outcoming                               NaN
+Name: 1, dtype: object)
+26/04/2022 12:05:53 (2L, Nome                                    md6993
+Pasta                                     MLTR
+Description    CHANDELIER 6 LIGHTS MATTE BLACK
+Assignee                                   NaN
+Start Date                                 NaN
+Due Date                                   NaN
+Priority                                    P2
+Status                                    MLTR
+SKU                                 ADL5026MBK
+Bid                                       0.25
+Scope                                  Quoizel
+Type                                      MLTR
+Height                                    31.5
+Width                                       26
+Depth                                       26
+Incoming                                   NaN
+Outcoming                                  NaN
+Name: 2, dtype: object)
+26/04/2022 12:05:53 (3L, Nome                                    md6994
+Pasta                                     MLTR
+Description    CHANDELIER 9 LIGHTS MATTE BLACK
+Assignee                                   NaN
+Start Date                                 NaN
+Due Date                                   NaN
+Priority                                    P2
+Status                                    MLTR
+SKU                                 ADL5030MBK
+Bid                                       0.25
+Scope                                  Quoizel
+Type                                      MLTR
+Height                                      36
+Width                                       30
+Depth                                       30
+Incoming                                   NaN
+Outcoming                                  NaN
+Name: 3, dtype: object)
+26/04/2022 12:05:53 (4L, Nome                                      md6995
+Pasta                                       MLTR
+Description    CHANDELIER 5 LIGHTS ANTIQUE WHITE
+Assignee                                     NaN
+Start Date                                   NaN
+Due Date                                     NaN
+Priority                                      P2
+Status                                      MLTR
+SKU                                   AEL5024AWH
+Bid                                         0.25
+Scope                                    Quoizel
+Type                                        MLTR
+Height                                        22
+Width                                         24
+Depth                                         24
+Incoming                                     NaN
+Outcoming                                    NaN
+Name: 4, dtype: object)
+26/04/2022 12:05:53 (5L, Nome                                      md6996
+Pasta                                       MLTR
+Description    CHANDELIER 5 LIGHTS MOTTLED BLACK
+Assignee                                     NaN
+Start Date                                   NaN
+Due Date                                     NaN
+Priority                                      P2
+Status                                      MLTR
+SKU                                    AEL5024MB
+Bid                                         0.25
+Scope                                    Quoizel
+Type                                        MLTR
+Height                                        22
+Width                                         24
+Depth                                         24
+Incoming                                     NaN
+Outcoming                                    NaN
+Name: 5, dtype: object)
+26/04/2022 12:05:53 (6L, Nome                                   md6997
+Pasta                                    MLTR
+Description    CHANDELIER 5 LIGHTS LIGHT GOLD
+Assignee                                  NaN
+Start Date                                NaN
+Due Date                                  NaN
+Priority                                   P2
+Status                                   MLTR
+SKU                                 APN5026LG
+Bid                                      0.25
+Scope                                 Quoizel
+Type                                     MLTR
+Height                                  22.75
+Width                                      26
+Depth                                      26
+Incoming                                  NaN
+Outcoming                                 NaN
+Name: 6, dtype: object)
+26/04/2022 12:05:53 Creating Service Folder: rs1319
+26/04/2022 12:05:53 (0L, Nome                rs1319
+Pasta               rs1319
+Description            NaN
+Assignee               NaN
+Start Date             NaN
+Due Date               NaN
+Priority                P2
+Status         Not Started
+SKU                    NaN
+Bid                   0.08
+Scope              Quoizel
+Type               CYCLING
+Height                 NaN
+Width                  NaN
+Depth                  NaN
+Incoming               NaN
+Outcoming              NaN
+Name: 0, dtype: object)
+26/04/2022 12:05:53 (1L, Nome               sh10919
+Pasta               rs1319
+Description            NaN
+Assignee               NaN
+Start Date             NaN
+Due Date               NaN
+Priority                P2
+Status         Not Started
+SKU                    NaN
+Bid                   0.08
+Scope              Quoizel
+Type               CYCLING
+Height                 NaN
+Width                  NaN
+Depth                  NaN
+Incoming            md6991
+Outcoming              NaN
+Name: 1, dtype: object)
+26/04/2022 12:05:53 (2L, Nome               sh10924
+Pasta               rs1319
+Description            NaN
+Assignee               NaN
+Start Date             NaN
+Due Date               NaN
+Priority                P2
+Status         Not Started
+SKU                    NaN
+Bid                   0.08
+Scope              Quoizel
+Type               CYCLING
+Height                 NaN
+Width                  NaN
+Depth                  NaN
+Incoming            md6992
+Outcoming              NaN
+Name: 2, dtype: object)
+26/04/2022 12:05:53 (3L, Nome               sh10936
+Pasta               rs1319
+Description            NaN
+Assignee               NaN
+Start Date             NaN
+Due Date               NaN
+Priority                P2
+Status         Not Started
+SKU                    NaN
+Bid                   0.08
+Scope              Quoizel
+Type               CYCLING
+Height                 NaN
+Width                  NaN
+Depth                  NaN
+Incoming            md6993
+Outcoming              NaN
+Name: 3, dtype: object)
+26/04/2022 12:05:53 (4L, Nome               sh11008
+Pasta               rs1319
+Description            NaN
+Assignee               NaN
+Start Date             NaN
+Due Date               NaN
+Priority                P2
+Status         Not Started
+SKU                    NaN
+Bid                   0.08
+Scope              Quoizel
+Type               CYCLING
+Height                 NaN
+Width                  NaN
+Depth                  NaN
+Incoming            md6994
+Outcoming              NaN
+Name: 4, dtype: object)
+26/04/2022 12:08:51 Clearing Project Structure
+26/04/2022 12:08:52 Executing Action
+26/04/2022 12:08:53 Creating Service Folder: MLTR
+26/04/2022 12:08:53 tuple indices must be integers, not str
+26/04/2022 12:09:40 Clearing Project Structure
+26/04/2022 12:09:40 Executing Action
+26/04/2022 12:09:41 Creating Service Folder: MLTR
+26/04/2022 12:09:41 cannot concatenate 'str' and 'long' objects
+26/04/2022 12:10:50 Clearing Project Structure
+26/04/2022 12:10:50 Executing Action
+26/04/2022 12:10:51 Creating Service Folder: MLTR
+26/04/2022 12:10:51 (0L, Nome                                    md6991
+Pasta                                     MLTR
+Description    SEMI FLUSH 3 LIGHTS MATTE BLACK
+Assignee                                   NaN
+Start Date                                 NaN
+Due Date                                   NaN
+Priority                                    P2
+Status                                    MLTR
+SKU                                 ADL1716MBK
+Bid                                       0.25
+Scope                                  Quoizel
+Type                                      MLTR
+Height                                      19
+Width                                       16
+Depth                                       16
+Incoming                                   NaN
+Outcoming                                  NaN
+Name: 0, dtype: object)
+26/04/2022 12:10:51 cannot concatenate 'str' and 'long' objects
+26/04/2022 12:11:23 Clearing Project Structure
+26/04/2022 12:11:23 Executing Action
+26/04/2022 12:11:24 Creating Service Folder: MLTR
+26/04/2022 12:11:24 <type 'tuple'>
+26/04/2022 12:11:24 cannot concatenate 'str' and 'long' objects
+27/04/2022 10:57:26 Clearing Project Structure
+27/04/2022 10:57:27 Executing Action
+27/04/2022 10:57:31 Creating Service Folder: MLTR
+27/04/2022 10:57:31 'tuple' object has no attribute 'values'
+27/04/2022 10:58:29 Clearing Project Structure
+27/04/2022 10:58:30 Executing Action
+27/04/2022 10:58:30 Creating Service Folder: MLTR
+27/04/2022 10:58:30 md6991
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 SEMI FLUSH 3 LIGHTS MATTE BLACK
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 ADL1716MBK
+27/04/2022 10:58:30 0.25
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 19.0
+27/04/2022 10:58:30 16.0
+27/04/2022 10:58:30 16.0
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 md6992
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 PENDANT 4 LIGHTS MATTE BLACK
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 ADL2820MBK
+27/04/2022 10:58:30 0.25
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 28.0
+27/04/2022 10:58:30 20.25
+27/04/2022 10:58:30 20.25
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 md6993
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 CHANDELIER 6 LIGHTS MATTE BLACK
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 ADL5026MBK
+27/04/2022 10:58:30 0.25
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 31.5
+27/04/2022 10:58:30 26.0
+27/04/2022 10:58:30 26.0
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 md6994
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 CHANDELIER 9 LIGHTS MATTE BLACK
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 ADL5030MBK
+27/04/2022 10:58:30 0.25
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 36.0
+27/04/2022 10:58:30 30.0
+27/04/2022 10:58:30 30.0
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 md6995
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 CHANDELIER 5 LIGHTS ANTIQUE WHITE
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 AEL5024AWH
+27/04/2022 10:58:30 0.25
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 22.0
+27/04/2022 10:58:30 24.0
+27/04/2022 10:58:30 24.0
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 md6996
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 CHANDELIER 5 LIGHTS MOTTLED BLACK
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 AEL5024MB
+27/04/2022 10:58:30 0.25
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 22.0
+27/04/2022 10:58:30 24.0
+27/04/2022 10:58:30 24.0
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 md6997
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 CHANDELIER 5 LIGHTS LIGHT GOLD
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 APN5026LG
+27/04/2022 10:58:30 0.25
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 MLTR
+27/04/2022 10:58:30 22.75
+27/04/2022 10:58:30 26.0
+27/04/2022 10:58:30 26.0
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 Creating Service Folder: rs1319
+27/04/2022 10:58:30 rs1319
+27/04/2022 10:58:30 rs1319
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 Not Started
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 0.08
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 CYCLING
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 sh10919
+27/04/2022 10:58:30 rs1319
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 Not Started
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 0.08
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 CYCLING
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 md6991
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 sh10924
+27/04/2022 10:58:30 rs1319
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 Not Started
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 0.08
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 CYCLING
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 md6992
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 sh10936
+27/04/2022 10:58:30 rs1319
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 Not Started
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 0.08
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 CYCLING
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 md6993
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 sh11008
+27/04/2022 10:58:30 rs1319
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 P2
+27/04/2022 10:58:30 Not Started
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 0.08
+27/04/2022 10:58:30 Quoizel
+27/04/2022 10:58:30 CYCLING
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 nan
+27/04/2022 10:58:30 md6994
+27/04/2022 10:58:30 nan
+27/04/2022 10:59:39 Clearing Project Structure
+27/04/2022 10:59:39 Executing Action
+27/04/2022 10:59:40 Creating Service Folder: MLTR
+27/04/2022 10:59:40 'generator' object has no attribute 'values'
+27/04/2022 11:00:37 Clearing Project Structure
+27/04/2022 11:00:37 Executing Action
+27/04/2022 11:00:37 Creating Service Folder: MLTR
+27/04/2022 11:00:37 'generator' object has no attribute 'values'
+27/04/2022 11:03:56 Clearing Project Structure
+27/04/2022 11:03:57 Executing Action
+27/04/2022 11:03:57 Creating Service Folder: MLTR
+27/04/2022 11:03:57 Pandas(Index=0L, Nome='md6991', Pasta='MLTR', Description='SEMI FLUSH 3 LIGHTS MATTE BLACK', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='ADL1716MBK', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=19.0, Width=16.0, Depth=16.0, Incoming=nan, Outcoming=nan)
+27/04/2022 11:03:57 Pandas(Index=1L, Nome='md6992', Pasta='MLTR', Description='PENDANT 4 LIGHTS MATTE BLACK', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='ADL2820MBK', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=28.0, Width=20.25, Depth=20.25, Incoming=nan, Outcoming=nan)
+27/04/2022 11:03:57 Pandas(Index=2L, Nome='md6993', Pasta='MLTR', Description='CHANDELIER 6 LIGHTS MATTE BLACK', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='ADL5026MBK', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=31.5, Width=26.0, Depth=26.0, Incoming=nan, Outcoming=nan)
+27/04/2022 11:03:57 Pandas(Index=3L, Nome='md6994', Pasta='MLTR', Description='CHANDELIER 9 LIGHTS MATTE BLACK', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='ADL5030MBK', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=36.0, Width=30.0, Depth=30.0, Incoming=nan, Outcoming=nan)
+27/04/2022 11:03:57 Pandas(Index=4L, Nome='md6995', Pasta='MLTR', Description='CHANDELIER 5 LIGHTS ANTIQUE WHITE', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='AEL5024AWH', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=22.0, Width=24.0, Depth=24.0, Incoming=nan, Outcoming=nan)
+27/04/2022 11:03:57 Pandas(Index=5L, Nome='md6996', Pasta='MLTR', Description='CHANDELIER 5 LIGHTS MOTTLED BLACK', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='AEL5024MB', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=22.0, Width=24.0, Depth=24.0, Incoming=nan, Outcoming=nan)
+27/04/2022 11:03:57 Pandas(Index=6L, Nome='md6997', Pasta='MLTR', Description='CHANDELIER 5 LIGHTS LIGHT GOLD', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='APN5026LG', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=22.75, Width=26.0, Depth=26.0, Incoming=nan, Outcoming=nan)
+27/04/2022 11:03:57 Creating Service Folder: rs1319
+27/04/2022 11:03:57 Pandas(Index=0L, Nome='rs1319', Pasta='rs1319', Description=nan, Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='Not Started', SKU=nan, Bid=0.08, Scope='Quoizel', Type='CYCLING', Height=nan, Width=nan, Depth=nan, Incoming=nan, Outcoming=nan)
+27/04/2022 11:03:57 Pandas(Index=1L, Nome='sh10919', Pasta='rs1319', Description=nan, Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='Not Started', SKU=nan, Bid=0.08, Scope='Quoizel', Type='CYCLING', Height=nan, Width=nan, Depth=nan, Incoming='md6991', Outcoming=nan)
+27/04/2022 11:03:57 Pandas(Index=2L, Nome='sh10924', Pasta='rs1319', Description=nan, Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='Not Started', SKU=nan, Bid=0.08, Scope='Quoizel', Type='CYCLING', Height=nan, Width=nan, Depth=nan, Incoming='md6992', Outcoming=nan)
+27/04/2022 11:03:57 Pandas(Index=3L, Nome='sh10936', Pasta='rs1319', Description=nan, Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='Not Started', SKU=nan, Bid=0.08, Scope='Quoizel', Type='CYCLING', Height=nan, Width=nan, Depth=nan, Incoming='md6993', Outcoming=nan)
+27/04/2022 11:03:57 Pandas(Index=4L, Nome='sh11008', Pasta='rs1319', Description=nan, Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='Not Started', SKU=nan, Bid=0.08, Scope='Quoizel', Type='CYCLING', Height=nan, Width=nan, Depth=nan, Incoming='md6994', Outcoming=nan)
+27/04/2022 11:05:13 Clearing Project Structure
+27/04/2022 11:05:14 Executing Action
+27/04/2022 11:05:14 Creating Service Folder: MLTR
+27/04/2022 11:05:15 tuple indices must be integers, not str
+27/04/2022 11:06:05 Clearing Project Structure
+27/04/2022 11:06:05 Executing Action
+27/04/2022 11:06:06 Creating Service Folder: MLTR
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:06:06 Creating Service Folder: rs1319
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:06:06 <class 'pandas.core.frame.Pandas'>
+27/04/2022 11:07:57 Clearing Project Structure
+27/04/2022 11:07:58 Executing Action
+27/04/2022 11:07:59 Creating Service Folder: MLTR
+27/04/2022 11:07:59 md6991
+27/04/2022 11:07:59 md6992
+27/04/2022 11:07:59 md6993
+27/04/2022 11:07:59 md6994
+27/04/2022 11:07:59 md6995
+27/04/2022 11:07:59 md6996
+27/04/2022 11:07:59 md6997
+27/04/2022 11:07:59 Creating Service Folder: rs1319
+27/04/2022 11:07:59 rs1319
+27/04/2022 11:07:59 sh10919
+27/04/2022 11:07:59 sh10924
+27/04/2022 11:07:59 sh10936
+27/04/2022 11:07:59 sh11008
+27/04/2022 11:09:19 Clearing Project Structure
+27/04/2022 11:09:20 Executing Action
+27/04/2022 11:09:20 Creating Service Folder: MLTR
+27/04/2022 11:09:20 Creating Task: md6991
+27/04/2022 11:09:20 Creating Task: md6992
+27/04/2022 11:09:20 Creating Task: md6993
+27/04/2022 11:09:20 Creating Task: md6994
+27/04/2022 11:09:20 Creating Task: md6995
+27/04/2022 11:09:20 Creating Task: md6996
+27/04/2022 11:09:20 Creating Task: md6997
+27/04/2022 11:09:20 Creating Service Folder: rs1319
+27/04/2022 11:09:20 Creating Task: rs1319
+27/04/2022 11:09:20 Creating Task: sh10919
+27/04/2022 11:09:20 Creating Task: sh10924
+27/04/2022 11:09:20 Creating Task: sh10936
+27/04/2022 11:09:20 Creating Task: sh11008
+27/04/2022 11:19:17 Clearing Project Structure
+27/04/2022 11:19:19 Executing Action
+27/04/2022 11:19:19 Creating Service Folder: MLTR
+27/04/2022 11:19:19 Creating Task: md6991
+27/04/2022 11:19:19 'float' object has no attribute '__getitem__'
+27/04/2022 11:20:27 Clearing Project Structure
+27/04/2022 11:20:27 Executing Action
+27/04/2022 11:20:28 Creating Service Folder: MLTR
+27/04/2022 11:20:28 Creating Task: md6991
+27/04/2022 11:20:28 Creating Task: md6992
+27/04/2022 11:20:28 Creating Task: md6993
+27/04/2022 11:20:28 Creating Task: md6994
+27/04/2022 11:20:28 Creating Task: md6995
+27/04/2022 11:20:28 Creating Task: md6996
+27/04/2022 11:20:28 Creating Task: md6997
+27/04/2022 11:20:28 Creating Service Folder: rs1319
+27/04/2022 11:20:28 Creating Task: rs1319
+27/04/2022 11:20:28 Creating Task: sh10919
+27/04/2022 11:20:28 Creating Task: sh10924
+27/04/2022 11:20:28 Creating Task: sh10936
+27/04/2022 11:20:28 Creating Task: sh11008
+27/04/2022 11:21:21 Clearing Project Structure
+27/04/2022 11:21:23 Executing Action
+27/04/2022 11:21:23 Creating Service Folder: MLTR
+27/04/2022 11:21:23 Creating Task: md6991
+27/04/2022 11:21:23 'float' object has no attribute '__getitem__'
+27/04/2022 11:22:00 Clearing Project Structure
+27/04/2022 11:22:00 Executing Action
+27/04/2022 11:22:01 Creating Service Folder: MLTR
+27/04/2022 11:22:01 Creating Task: md6991
+27/04/2022 11:22:01 'float' object has no attribute '__getitem__'
+27/04/2022 11:23:21 Clearing Project Structure
+27/04/2022 11:23:21 Executing Action
+27/04/2022 11:23:22 Creating Service Folder: MLTR
+27/04/2022 11:23:22 Creating Task: md6991
+27/04/2022 11:23:22 Cannot convert <dynamic ftrack TypedContextList object 989552880> to collection.
+27/04/2022 11:25:09 Clearing Project Structure
+27/04/2022 11:25:09 Executing Action
+27/04/2022 11:25:10 Creating Service Folder: MLTR
+27/04/2022 11:25:10 Creating Task: md6991
+27/04/2022 11:25:10 Cannot convert <dynamic ftrack TypedContextList object 989925560> to collection.
+27/04/2022 11:25:34 Clearing Project Structure
+27/04/2022 11:25:34 Executing Action
+27/04/2022 11:25:34 Creating Service Folder: MLTR
+27/04/2022 11:25:34 Creating Task: md6991
+27/04/2022 11:25:34 Cannot convert <dynamic ftrack TypedContextList object 989926904> to collection.
+27/04/2022 11:31:23 Clearing Project Structure
+27/04/2022 11:31:23 Executing Action
+27/04/2022 11:31:24 Creating Service Folder: MLTR
+27/04/2022 11:31:24 Creating Task: md6991
+27/04/2022 11:31:24 cannot concatenate 'str' and 'float' objects
+27/04/2022 11:33:06 Clearing Project Structure
+27/04/2022 11:33:06 Executing Action
+27/04/2022 11:33:07 Creating Service Folder: MLTR
+27/04/2022 11:33:07 Creating Task: md6991
+27/04/2022 11:33:07 'Outcoming Task'
+27/04/2022 11:33:50 Clearing Project Structure
+27/04/2022 11:33:50 Executing Action
+27/04/2022 11:33:51 Creating Service Folder: MLTR
+27/04/2022 11:33:51 Creating Task: md6991
+27/04/2022 11:33:51 cannot concatenate 'str' and 'float' objects
+27/04/2022 11:34:50 Clearing Project Structure
+27/04/2022 11:34:50 Executing Action
+27/04/2022 11:34:50 Creating Service Folder: MLTR
+27/04/2022 11:34:50 Creating Task: md6991
+27/04/2022 11:34:50 cannot concatenate 'str' and 'float' objects
+27/04/2022 11:35:22 Clearing Project Structure
+27/04/2022 11:35:22 Executing Action
+27/04/2022 11:35:23 Creating Service Folder: MLTR
+27/04/2022 11:35:23 Creating Task: md6991
+27/04/2022 11:35:23 nan
+27/04/2022 11:35:23 cannot concatenate 'str' and 'float' objects
+27/04/2022 11:35:56 Clearing Project Structure
+27/04/2022 11:35:56 Executing Action
+27/04/2022 11:35:56 Creating Service Folder: MLTR
+27/04/2022 11:35:56 Creating Task: md6991
+27/04/2022 11:35:56 nan
+27/04/2022 11:35:56 cannot concatenate 'str' and 'float' objects
+27/04/2022 11:36:06 Clearing Project Structure
+27/04/2022 11:36:06 Executing Action
+27/04/2022 11:36:06 Creating Service Folder: MLTR
+27/04/2022 11:36:06 Creating Task: md6991
+27/04/2022 11:36:06 nan
+27/04/2022 11:36:06 cannot concatenate 'str' and 'float' objects
+27/04/2022 11:36:34 Clearing Project Structure
+27/04/2022 11:36:34 Executing Action
+27/04/2022 11:36:35 Creating Service Folder: MLTR
+27/04/2022 11:36:35 Creating Task: md6991
+27/04/2022 11:36:35 cannot concatenate 'str' and 'float' objects
+27/04/2022 11:37:24 Clearing Project Structure
+27/04/2022 11:37:25 Executing Action
+27/04/2022 11:37:25 Creating Service Folder: MLTR
+27/04/2022 11:37:25 Creating Task: md6991
+27/04/2022 11:37:25 Creating Task: md6992
+27/04/2022 11:37:25 Creating Task: md6993
+27/04/2022 11:37:25 Creating Task: md6994
+27/04/2022 11:37:25 Creating Task: md6995
+27/04/2022 11:37:25 Creating Task: md6996
+27/04/2022 11:37:25 Creating Task: md6997
+27/04/2022 11:37:25 Creating Service Folder: rs1319
+27/04/2022 11:37:25 Creating Task: rs1319
+27/04/2022 11:37:25 Creating Task: sh10919
+27/04/2022 11:37:25 Creating Task: sh10924
+27/04/2022 11:37:25 Creating Task: sh10936
+27/04/2022 11:37:25 Creating Task: sh11008
+27/04/2022 11:38:42 Clearing Project Structure
+27/04/2022 11:38:45 Executing Action
+27/04/2022 11:38:45 Creating Service Folder: MLTR
+27/04/2022 11:38:45 Creating Task: md6991
+27/04/2022 11:38:45 Creating Task: md6992
+27/04/2022 11:38:45 Creating Task: md6993
+27/04/2022 11:38:45 Creating Task: md6994
+27/04/2022 11:38:45 Creating Task: md6995
+27/04/2022 11:38:45 Creating Task: md6996
+27/04/2022 11:38:45 Creating Task: md6997
+27/04/2022 11:38:45 Creating Service Folder: rs1319
+27/04/2022 11:38:45 Creating Task: rs1319
+27/04/2022 11:38:45 Creating Task: sh10919
+27/04/2022 11:38:45 Creating Task: sh10924
+27/04/2022 11:38:45 Creating Task: sh10936
+27/04/2022 11:38:45 Creating Task: sh11008
+27/04/2022 11:39:45 Clearing Project Structure
+27/04/2022 11:39:46 Executing Action
+27/04/2022 11:39:47 Creating Service Folder: MLTR
+27/04/2022 11:39:47 Creating Task: md6991
+27/04/2022 11:39:47 Creating Task Link: nan
+27/04/2022 11:39:47 Expected result, but no result was found.
+27/04/2022 11:41:35 Clearing Project Structure
+27/04/2022 11:41:35 Executing Action
+27/04/2022 11:41:36 Creating Service Folder: MLTR
+27/04/2022 11:41:36 Creating Task: md6991
+27/04/2022 11:41:36 Creating Task: md6992
+27/04/2022 11:41:36 Creating Task: md6993
+27/04/2022 11:41:36 Creating Task: md6994
+27/04/2022 11:41:36 Creating Task: md6995
+27/04/2022 11:41:36 Creating Task: md6996
+27/04/2022 11:41:36 Creating Task: md6997
+27/04/2022 11:41:36 Creating Service Folder: rs1319
+27/04/2022 11:41:36 Creating Task: rs1319
+27/04/2022 11:41:36 Creating Task: sh10919
+27/04/2022 11:41:36 Creating Task: sh10924
+27/04/2022 11:41:36 Creating Task: sh10936
+27/04/2022 11:41:36 Creating Task: sh11008
+27/04/2022 11:42:22 Clearing Project Structure
+27/04/2022 11:42:24 Executing Action
+27/04/2022 11:42:24 Creating Service Folder: MLTR
+27/04/2022 11:42:24 Creating Task: md6991
+27/04/2022 11:42:24 nan
+27/04/2022 11:42:24 Creating Task: md6992
+27/04/2022 11:42:24 nan
+27/04/2022 11:42:24 Creating Task: md6993
+27/04/2022 11:42:24 nan
+27/04/2022 11:42:24 Creating Task: md6994
+27/04/2022 11:42:24 nan
+27/04/2022 11:42:24 Creating Task: md6995
+27/04/2022 11:42:24 nan
+27/04/2022 11:42:24 Creating Task: md6996
+27/04/2022 11:42:24 nan
+27/04/2022 11:42:24 Creating Task: md6997
+27/04/2022 11:42:24 nan
+27/04/2022 11:42:25 Creating Service Folder: rs1319
+27/04/2022 11:42:25 Creating Task: rs1319
+27/04/2022 11:42:25 nan
+27/04/2022 11:42:25 Creating Task: sh10919
+27/04/2022 11:42:25 nan
+27/04/2022 11:42:25 Creating Task: sh10924
+27/04/2022 11:42:25 nan
+27/04/2022 11:42:25 Creating Task: sh10936
+27/04/2022 11:42:25 nan
+27/04/2022 11:42:25 Creating Task: sh11008
+27/04/2022 11:42:25 nan
+27/04/2022 11:43:59 Clearing Project Structure
+27/04/2022 11:44:00 Executing Action
+27/04/2022 11:44:01 Creating Service Folder: MLTR
+27/04/2022 11:44:01 Creating Task: md6991
+27/04/2022 11:44:01 nan
+27/04/2022 11:44:01 Creating Task: md6992
+27/04/2022 11:44:01 nan
+27/04/2022 11:44:01 Creating Task: md6993
+27/04/2022 11:44:01 nan
+27/04/2022 11:44:01 Creating Task: md6994
+27/04/2022 11:44:01 nan
+27/04/2022 11:44:01 Creating Task: md6995
+27/04/2022 11:44:01 nan
+27/04/2022 11:44:01 Creating Task: md6996
+27/04/2022 11:44:01 nan
+27/04/2022 11:44:01 Creating Task: md6997
+27/04/2022 11:44:01 nan
+27/04/2022 11:44:01 Creating Service Folder: rs1319
+27/04/2022 11:44:01 Creating Task: rs1319
+27/04/2022 11:44:01 nan
+27/04/2022 11:44:01 Creating Task: sh10919
+27/04/2022 11:44:01 md6991
+27/04/2022 11:44:01 Creating Task Link: md6991
+27/04/2022 11:44:01 Expected result, but no result was found.
+27/04/2022 11:47:12 Clearing Project Structure
+27/04/2022 11:47:13 Executing Action
+27/04/2022 11:47:13 Creating Service Folder: MLTR
+27/04/2022 11:47:13 Creating Task: md6991
+27/04/2022 11:47:13 nan
+27/04/2022 11:47:14 Creating Task: md6992
+27/04/2022 11:47:14 nan
+27/04/2022 11:47:14 Creating Task: md6993
+27/04/2022 11:47:14 nan
+27/04/2022 11:47:15 Creating Task: md6994
+27/04/2022 11:47:15 nan
+27/04/2022 11:47:15 Creating Task: md6995
+27/04/2022 11:47:15 nan
+27/04/2022 11:47:15 Creating Task: md6996
+27/04/2022 11:47:15 nan
+27/04/2022 11:47:16 Creating Task: md6997
+27/04/2022 11:47:16 nan
+27/04/2022 11:47:16 Creating Service Folder: rs1319
+27/04/2022 11:47:16 Creating Task: rs1319
+27/04/2022 11:47:16 nan
+27/04/2022 11:47:16 Creating Task: sh10919
+27/04/2022 11:47:16 md6991
+27/04/2022 11:47:16 Creating Task Link: md6991
+27/04/2022 11:47:17 Server reported error: OperationalError((MySQLdb._exceptions.OperationalError) (1048, "Column 'category_id' cannot be null") [SQL: u'INSERT INTO list (id, name, is_open, category_id, date, user_id, project_id, system_type) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (u'596fc372-d293-4a5d-800f-f54363385d16', '', 1, None, None, None, None, 'task')] (Background on this error at: http://sqlalche.me/e/e3q8))
+27/04/2022 11:50:38 Clearing Project Structure
+27/04/2022 11:50:39 Executing Action
+27/04/2022 11:50:40 Creating Service Folder: MLTR
+27/04/2022 11:50:40 Creating Task: md6991
+27/04/2022 11:50:40 nan
+27/04/2022 11:50:40 Creating Task: md6992
+27/04/2022 11:50:40 nan
+27/04/2022 11:50:41 Creating Task: md6993
+27/04/2022 11:50:41 nan
+27/04/2022 11:50:41 Creating Task: md6994
+27/04/2022 11:50:41 nan
+27/04/2022 11:50:41 Creating Task: md6995
+27/04/2022 11:50:41 nan
+27/04/2022 11:50:42 Creating Task: md6996
+27/04/2022 11:50:42 nan
+27/04/2022 11:50:42 Creating Task: md6997
+27/04/2022 11:50:42 nan
+27/04/2022 11:50:43 Creating Service Folder: rs1319
+27/04/2022 11:50:43 Creating Task: rs1319
+27/04/2022 11:50:43 nan
+27/04/2022 11:50:43 Creating Task: sh10919
+27/04/2022 11:50:43 md6991
+27/04/2022 11:50:43 Creating Task Link: md6991
+27/04/2022 11:50:44 Server reported error: OperationalError((MySQLdb._exceptions.OperationalError) (1048, "Column 'category_id' cannot be null") [SQL: u'INSERT INTO list (id, name, is_open, category_id, date, user_id, project_id, system_type) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (u'65e31672-581e-4329-815d-bf935a21f932', '', 1, None, None, None, None, 'task')] (Background on this error at: http://sqlalche.me/e/e3q8))
+27/04/2022 11:53:01 Clearing Project Structure
+27/04/2022 11:53:03 Executing Action
+27/04/2022 11:53:03 Creating Service Folder: MLTR
+27/04/2022 11:53:03 Creating Task: md6991
+27/04/2022 11:53:03 nan
+27/04/2022 11:53:04 Creating Task: md6992
+27/04/2022 11:53:04 nan
+27/04/2022 11:53:04 Creating Task: md6993
+27/04/2022 11:53:04 nan
+27/04/2022 11:53:04 Creating Task: md6994
+27/04/2022 11:53:04 nan
+27/04/2022 11:53:05 Creating Task: md6995
+27/04/2022 11:53:05 nan
+27/04/2022 11:53:05 Creating Task: md6996
+27/04/2022 11:53:05 nan
+27/04/2022 11:53:05 Creating Task: md6997
+27/04/2022 11:53:05 nan
+27/04/2022 11:53:06 Creating Service Folder: rs1319
+27/04/2022 11:53:06 Creating Task: rs1319
+27/04/2022 11:53:06 nan
+27/04/2022 11:53:06 Creating Task: sh10919
+27/04/2022 11:53:06 md6991
+27/04/2022 11:53:06 Creating Task Link: md6991
+27/04/2022 11:53:07 Creating Task: sh10924
+27/04/2022 11:53:07 md6992
+27/04/2022 11:53:07 Creating Task Link: md6992
+27/04/2022 11:53:08 Creating Task: sh10936
+27/04/2022 11:53:08 md6993
+27/04/2022 11:53:08 Creating Task Link: md6993
+27/04/2022 11:53:08 Creating Task: sh11008
+27/04/2022 11:53:08 md6994
+27/04/2022 11:53:08 Creating Task Link: md6994
