@@ -2664,3 +2664,718 @@ Name: 0, dtype: object)
 27/04/2022 11:53:08 Creating Task: sh11008
 27/04/2022 11:53:08 md6994
 27/04/2022 11:53:08 Creating Task Link: md6994
+27/04/2022 12:07:26 Clearing Project Structure
+27/04/2022 12:07:27 Executing Action
+27/04/2022 12:07:28 Creating Service Folder: MLTR
+27/04/2022 12:07:28 Creating Task: md6991
+27/04/2022 12:07:28 cannot concatenate 'str' and 'float' objects
+27/04/2022 12:09:29 Clearing Project Structure
+27/04/2022 12:09:29 Executing Action
+27/04/2022 12:09:30 Creating Service Folder: MLTR
+27/04/2022 12:09:30 Creating Task: md6991
+27/04/2022 12:09:30 Creating Task Link: nan
+27/04/2022 12:09:31 Creating Task: md6992
+27/04/2022 12:09:31 Creating Task Link: nan
+27/04/2022 12:09:31 Creating Task: md6993
+27/04/2022 12:09:31 Creating Task Link: nan
+27/04/2022 12:09:32 Creating Task: md6994
+27/04/2022 12:09:32 Creating Task Link: nan
+27/04/2022 12:09:33 Creating Task: md6995
+27/04/2022 12:09:33 Creating Task Link: nan
+27/04/2022 12:09:33 Creating Task: md6996
+27/04/2022 12:09:33 Creating Task Link: nan
+27/04/2022 12:09:34 Creating Task: md6997
+27/04/2022 12:09:34 Creating Task Link: nan
+27/04/2022 12:09:35 Creating Service Folder: rs1319
+27/04/2022 12:09:35 Creating Task: rs1319
+27/04/2022 12:09:35 Creating Task Link: nan
+27/04/2022 12:09:36 Creating Task: sh10919
+27/04/2022 12:09:36 Creating Task Link: md6991
+27/04/2022 12:09:37 Creating Task: sh10924
+27/04/2022 12:09:37 Creating Task Link: md6992
+27/04/2022 12:09:38 Creating Task: sh10936
+27/04/2022 12:09:38 Creating Task Link: md6993
+27/04/2022 12:09:39 Creating Task: sh11008
+27/04/2022 12:09:39 Creating Task Link: md6994
+27/04/2022 12:12:25 Clearing Project Structure
+27/04/2022 12:12:27 Executing Action
+27/04/2022 12:12:28 Creating Service Folder: MLTR
+27/04/2022 12:12:28 Creating Task: md6991
+27/04/2022 12:12:28 local variable 'task_link' referenced before assignment
+27/04/2022 12:13:15 Clearing Project Structure
+27/04/2022 12:13:15 Executing Action
+27/04/2022 12:13:15 Creating Service Folder: MLTR
+27/04/2022 12:13:16 Creating Task: md6991
+27/04/2022 12:13:16 Creating Task: md6992
+27/04/2022 12:13:16 Creating Task: md6993
+27/04/2022 12:13:17 Creating Task: md6994
+27/04/2022 12:13:17 Creating Task: md6995
+27/04/2022 12:13:17 Creating Task: md6996
+27/04/2022 12:13:18 Creating Task: md6997
+27/04/2022 12:13:18 Creating Service Folder: rs1319
+27/04/2022 12:13:18 Creating Task: rs1319
+27/04/2022 12:13:18 Creating Task: sh10919
+27/04/2022 12:13:18 Creating Task Link: md6991
+27/04/2022 12:13:20 Creating Task: sh10924
+27/04/2022 12:13:20 Creating Task Link: md6992
+27/04/2022 12:13:21 Creating Task: sh10936
+27/04/2022 12:13:21 Creating Task Link: md6993
+27/04/2022 12:13:22 Creating Task: sh11008
+27/04/2022 12:13:22 Creating Task Link: md6994
+27/04/2022 12:17:31 Clearing Project Structure
+27/04/2022 12:17:33 Executing Action
+27/04/2022 12:17:33 Creating Service Folder: MLTR
+27/04/2022 12:17:33 CreateFolder instance has no attribute 'project'
+27/04/2022 12:18:47 Clearing Project Structure
+27/04/2022 12:18:48 Executing Action
+27/04/2022 12:18:48 Creating Service Folder: MLTR
+27/04/2022 12:18:48 Creating Task: md6991
+27/04/2022 12:18:49 Creating Task: md6992
+27/04/2022 12:18:49 Creating Task: md6993
+27/04/2022 12:18:50 Creating Task: md6994
+27/04/2022 12:18:50 Creating Task: md6995
+27/04/2022 12:18:50 Creating Task: md6996
+27/04/2022 12:18:51 Creating Task: md6997
+27/04/2022 12:18:51 Creating Service Folder: rs1319
+27/04/2022 12:18:51 Creating Task: rs1319
+27/04/2022 12:18:51 Creating Task: sh10919
+27/04/2022 12:18:51 Creating Task Link: md6991
+27/04/2022 12:18:52 Creating Task: sh10924
+27/04/2022 12:18:52 Creating Task Link: md6992
+27/04/2022 12:18:53 Creating Task: sh10936
+27/04/2022 12:18:53 Creating Task Link: md6993
+27/04/2022 12:18:55 Creating Task: sh11008
+27/04/2022 12:18:55 Creating Task Link: md6994
+27/04/2022 12:26:48 Clearing Project Structure
+27/04/2022 12:26:50 CreateProjectStructure instance has no attribute '_load_csv_files'
+27/04/2022 12:27:50 Clearing Project Structure
+27/04/2022 12:27:51 Creating Service Folder: MLTR
+27/04/2022 12:27:51 Creating Task: md6991
+27/04/2022 12:27:52 Creating Task: md6992
+27/04/2022 12:27:52 Creating Task: md6993
+27/04/2022 12:27:52 Creating Task: md6994
+27/04/2022 12:27:53 Creating Task: md6995
+27/04/2022 12:27:53 Creating Task: md6996
+27/04/2022 12:27:54 Creating Task: md6997
+27/04/2022 12:27:54 Creating Service Folder: rs1319
+27/04/2022 12:27:54 Creating Task: rs1319
+27/04/2022 12:27:54 Creating Task: sh10919
+27/04/2022 12:27:54 Creating Task Link: md6991
+27/04/2022 12:27:56 Creating Task: sh10924
+27/04/2022 12:27:56 Creating Task Link: md6992
+27/04/2022 12:27:57 Creating Task: sh10936
+27/04/2022 12:27:57 Creating Task Link: md6993
+27/04/2022 12:27:58 Creating Task: sh11008
+27/04/2022 12:27:58 Creating Task Link: md6994
+27/04/2022 13:15:50 Clearing Project Structure
+27/04/2022 13:15:50 Creating Service Folder: MLTR
+27/04/2022 13:15:50 Creating Task: md6991
+27/04/2022 13:15:51 Creating Task: md6992
+27/04/2022 13:15:51 Creating Task: md6993
+27/04/2022 13:15:52 Creating Task: md6994
+27/04/2022 13:15:52 Creating Task: md6995
+27/04/2022 13:15:53 Creating Task: md6996
+27/04/2022 13:15:53 Creating Task: md6997
+27/04/2022 13:15:53 Creating Service Folder: rs1319
+27/04/2022 13:15:53 Creating Task: rs1319
+27/04/2022 13:15:54 Creating Task: sh10919
+27/04/2022 13:15:54 Creating Task Link: md6991
+27/04/2022 13:15:55 Creating Task: sh10924
+27/04/2022 13:15:55 Creating Task Link: md6992
+27/04/2022 13:15:56 Creating Task: sh10936
+27/04/2022 13:15:56 Creating Task Link: md6993
+27/04/2022 13:15:57 Creating Task: sh11008
+27/04/2022 13:15:57 Creating Task Link: md6994
+27/04/2022 14:41:25 Clearing Project Structure
+27/04/2022 14:41:28 Creating Service Folder: MLTR
+27/04/2022 14:41:28 Creating Task: md6991
+27/04/2022 14:41:28 'Typewhere'
+27/04/2022 14:42:44 Clearing Project Structure
+27/04/2022 14:42:45 Creating Service Folder: MLTR
+27/04/2022 14:42:45 Creating Task: md6991
+27/04/2022 14:42:46 Creating Task: md6992
+27/04/2022 14:42:47 Creating Task: md6993
+27/04/2022 14:42:48 Creating Task: md6994
+27/04/2022 14:42:49 Creating Task: md6995
+27/04/2022 14:42:50 Creating Task: md6996
+27/04/2022 14:42:51 Creating Task: md6997
+27/04/2022 14:42:52 Creating Service Folder: rs1319
+27/04/2022 14:42:52 Creating Task: rs1319
+27/04/2022 14:42:53 Creating Task: sh10919
+27/04/2022 14:42:54 Creating Task Link: md6991
+27/04/2022 14:42:55 Creating Task: sh10924
+27/04/2022 14:42:56 Creating Task Link: md6992
+27/04/2022 14:42:57 Creating Task: sh10936
+27/04/2022 14:42:57 Creating Task Link: md6993
+27/04/2022 14:42:58 Creating Task: sh11008
+27/04/2022 14:42:59 Creating Task Link: md6994
+27/04/2022 14:44:03 Clearing Project Structure
+27/04/2022 14:44:05 Creating Service Folder: MLTR
+27/04/2022 14:44:05 Creating Task: md6991
+27/04/2022 14:44:06 Creating Task: md6992
+27/04/2022 14:44:07 Creating Task: md6993
+27/04/2022 14:44:08 Creating Task: md6994
+27/04/2022 14:44:09 Creating Task: md6995
+27/04/2022 14:44:09 Creating Task: md6996
+27/04/2022 14:44:10 Creating Task: md6997
+27/04/2022 14:44:11 Creating Service Folder: rs1319
+27/04/2022 14:44:11 Creating Task: rs1319
+27/04/2022 14:44:12 Creating Task: sh10919
+27/04/2022 14:44:13 Creating Task Link: md6991
+27/04/2022 14:44:14 Creating Task: sh10924
+27/04/2022 14:44:14 Creating Task Link: md6992
+27/04/2022 14:44:15 Creating Task: sh10936
+27/04/2022 14:44:16 Creating Task Link: md6993
+27/04/2022 14:44:17 Creating Task: sh11008
+27/04/2022 14:44:17 Creating Task Link: md6994
+27/04/2022 14:45:35 Clearing Project Structure
+27/04/2022 14:45:37 Creating Service Folder: MLTR
+27/04/2022 14:45:37 Creating Task: md6991
+27/04/2022 14:45:39 Creating Task: md6992
+27/04/2022 14:45:40 Creating Task: md6993
+27/04/2022 14:45:41 Creating Task: md6994
+27/04/2022 14:45:43 Creating Task: md6995
+27/04/2022 14:45:44 Creating Task: md6996
+27/04/2022 14:45:46 Creating Task: md6997
+27/04/2022 14:45:47 Creating Service Folder: rs1319
+27/04/2022 14:45:47 Creating Task: rs1319
+27/04/2022 14:45:49 Creating Task: sh10919
+27/04/2022 14:45:50 Creating Task Link: md6991
+27/04/2022 14:45:51 Creating Task: sh10924
+27/04/2022 14:45:52 Creating Task Link: md6992
+27/04/2022 14:45:53 Creating Task: sh10936
+27/04/2022 14:45:54 Creating Task Link: md6993
+27/04/2022 14:45:55 Creating Task: sh11008
+27/04/2022 14:45:56 Creating Task Link: md6994
+27/04/2022 14:51:17 Clearing Project Structure
+27/04/2022 14:51:20 Creating Service Folder: MLTR
+27/04/2022 14:51:20 Creating Task: md6991
+27/04/2022 14:51:21 'Heigh'
+27/04/2022 14:52:06 Clearing Project Structure
+27/04/2022 14:52:06 Creating Service Folder: MLTR
+27/04/2022 14:52:06 Creating Task: md6991
+27/04/2022 14:52:09 Creating Task: md6992
+27/04/2022 14:52:11 Creating Task: md6993
+27/04/2022 14:52:13 Creating Task: md6994
+27/04/2022 14:52:15 Creating Task: md6995
+27/04/2022 14:52:17 Creating Task: md6996
+27/04/2022 14:52:19 Creating Task: md6997
+27/04/2022 14:52:21 Creating Service Folder: rs1319
+27/04/2022 14:52:21 Creating Task: rs1319
+27/04/2022 14:52:22 Creating Task: sh10919
+27/04/2022 14:52:24 Creating Task Link: md6991
+27/04/2022 14:52:25 Creating Task: sh10924
+27/04/2022 14:52:26 Creating Task Link: md6992
+27/04/2022 14:52:29 Creating Task: sh10936
+27/04/2022 14:52:30 Creating Task Link: md6993
+27/04/2022 14:52:32 Creating Task: sh11008
+27/04/2022 14:52:33 Creating Task Link: md6994
+27/04/2022 14:55:02 Clearing Project Structure
+27/04/2022 14:55:06 Creating Service Folder: MLTR
+27/04/2022 14:55:06 Creating Task: md6991
+27/04/2022 14:55:09 Creating Task: md6992
+27/04/2022 14:55:11 Creating Task: md6993
+27/04/2022 14:55:14 Creating Task: md6994
+27/04/2022 14:55:16 Creating Task: md6995
+27/04/2022 14:55:19 Creating Task: md6996
+27/04/2022 14:55:21 Creating Task: md6997
+27/04/2022 14:55:24 Creating Service Folder: rs1319
+27/04/2022 14:55:24 Creating Task: rs1319
+27/04/2022 14:55:27 Creating Task: sh10919
+27/04/2022 14:55:28 Creating Task Link: md6991
+27/04/2022 14:55:30 Creating Task: sh10924
+27/04/2022 14:55:31 Creating Task Link: md6992
+27/04/2022 14:55:33 Creating Task: sh10936
+27/04/2022 14:55:35 Creating Task Link: md6993
+27/04/2022 14:55:36 Creating Task: sh11008
+27/04/2022 14:55:38 Creating Task Link: md6994
+27/04/2022 14:58:04 Clearing Project Structure
+27/04/2022 14:58:08 Creating Service Folder: MLTR
+27/04/2022 14:58:08 Creating Task: md6991
+27/04/2022 14:58:11 Creating Task: md6992
+27/04/2022 14:58:13 Creating Task: md6993
+27/04/2022 14:58:15 Creating Task: md6994
+27/04/2022 14:58:18 Creating Task: md6995
+27/04/2022 14:58:20 Creating Task: md6996
+27/04/2022 14:58:22 Creating Task: md6997
+27/04/2022 14:58:24 Creating Service Folder: rs1319
+27/04/2022 14:58:24 Creating Task: rs1319
+27/04/2022 14:58:26 Server reported error: ProgrammingError((MySQLdb._exceptions.ProgrammingError) nan can not be used with MySQL [SQL: u'INSERT INTO task (taskid, thumbnail_id, bid, description, start_date, end_date, status_id, type_id, priority_id, isopen, isrequirecomment, object_type_id, project_id, sort) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (u'3b797ff1-3955-4d81-9a67-8553f488cd76', None, 0.08, nan, None, None, None, u'c87f8ac2-c566-11ec-997b-baf68fbd7d0f', u'847f663e-ead3-11e2-846c-f23c91dfaa16', 0, 0, u'11c137c0-ee7e-4f9c-91c5-8c77cec22b2c', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', None)] (Background on this error at: http://sqlalche.me/e/f405))
+27/04/2022 14:59:48 Clearing Project Structure
+27/04/2022 14:59:50 Creating Service Folder: MLTR
+27/04/2022 14:59:50 Creating Task: md6991
+27/04/2022 14:59:53 Creating Task: md6992
+27/04/2022 14:59:56 Creating Task: md6993
+27/04/2022 14:59:58 Creating Task: md6994
+27/04/2022 15:00:01 Creating Task: md6995
+27/04/2022 15:00:03 Creating Task: md6996
+27/04/2022 15:00:06 Creating Task: md6997
+27/04/2022 15:00:08 Creating Service Folder: rs1319
+27/04/2022 15:00:08 Creating Task: rs1319
+27/04/2022 15:00:10 Server reported error: ProgrammingError((MySQLdb._exceptions.ProgrammingError) nan can not be used with MySQL [SQL: u'INSERT INTO task (taskid, thumbnail_id, bid, description, start_date, end_date, status_id, type_id, priority_id, isopen, isrequirecomment, object_type_id, project_id, sort) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (u'3f56efb6-f14a-445e-925d-972e08684e40', None, 1.0, nan, None, None, None, u'c87f8ac2-c566-11ec-997b-baf68fbd7d0f', u'847f663e-ead3-11e2-846c-f23c91dfaa16', 0, 0, u'11c137c0-ee7e-4f9c-91c5-8c77cec22b2c', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', None)] (Background on this error at: http://sqlalche.me/e/f405))
+27/04/2022 15:02:05 Clearing Project Structure
+27/04/2022 15:02:07 Creating Service Folder: MLTR
+27/04/2022 15:02:07 Creating Task: md6991
+27/04/2022 15:02:10 Creating Task: md6992
+27/04/2022 15:02:12 Creating Task: md6993
+27/04/2022 15:02:15 Creating Task: md6994
+27/04/2022 15:02:17 Creating Task: md6995
+27/04/2022 15:02:20 Creating Task: md6996
+27/04/2022 15:02:22 Creating Task: md6997
+27/04/2022 15:02:25 Creating Service Folder: rs1319
+27/04/2022 15:02:25 Creating Task: rs1319
+27/04/2022 15:02:27 Server reported error: ProgrammingError((MySQLdb._exceptions.ProgrammingError) nan can not be used with MySQL [SQL: u'INSERT INTO task (taskid, thumbnail_id, bid, description, start_date, end_date, status_id, type_id, priority_id, isopen, isrequirecomment, object_type_id, project_id, sort) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (u'af0caf1d-6504-416a-b5fd-1efee028f109', None, 0.08, nan, None, None, None, u'c87f8ac2-c566-11ec-997b-baf68fbd7d0f', u'847f663e-ead3-11e2-846c-f23c91dfaa16', 0, 0, u'11c137c0-ee7e-4f9c-91c5-8c77cec22b2c', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', None)] (Background on this error at: http://sqlalche.me/e/f405))
+27/04/2022 15:03:10 Clearing Project Structure
+27/04/2022 15:03:12 Creating Service Folder: MLTR
+27/04/2022 15:03:12 Creating Task: md6991
+27/04/2022 15:03:14 0.25
+27/04/2022 15:03:14 Creating Task: md6992
+27/04/2022 15:03:16 0.25
+27/04/2022 15:03:16 Creating Task: md6993
+27/04/2022 15:03:18 0.25
+27/04/2022 15:03:19 Creating Task: md6994
+27/04/2022 15:03:20 0.25
+27/04/2022 15:03:21 Creating Task: md6995
+27/04/2022 15:03:24 0.25
+27/04/2022 15:03:25 Creating Task: md6996
+27/04/2022 15:03:27 0.25
+27/04/2022 15:03:29 Creating Task: md6997
+27/04/2022 15:03:31 0.25
+27/04/2022 15:03:32 Creating Service Folder: rs1319
+27/04/2022 15:03:32 Creating Task: rs1319
+27/04/2022 15:03:33 0.08
+27/04/2022 15:03:34 Server reported error: ProgrammingError((MySQLdb._exceptions.ProgrammingError) nan can not be used with MySQL [SQL: u'INSERT INTO task (taskid, thumbnail_id, bid, description, start_date, end_date, status_id, type_id, priority_id, isopen, isrequirecomment, object_type_id, project_id, sort) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (u'4da71aff-c57c-4ac4-a8ce-7b6851755387', None, 0.08, nan, None, None, None, u'c87f8ac2-c566-11ec-997b-baf68fbd7d0f', u'847f663e-ead3-11e2-846c-f23c91dfaa16', 0, 0, u'11c137c0-ee7e-4f9c-91c5-8c77cec22b2c', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', None)] (Background on this error at: http://sqlalche.me/e/f405))
+27/04/2022 15:04:23 Clearing Project Structure
+27/04/2022 15:04:25 Creating Service Folder: MLTR
+27/04/2022 15:04:25 Creating Task: md6991
+27/04/2022 15:04:27 0.25
+27/04/2022 15:04:27 0.25
+27/04/2022 15:04:28 Creating Task: md6992
+27/04/2022 15:04:29 0.25
+27/04/2022 15:04:29 0.25
+27/04/2022 15:04:30 Creating Task: md6993
+27/04/2022 15:04:32 0.25
+27/04/2022 15:04:32 0.25
+27/04/2022 15:04:33 Creating Task: md6994
+27/04/2022 15:04:34 0.25
+27/04/2022 15:04:34 0.25
+27/04/2022 15:04:35 Creating Task: md6995
+27/04/2022 15:04:37 0.25
+27/04/2022 15:04:37 0.25
+27/04/2022 15:04:37 Creating Task: md6996
+27/04/2022 15:04:39 0.25
+27/04/2022 15:04:39 0.25
+27/04/2022 15:04:40 Creating Task: md6997
+27/04/2022 15:04:42 0.25
+27/04/2022 15:04:42 0.25
+27/04/2022 15:04:43 Creating Service Folder: rs1319
+27/04/2022 15:04:43 Creating Task: rs1319
+27/04/2022 15:04:44 0.08
+27/04/2022 15:04:44 0.08
+27/04/2022 15:04:45 Server reported error: ProgrammingError((MySQLdb._exceptions.ProgrammingError) nan can not be used with MySQL [SQL: u'INSERT INTO task (taskid, thumbnail_id, bid, description, start_date, end_date, status_id, type_id, priority_id, isopen, isrequirecomment, object_type_id, project_id, sort) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (u'd9f1d517-202d-4d86-a3ae-7dbd8b42aa67', None, 0.08, nan, None, None, None, u'c87f8ac2-c566-11ec-997b-baf68fbd7d0f', u'847f663e-ead3-11e2-846c-f23c91dfaa16', 0, 0, u'11c137c0-ee7e-4f9c-91c5-8c77cec22b2c', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', None)] (Background on this error at: http://sqlalche.me/e/f405))
+27/04/2022 15:09:06 Clearing Project Structure
+27/04/2022 15:09:09 Creating Service Folder: MLTR
+27/04/2022 15:09:09 Creating Task: md6991
+27/04/2022 15:09:09 _get_correct_task_attribute() takes exactly 2 arguments (3 given)
+27/04/2022 15:09:49 Clearing Project Structure
+27/04/2022 15:09:50 Creating Service Folder: MLTR
+27/04/2022 15:09:50 Creating Task: md6991
+27/04/2022 15:09:52 0.25
+27/04/2022 15:09:52 0.25
+27/04/2022 15:09:52 Creating Task: md6992
+27/04/2022 15:09:54 0.25
+27/04/2022 15:09:54 0.25
+27/04/2022 15:09:55 Creating Task: md6993
+27/04/2022 15:09:56 0.25
+27/04/2022 15:09:56 0.25
+27/04/2022 15:09:57 Creating Task: md6994
+27/04/2022 15:09:58 0.25
+27/04/2022 15:09:58 0.25
+27/04/2022 15:09:59 Creating Task: md6995
+27/04/2022 15:10:01 0.25
+27/04/2022 15:10:01 0.25
+27/04/2022 15:10:01 Creating Task: md6996
+27/04/2022 15:10:03 0.25
+27/04/2022 15:10:03 0.25
+27/04/2022 15:10:04 Creating Task: md6997
+27/04/2022 15:10:05 0.25
+27/04/2022 15:10:05 0.25
+27/04/2022 15:10:06 Creating Service Folder: rs1319
+27/04/2022 15:10:06 Creating Task: rs1319
+27/04/2022 15:10:08 0.08
+27/04/2022 15:10:08 0.08
+27/04/2022 15:10:09 Creating Task: sh10919
+27/04/2022 15:10:10 0.08
+27/04/2022 15:10:10 0.08
+27/04/2022 15:10:10 Creating Task Link: md6991
+27/04/2022 15:10:12 Creating Task: sh10924
+27/04/2022 15:10:14 0.08
+27/04/2022 15:10:14 0.08
+27/04/2022 15:10:14 Creating Task Link: md6992
+27/04/2022 15:10:15 Creating Task: sh10936
+27/04/2022 15:10:17 0.08
+27/04/2022 15:10:17 0.08
+27/04/2022 15:10:17 Creating Task Link: md6993
+27/04/2022 15:10:18 Creating Task: sh11008
+27/04/2022 15:10:20 0.08
+27/04/2022 15:10:20 0.08
+27/04/2022 15:10:20 Creating Task Link: md6994
+27/04/2022 15:13:26 Clearing Project Structure
+27/04/2022 15:13:31 Creating Service Folder: MLTR
+27/04/2022 15:13:31 Creating Task: md6991
+27/04/2022 15:13:34 Creating Task: md6992
+27/04/2022 15:13:36 Creating Task: md6993
+27/04/2022 15:13:39 Creating Task: md6994
+27/04/2022 15:13:42 Creating Task: md6995
+27/04/2022 15:13:44 Creating Task: md6996
+27/04/2022 15:13:47 Creating Task: md6997
+27/04/2022 15:13:50 Creating Service Folder: rs1319
+27/04/2022 15:13:50 Creating Task: rs1319
+27/04/2022 15:13:54 Creating Task: sh10919
+27/04/2022 15:13:55 Creating Task Link: md6991
+27/04/2022 15:13:57 Creating Task: sh10924
+27/04/2022 15:13:59 Creating Task Link: md6992
+27/04/2022 15:14:00 Creating Task: sh10936
+27/04/2022 15:14:02 Creating Task Link: md6993
+27/04/2022 15:14:04 Creating Task: sh11008
+27/04/2022 15:14:06 Creating Task Link: md6994
+27/04/2022 15:15:03 Clearing Project Structure
+27/04/2022 15:15:06 Creating Service Folder: MLTR
+27/04/2022 15:15:06 Creating Task: md6991
+27/04/2022 15:15:10 Creating Task: md6992
+27/04/2022 15:15:12 Creating Task: md6993
+27/04/2022 15:15:16 Creating Task: md6994
+27/04/2022 15:15:19 Creating Task: md6995
+27/04/2022 15:15:21 Creating Task: md6996
+27/04/2022 15:15:24 Creating Task: md6997
+27/04/2022 15:15:26 Creating Service Folder: rs1319
+27/04/2022 15:15:26 Creating Task: rs1319
+27/04/2022 15:15:29 Creating Task: sh10919
+27/04/2022 15:15:31 Creating Task Link: md6991
+27/04/2022 15:15:32 Creating Task: sh10924
+27/04/2022 15:15:34 Creating Task Link: md6992
+27/04/2022 15:15:35 Creating Task: sh10936
+27/04/2022 15:15:37 Creating Task Link: md6993
+27/04/2022 15:15:39 Creating Task: sh11008
+27/04/2022 15:15:41 Creating Task Link: md6994
+27/04/2022 15:17:15 Clearing Project Structure
+27/04/2022 15:17:18 Creating Service Folder: MLTR
+27/04/2022 15:17:18 Creating Task: md6991
+27/04/2022 15:17:21 Creating Task: md6992
+27/04/2022 15:17:23 Creating Task: md6993
+27/04/2022 15:17:27 Creating Task: md6994
+27/04/2022 15:17:29 Creating Task: md6995
+27/04/2022 15:17:32 Creating Task: md6996
+27/04/2022 15:17:34 Creating Task: md6997
+27/04/2022 15:17:37 Creating Service Folder: rs1319
+27/04/2022 15:17:37 Creating Task: rs1319
+27/04/2022 15:17:39 Creating Task: sh10919
+27/04/2022 15:17:41 Creating Task Link: md6991
+27/04/2022 15:17:42 Creating Task: sh10924
+27/04/2022 15:17:44 Creating Task Link: md6992
+27/04/2022 15:17:45 Creating Task: sh10936
+27/04/2022 15:17:47 Creating Task Link: md6993
+27/04/2022 15:17:48 Creating Task: sh11008
+27/04/2022 15:17:50 Creating Task Link: md6994
+27/04/2022 15:19:28 Clearing Project Structure
+27/04/2022 15:19:32 Creating Service Folder: MLTR
+27/04/2022 15:19:32 Creating Task: md6991
+27/04/2022 15:19:35 Creating Task: md6992
+27/04/2022 15:19:38 Creating Task: md6993
+27/04/2022 15:19:41 Creating Task: md6994
+27/04/2022 15:19:44 Creating Task: md6995
+27/04/2022 15:19:47 Creating Task: md6996
+27/04/2022 15:19:50 Creating Task: md6997
+27/04/2022 15:19:53 Creating Service Folder: rs1319
+27/04/2022 15:19:53 Creating Task: rs1319
+27/04/2022 15:19:56 Creating Task: sh10919
+27/04/2022 15:19:58 Creating Task Link: md6991
+27/04/2022 15:19:59 Creating Task: sh10924
+27/04/2022 15:20:01 Creating Task Link: md6992
+27/04/2022 15:20:02 Creating Task: sh10936
+27/04/2022 15:20:04 Creating Task Link: md6993
+27/04/2022 15:20:06 Creating Task: sh11008
+27/04/2022 15:20:07 Creating Task Link: md6994
+27/04/2022 15:21:15 Clearing Project Structure
+27/04/2022 15:21:18 Creating Service Folder: MLTR
+27/04/2022 15:21:18 Creating Task: md6991
+27/04/2022 15:21:21 Creating Task: md6992
+27/04/2022 15:21:23 Creating Task: md6993
+27/04/2022 15:21:25 Creating Task: md6994
+27/04/2022 15:21:28 Creating Task: md6995
+27/04/2022 15:21:30 Creating Task: md6996
+27/04/2022 15:21:32 Creating Task: md6997
+27/04/2022 15:21:34 Creating Service Folder: rs1319
+27/04/2022 15:21:34 Creating Task: rs1319
+27/04/2022 15:21:36 Creating Task: sh10919
+27/04/2022 15:21:38 Creating Task Link: md6991
+27/04/2022 15:21:39 Creating Task: sh10924
+27/04/2022 15:21:41 Creating Task Link: md6992
+27/04/2022 15:21:42 Creating Task: sh10936
+27/04/2022 15:21:44 Creating Task Link: md6993
+27/04/2022 15:21:45 Creating Task: sh11008
+27/04/2022 15:21:47 Creating Task Link: md6994
+27/04/2022 15:25:42 Clearing Project Structure
+27/04/2022 15:25:45 Creating Service Folder: MLTR
+27/04/2022 15:25:45 Creating Task: md6991
+27/04/2022 15:25:46 1.0
+27/04/2022 15:25:47 Creating Task: md6992
+27/04/2022 15:25:49 1.0
+27/04/2022 15:25:49 Creating Task: md6993
+27/04/2022 15:25:51 1.0
+27/04/2022 15:25:52 Creating Task: md6994
+27/04/2022 15:25:53 1.0
+27/04/2022 15:25:54 Creating Task: md6995
+27/04/2022 15:25:55 1.0
+27/04/2022 15:25:56 Creating Task: md6996
+27/04/2022 15:25:58 1.0
+27/04/2022 15:25:58 Creating Task: md6997
+27/04/2022 15:26:00 1.0
+27/04/2022 15:26:00 Creating Service Folder: rs1319
+27/04/2022 15:26:00 Creating Task: rs1319
+27/04/2022 15:26:02 1.0
+27/04/2022 15:26:03 Creating Task: sh10919
+27/04/2022 15:26:05 Creating Task Link: md6991
+27/04/2022 15:26:05 1.0
+27/04/2022 15:26:06 Creating Task: sh10924
+27/04/2022 15:26:08 Creating Task Link: md6992
+27/04/2022 15:26:08 1.0
+27/04/2022 15:26:09 Creating Task: sh10936
+27/04/2022 15:26:10 Creating Task Link: md6993
+27/04/2022 15:26:11 1.0
+27/04/2022 15:26:12 Creating Task: sh11008
+27/04/2022 15:26:13 Creating Task Link: md6994
+27/04/2022 15:26:14 1.0
+27/04/2022 15:32:49 Clearing Project Structure
+27/04/2022 15:32:52 Creating Service Folder: MLTR
+27/04/2022 15:32:52 Creating Task: md6991
+27/04/2022 15:32:54 global name 'session' is not defined
+27/04/2022 15:34:03 Clearing Project Structure
+27/04/2022 15:34:04 Creating Service Folder: MLTR
+27/04/2022 15:34:04 Creating Task: md6991
+27/04/2022 15:34:06 Server reported error: ParseError(Failed to parse: select id from User where username is rodrigo.gama@ilustraviz.com offset 0 limit 500. Expected end of text (at char 30), (line:1, col:31))
+27/04/2022 15:35:37 Clearing Project Structure
+27/04/2022 15:35:38 Creating Service Folder: MLTR
+27/04/2022 15:35:38 Creating Task: md6991
+27/04/2022 15:35:40 Server reported error: ParseError(Failed to parse: select id from User where username is rodrigo.gama@ilustraviz.com offset 0 limit 500. Expected end of text (at char 30), (line:1, col:31))
+27/04/2022 15:37:37 Clearing Project Structure
+27/04/2022 15:37:38 Creating Service Folder: MLTR
+27/04/2022 15:37:38 Creating Task: md6991
+27/04/2022 15:37:40 Server reported error: ParseError(Failed to parse: select id from User where username is rodrigo1902.rb@gmail.com offset 0 limit 500. Expected end of text (at char 34), (line:1, col:35))
+27/04/2022 15:39:07 Clearing Project Structure
+27/04/2022 15:39:08 Creating Service Folder: MLTR
+27/04/2022 15:39:08 Creating Task: md6991
+27/04/2022 15:39:11 Creating Task: md6992
+27/04/2022 15:39:13 cannot concatenate 'str' and 'float' objects
+27/04/2022 15:40:02 Clearing Project Structure
+27/04/2022 15:40:03 Creating Service Folder: MLTR
+27/04/2022 15:40:03 Creating Task: md6991
+27/04/2022 15:40:07 Creating Task: md6992
+27/04/2022 15:40:10 Creating Task: md6993
+27/04/2022 15:40:13 Creating Task: md6994
+27/04/2022 15:40:16 Creating Task: md6995
+27/04/2022 15:40:19 Creating Task: md6996
+27/04/2022 15:40:21 Creating Task: md6997
+27/04/2022 15:40:24 cannot concatenate 'str' and 'float' objects
+27/04/2022 15:42:52 Clearing Project Structure
+27/04/2022 15:42:55 Creating Service Folder: MLTR
+27/04/2022 15:42:55 Creating Task: md6991
+27/04/2022 15:42:59 Creating Task: md6992
+27/04/2022 15:43:02 Creating Task: md6993
+27/04/2022 15:43:04 Creating Task: md6994
+27/04/2022 15:43:07 Creating Task: md6995
+27/04/2022 15:43:09 Creating Task: md6996
+27/04/2022 15:43:11 Creating Task: md6997
+27/04/2022 15:43:14 cannot concatenate 'str' and 'float' objects
+27/04/2022 15:46:51 Clearing Project Structure
+27/04/2022 15:46:54 Creating Service Folder: MLTR
+27/04/2022 15:46:54 Creating Task: md6991
+27/04/2022 15:46:58 Creating Task: md6992
+27/04/2022 15:47:00 Creating Task: md6993
+27/04/2022 15:47:02 Creating Task: md6994
+27/04/2022 15:47:05 Creating Task: md6995
+27/04/2022 15:47:07 Creating Task: md6996
+27/04/2022 15:47:10 Creating Task: md6997
+27/04/2022 15:47:12 cannot concatenate 'str' and 'float' objects
+27/04/2022 15:48:23 Clearing Project Structure
+27/04/2022 15:48:26 Creating Service Folder: MLTR
+27/04/2022 15:48:26 Creating Task: md6991
+27/04/2022 15:48:28 Creating Task: md6992
+27/04/2022 15:48:31 Creating Task: md6993
+27/04/2022 15:48:33 Creating Task: md6994
+27/04/2022 15:48:36 Creating Task: md6995
+27/04/2022 15:48:38 Creating Task: md6996
+27/04/2022 15:48:41 Creating Task: md6997
+27/04/2022 15:48:43 cannot concatenate 'str' and 'float' objects
+27/04/2022 15:49:12 Clearing Project Structure
+27/04/2022 15:49:15 Creating Service Folder: MLTR
+27/04/2022 15:49:15 Creating Task: md6991
+27/04/2022 15:49:19 Creating Task: md6992
+27/04/2022 15:49:21 Creating Task: md6993
+27/04/2022 15:49:24 Creating Task: md6994
+27/04/2022 15:49:26 Creating Task: md6995
+27/04/2022 15:49:29 Creating Task: md6996
+27/04/2022 15:49:31 Creating Task: md6997
+27/04/2022 15:49:33 cannot concatenate 'str' and 'float' objects
+27/04/2022 15:51:20 Clearing Project Structure
+27/04/2022 15:51:23 Creating Service Folder: MLTR
+27/04/2022 15:51:23 Creating Task: md6991
+27/04/2022 15:51:24 Creating Task: md6992
+27/04/2022 15:51:25 Creating Task: md6993
+27/04/2022 15:51:25 Creating Task: md6994
+27/04/2022 15:51:25 Creating Task: md6995
+27/04/2022 15:51:26 Creating Task: md6996
+27/04/2022 15:51:26 Creating Task: md6997
+27/04/2022 15:51:26 cannot concatenate 'str' and 'float' objects
+27/04/2022 15:52:29 Clearing Project Structure
+27/04/2022 15:52:30 Creating Service Folder: MLTR
+27/04/2022 15:52:30 Creating Task: md6991
+27/04/2022 15:52:34 Creating Task: md6992
+27/04/2022 15:52:36 Creating Task: md6993
+27/04/2022 15:52:38 Creating Task: md6994
+27/04/2022 15:52:41 Creating Task: md6995
+27/04/2022 15:52:43 Creating Task: md6996
+27/04/2022 15:52:45 Creating Task: md6997
+27/04/2022 15:52:47 cannot concatenate 'str' and 'float' objects
+27/04/2022 15:55:50 Clearing Project Structure
+27/04/2022 15:55:53 Creating Service Folder: MLTR
+27/04/2022 15:55:53 Creating Task: md6991
+27/04/2022 15:55:56 Creating Task: md6992
+27/04/2022 15:55:58 Creating Task: md6993
+27/04/2022 15:56:01 Creating Task: md6994
+27/04/2022 15:56:03 Creating Task: md6995
+27/04/2022 15:56:06 Creating Task: md6996
+27/04/2022 15:56:08 Creating Task: md6997
+27/04/2022 15:56:10 cannot concatenate 'str' and 'float' objects
+27/04/2022 15:56:51 Clearing Project Structure
+27/04/2022 15:56:53 Creating Service Folder: MLTR
+27/04/2022 15:56:53 Creating Task: md6991
+27/04/2022 15:56:56 Creating Task: md6992
+27/04/2022 15:56:59 Creating Task: md6993
+27/04/2022 15:57:02 Creating Task: md6994
+27/04/2022 15:57:04 Creating Task: md6995
+27/04/2022 15:57:07 Creating Task: md6996
+27/04/2022 15:57:10 Creating Task: md6997
+27/04/2022 15:57:12 Creating Service Folder: rs1319
+27/04/2022 15:57:12 Creating Task: rs1319
+27/04/2022 15:57:14 Creating Task: sh10919
+27/04/2022 15:57:16 Creating Task Link: md6991
+27/04/2022 15:57:18 Creating Task: sh10924
+27/04/2022 15:57:20 Creating Task Link: md6992
+27/04/2022 15:57:21 Creating Task: sh10936
+27/04/2022 15:57:23 Creating Task Link: md6993
+27/04/2022 15:57:24 Creating Task: sh11008
+27/04/2022 15:57:26 Creating Task Link: md6994
+27/04/2022 15:57:45 Clearing Project Structure
+27/04/2022 15:57:48 Creating Service Folder: MLTR
+27/04/2022 15:57:48 Creating Task: md6991
+27/04/2022 15:57:51 Creating Task: md6992
+27/04/2022 15:57:53 Creating Task: md6993
+27/04/2022 15:57:56 Creating Task: md6994
+27/04/2022 15:57:58 Creating Task: md6995
+27/04/2022 15:58:00 Creating Task: md6996
+27/04/2022 15:58:03 Creating Task: md6997
+27/04/2022 15:58:05 cannot concatenate 'str' and 'float' objects
+27/04/2022 15:58:53 Clearing Project Structure
+27/04/2022 15:58:55 Creating Service Folder: MLTR
+27/04/2022 15:58:55 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 15:58:55 Creating Task: md6991
+27/04/2022 15:58:58 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 15:58:58 Creating Task: md6992
+27/04/2022 15:59:00 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 15:59:00 Creating Task: md6993
+27/04/2022 15:59:03 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 15:59:03 Creating Task: md6994
+27/04/2022 15:59:06 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 15:59:06 Creating Task: md6995
+27/04/2022 15:59:08 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 15:59:08 Creating Task: md6996
+27/04/2022 15:59:11 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 15:59:11 Creating Task: md6997
+27/04/2022 15:59:13 cannot concatenate 'str' and 'float' objects
+27/04/2022 16:01:10 Clearing Project Structure
+27/04/2022 16:01:13 Creating Service Folder: MLTR
+27/04/2022 16:01:13 Pandas(Index=0L, Nome='md6991', Pasta='MLTR', Description='SEMI FLUSH 3 LIGHTS MATTE BLACK', Assignee='rodrigo.gama@ilustraviz.com', _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='ADL1716MBK', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=19.0, Width=16.0, Depth=16.0, Incoming=nan, Outcoming=nan)
+27/04/2022 16:01:13 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 16:01:13 Creating Task: md6991
+27/04/2022 16:01:16 Pandas(Index=1L, Nome='md6992', Pasta='MLTR', Description='PENDANT 4 LIGHTS MATTE BLACK', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='ADL2820MBK', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=28.0, Width=20.25, Depth=20.25, Incoming=nan, Outcoming=nan)
+27/04/2022 16:01:16 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 16:01:16 Creating Task: md6992
+27/04/2022 16:01:19 Pandas(Index=2L, Nome='md6993', Pasta='MLTR', Description='CHANDELIER 6 LIGHTS MATTE BLACK', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='ADL5026MBK', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=31.5, Width=26.0, Depth=26.0, Incoming=nan, Outcoming=nan)
+27/04/2022 16:01:19 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 16:01:19 Creating Task: md6993
+27/04/2022 16:01:21 Pandas(Index=3L, Nome='md6994', Pasta='MLTR', Description='CHANDELIER 9 LIGHTS MATTE BLACK', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='ADL5030MBK', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=36.0, Width=30.0, Depth=30.0, Incoming=nan, Outcoming=nan)
+27/04/2022 16:01:21 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 16:01:21 Creating Task: md6994
+27/04/2022 16:01:24 Pandas(Index=4L, Nome='md6995', Pasta='MLTR', Description='CHANDELIER 5 LIGHTS ANTIQUE WHITE', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='AEL5024AWH', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=22.0, Width=24.0, Depth=24.0, Incoming=nan, Outcoming=nan)
+27/04/2022 16:01:24 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 16:01:24 Creating Task: md6995
+27/04/2022 16:01:26 Pandas(Index=5L, Nome='md6996', Pasta='MLTR', Description='CHANDELIER 5 LIGHTS MOTTLED BLACK', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='AEL5024MB', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=22.0, Width=24.0, Depth=24.0, Incoming=nan, Outcoming=nan)
+27/04/2022 16:01:26 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 16:01:26 Creating Task: md6996
+27/04/2022 16:01:29 Pandas(Index=6L, Nome='md6997', Pasta='MLTR', Description='CHANDELIER 5 LIGHTS LIGHT GOLD', Assignee=nan, _5=nan, _6=nan, Priority='P2', Status='MLTR', SKU='APN5026LG', Bid=0.25, Scope='Quoizel', Type='MLTR', Height=22.75, Width=26.0, Depth=26.0, Incoming=nan, Outcoming=nan)
+27/04/2022 16:01:29 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+27/04/2022 16:01:29 Creating Task: md6997
+27/04/2022 16:01:32 cannot concatenate 'str' and 'float' objects
+27/04/2022 16:03:25 Clearing Project Structure
+27/04/2022 16:03:28 Creating Service Folder: MLTR
+27/04/2022 16:03:28 Creating Task: md6991
+27/04/2022 16:03:32 Creating Task: md6992
+27/04/2022 16:03:34 Creating Task: md6993
+27/04/2022 16:03:37 Creating Task: md6994
+27/04/2022 16:03:39 Creating Task: md6995
+27/04/2022 16:03:42 Creating Task: md6996
+27/04/2022 16:03:45 Creating Task: md6997
+27/04/2022 16:03:47 Creating Service Folder: rs1319
+27/04/2022 16:03:47 Creating Task: rs1319
+27/04/2022 16:03:50 Creating Task: sh10919
+27/04/2022 16:03:52 Creating Task Link: md6991
+27/04/2022 16:03:53 Creating Task: sh10924
+27/04/2022 16:03:55 Creating Task Link: md6992
+27/04/2022 16:03:56 Creating Task: sh10936
+27/04/2022 16:03:58 Creating Task Link: md6993
+27/04/2022 16:03:59 Creating Task: sh11008
+27/04/2022 16:04:01 Creating Task Link: md6994
+27/04/2022 16:10:55 Clearing Project Structure
+27/04/2022 16:10:59 Creating Service Folder: MLTR
+27/04/2022 16:10:59 Creating Task: md6991
+27/04/2022 16:11:03 Creating Task: md6992
+27/04/2022 16:11:06 Creating Task: md6993
+27/04/2022 16:11:08 Creating Task: md6994
+27/04/2022 16:11:11 Creating Task: md6995
+27/04/2022 16:11:14 Creating Task: md6996
+27/04/2022 16:11:17 Creating Task: md6997
+27/04/2022 16:11:20 Creating Service Folder: rs1319
+27/04/2022 16:11:20 Creating Task: rs1319
+27/04/2022 16:11:21 Server reported error: ParseError(Failed to parse: select id from Status where name is Not Started offset 0 limit 500. Expected end of text (at char 25), (line:1, col:26))
+27/04/2022 16:12:19 Clearing Project Structure
+27/04/2022 16:12:20 Creating Service Folder: MLTR
+27/04/2022 16:12:20 Creating Task: md6991
+27/04/2022 16:12:24 Creating Task: md6992
+27/04/2022 16:12:27 Creating Task: md6993
+27/04/2022 16:12:30 Creating Task: md6994
+27/04/2022 16:12:34 Creating Task: md6995
+27/04/2022 16:12:37 Creating Task: md6996
+27/04/2022 16:12:39 Creating Task: md6997
+27/04/2022 16:12:42 Creating Service Folder: rs1319
+27/04/2022 16:12:42 Creating Task: rs1319
+27/04/2022 16:12:44 Server reported error: ParseError(Failed to parse: select id from Status where name is Not Started offset 0 limit 500. Expected end of text (at char 25), (line:1, col:26))
+27/04/2022 16:14:45 Clearing Project Structure
+27/04/2022 16:14:48 Creating Service Folder: MLTR
+27/04/2022 16:14:48 Creating Task: md6991
+27/04/2022 16:14:51 Creating Task: md6992
+27/04/2022 16:14:54 Creating Task: md6993
+27/04/2022 16:14:57 Creating Task: md6994
+27/04/2022 16:15:00 Creating Task: md6995
+27/04/2022 16:15:03 Creating Task: md6996
+27/04/2022 16:15:06 Creating Task: md6997
+27/04/2022 16:15:09 Creating Service Folder: rs1319
+27/04/2022 16:15:09 Creating Task: rs1319
+27/04/2022 16:15:12 Creating Task: sh10919
+27/04/2022 16:15:16 Creating Task Link: md6991
+27/04/2022 16:15:18 Creating Task: sh10924
+27/04/2022 16:15:20 Creating Task Link: md6992
+27/04/2022 16:15:22 Creating Task: sh10936
+27/04/2022 16:15:24 Creating Task Link: md6993
+27/04/2022 16:15:25 Creating Task: sh11008
+27/04/2022 16:15:28 Creating Task Link: md6994

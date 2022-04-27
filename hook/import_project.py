@@ -15,12 +15,14 @@ def get_delimiter(file_path, bytes = 4096):
     delimiter = sniffer.sniff(data).delimiter
     return delimiter
 
+
 def load_dependencies_path():
     _cwd = os.path.dirname(__file__)
     _sources_path = os.path.abspath(os.path.join(_cwd, '..', 'dependencies'))
 
     if _sources_path not in sys.path:
         sys.path.append(_sources_path)
+
             
 def write_log(message = None, reset = False):
     
@@ -41,7 +43,112 @@ def write_log(message = None, reset = False):
 
 load_dependencies_path()
 
+class CreateTask:
+    '''Create a new task inside a parent'''
+    
+    def __init__(self, task_dict, parent, session):
+                        
+        write_log("Creating Task: " + task_dict["Nome"])
+                
+        task = session.create('Task', {
+            
+                'parent' : parent,
+                
+                'name': self._get_correct_task_attribute(task_dict["Nome"],"Name"),
+                'description': self._get_correct_task_attribute(task_dict["Description"],""),
+                'type': self._get_entity_by_name(session, "Type", task_dict["Type"], "Production"),
+                'priority': self._get_entity_by_name(session, "Priority", task_dict["Priority"], "P1"),
+                'scopes': [self._get_entity_by_name(session, "Scope", task_dict["Scope"], "None"),],
+                'status': self._get_entity_by_name(session, "Status", task_dict["Status"], "Not Started"),
+                
+                'custom_attributes': {
+                    'SKU': self._get_correct_task_attribute(task_dict["SKU"],""),
+                    'Height': self._get_correct_task_attribute(task_dict["Height"],""),
+                    'Width': self._get_correct_task_attribute(task_dict["Width"],""),
+                    'Depth': self._get_correct_task_attribute(task_dict["Depth"],""),
+                },
+            })
+        
+        self._task_assigment(session, task_dict, task)
+        self._create_task_link(session, task_dict, task)   
+               
+        self.task = task
+        
+        session.commit()
+        
+    def _create_task_link(self, session, task_dict, task):
+        
+        incoming_task_name = str(task_dict["Incoming"])
+        
+        if not incoming_task_name == "nan":
+            
+            write_log("Creating Task Link: " + incoming_task_name)
+            incoming_task = session.query('Task where name is ' + incoming_task_name)
+            
+            if incoming_task:
+                task_link = session.create('TypedContextLink', {
+                        'from': incoming_task.one(),
+                        'to' : task
+                    })
+    
+    @staticmethod
+    def _get_entity_by_name(session, entity_type, name, default_name):
+        
+        entity = session.query(entity_type + " where name is '" + name + "'")
+        
+        if entity:
+            return entity.one()
+        else:
+            return session.query(entity_type + " where name is '" + default_name + "'").one()
+        
+    @staticmethod
+    def _task_assigment(session, task_dict, task):
+        
+        assignee = str(task_dict["Assignee"])
+        
+        if assignee == "nan":
+            return
+        
+        user = session.query('User where username is "' + assignee + '"')
+        
+        if user:
+            session.create('Appointment', {
+                'context': task,
+                'resource': user.one(),
+                'type': 'assignment'
+            })
+ 
+    @staticmethod
+    def _get_correct_task_attribute(value, default):
+        
+        if str(value) == "nan":
+            return default
+        else:
+            return value
+        
+    
+    def get_task(self):
+        return self.task
+
+
+class CreateFolder:
+    '''Create a new folder inside a project root'''
+    
+    def __init__(self, name, project, session):
+        
+        write_log("Creating Service Folder: " + name)
+        
+        self.folder = session.create('Folder', {
+                'name': name,
+                'parent' : project
+            })
+        
+    def get_folder(self):
+        return self.folder
+
+
 class CreateProjectStructure:
+    '''Create Project Structure from CSV'''
     
     project = None
     
@@ -49,24 +156,33 @@ class CreateProjectStructure:
         
         self.project = project
         
-        self._clear_project_structure(session)
-        self.execute_action(session)
+        self._clear_current_project_structure(session)
+        self._create_project_structure(session)
         
         session.commit()
-
-    def execute_action(self,session):
         
-        write_log("Executing Action")
+    def _create_project_structure(self, session):
         
-        csv_folder = r"C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read"
+        csv_files = self._load_csv_files(r"C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read")
         
-        if os.path.exists(csv_folder):
-            for csv_file in os.listdir(csv_folder):
+        for file in csv_files:
+            self._generate_project_structure_from_csv(session, self.project, file)
+            
+    @staticmethod
+    def _load_csv_files(csv_folder_path):
+        
+        csv_files = []
                 
-                csv_file = os.path.join(csv_folder, csv_file)
-                self._generate_project_structure_from_csv(session, csv_file)
+        if os.path.exists(csv_folder_path):
+            for csv_file in os.listdir(csv_folder_path):      
+                
+                csv_file = os.path.join(csv_folder_path, csv_file)
+                csv_files.append(csv_file)
+        
+        return csv_files
 
-    def _generate_project_structure_from_csv(self, session, csv_file):
+    @staticmethod
+    def _generate_project_structure_from_csv(session, project, csv_file):
         
         import pandas as pd
         
@@ -77,58 +193,24 @@ class CreateProjectStructure:
             if not item in pastas:
                 pastas.append(item)
         
-        for pasta in pastas:       
-            folder = self._create_folder(pasta,session)
-            folder_task_dataframe = sheet.loc[sheet['Pasta'] == pasta]
+        for pasta in pastas:   
             
-            for task_row_data in folder_task_dataframe.itertuples():              
-                self._create_task(task_row_data, folder, session)
-                session.commit() 
-                                          
-    def _create_task(self, task_row_data, parent, session):
-        
-        task_dict = task_row_data.__dict__
+            if str(pasta) == "nan":  
+                continue
+              
+            folder = CreateFolder(pasta, project, session).get_folder()
+            folder_task_dataframe = sheet.loc[sheet['Pasta'] == pasta] # Generating DataFrame with tasks inside the current folder only
+            
+            for row in folder_task_dataframe.itertuples():  
                 
-        write_log("Creating Task: " + task_dict["Nome"])
+                task_dict = row.__dict__   
                 
-        task = session.create('Task', {
-                'name': task_dict["Nome"],
-                'parent' : parent,
-            })
-        
-        write_log(str(task_dict["Incoming"]))
-        
-        if not str(task_dict["Incoming"]) == "nan": 
-            
-            write_log("Creating Task Link: " + task_dict["Incoming"])
-            outcoming_task = session.query('Task where name is ' + task_dict["Incoming"]).one()
-     
-            if outcoming_task:
-                self._create_task_link(session, outcoming_task, task)
-            
-        return task   
-
-    def _create_task_link(self, session, link_from, link_to):
-        
-        task_link = session.create('TypedContextLink', {
-                'from': link_to,
-                'to' : link_from
-            })
-    
-        return task_link
-    
-    def _create_folder(self, name, session):
-        
-        write_log("Creating Service Folder: " + name)
-        
-        folder = session.create('Folder', {
-                'name': name,
-                'parent' : self.project
-            })
-        
-        return folder
-                    
-    def _clear_project_structure(self, session):
+                if str(task_dict["Nome"]) == "nan":
+                    continue
+                 
+                CreateTask(task_dict, folder, session)          
+                                                        
+    def _clear_current_project_structure(self, session):
         
         write_log("Clearing Project Structure")
         
@@ -139,6 +221,7 @@ class CreateProjectStructure:
                 session.delete(folder)
             
             session.commit()        
+
 
 class MyCustomAction(BaseAction):
     '''Import Project Data Using CSV File'''
@@ -162,7 +245,7 @@ class MyCustomAction(BaseAction):
     def launch(self, session, entities, event):
             
         try:    
-               
+   
             entity_type, entity_id = entities[0] 
             project = session.query('Project where id is "{0}"'.format(entity_id)).one()
             
