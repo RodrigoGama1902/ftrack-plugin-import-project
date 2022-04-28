@@ -23,46 +23,42 @@ def load_dependencies_path():
     if _sources_path not in sys.path:
         sys.path.append(_sources_path)
 
-            
-def write_log(message = None, reset = False):
-    
-    if reset:
-        with open(action_log, "w") as log_file:      
-            log_file.write("\n")
-    
-    action_log = os.path.realpath(os.path.join(os.path.join(os.path.dirname(__file__),"..","logs", "action_log.log")))
-    
-    message = str(message)
-    now = datetime.now()
-        
-    with open(action_log, "a") as log_file:      
-        log_file.write(now.strftime("%d/%m/%Y %H:%M:%S") + " " + message)
-        log_file.write("\n")
-
-def write_csv_log(csv_path, message, reset = False):
-    
-    csv_log = None
-    
-    if os.path.exists(csv_path):
-        csv_path = os.path.dirname(csv_path)
-        csv_log = os.path.join(csv_path, "csv_log.log")
-    else:
-        return   
-    
-    if reset:
-        with open(csv_log, "w") as log_file:      
-            log_file.write("\n")
-        
-    message = str(message)
-    now = datetime.now()
-        
-    with open(csv_log, "a") as log_file:      
-        log_file.write(now.strftime("%d/%m/%Y %H:%M:%S") + " " + message)
-        log_file.write("\n")
-    
+                
 # Loading Dependencies
 
 load_dependencies_path()
+   
+class WriteLog:
+    '''This class will create both global logs and csv logs'''
+        
+    def __init__(self, message = "Starting Log"):
+        
+        self.action_log = os.path.realpath(os.path.join(os.path.join(os.path.dirname(__file__),"..","logs", "action_log.log")))
+            
+    def write(self, message = None):
+            
+        message = str(message)
+        now = datetime.now()
+            
+        with open(self.action_log, "a") as log_file:      
+            log_file.write(now.strftime("%d/%m/%Y %H:%M:%S") + " " + message)
+            log_file.write("\n")
+    
+    def add_header(self, message = None):
+            
+        message = str(message)
+        now = datetime.now()
+            
+        with open(self.action_log, "a") as log_file:    
+            log_file.write("")  
+            log_file.write(now.strftime("%d/%m/%Y %H:%M:%S") + " " + "############################ " + message.upper() + " ############################")
+            log_file.write("")
+            log_file.write("\n")
+    
+    def get_path(self):
+        return self.action_log
+    
+log = WriteLog()    
 
 class CreateTask:
     '''Create a new task inside a parent'''
@@ -70,10 +66,10 @@ class CreateTask:
     def __init__(self, task_dict, parent, session):
                                 
         if session.query('Task where name is "{}"'.format(task_dict["Nome"])).first():
-            write_log("Task already exists")
+            log.write("Task already exists")
             return
         
-        write_log("Creating Task: " + task_dict["Nome"])
+        log.write("Creating Task: " + task_dict["Nome"])
                 
         task = session.create('Task', {
             
@@ -107,7 +103,7 @@ class CreateTask:
         
         if not incoming_task_name == "nan":
             
-            write_log("Creating Task Link: " + incoming_task_name)
+            log.write("Creating Task Link: " + incoming_task_name)
             incoming_task = session.query('Task where name is ' + incoming_task_name)
             
             if incoming_task:
@@ -164,10 +160,10 @@ class CreateFolder:
     def __init__(self, name, project, session):
         
         if session.query('Folder where name is "{}"'.format(name)).first():
-            write_log("Folder already exists")
+            log.write("Folder already exists")
             return
         
-        write_log("Creating Service Folder: " + name)
+        log.write("Creating Service Folder: " + name)
 
         self.folder = session.create('Folder', {
                 'name': name,
@@ -214,7 +210,7 @@ class CreateProjectStructure:
             if not file.endswith(".csv"):
                 continue
             
-            write_csv_log(file, "Creating Project Structure from CSV", reset = False)
+            #write_csv_log(file, "Creating Project Structure from CSV", reset = False)
                         
             self._generate_project_structure_from_csv(session, self.project, file)
         
@@ -245,7 +241,6 @@ class CreateProjectStructure:
                 pastas.append(item)
         
         for pasta in pastas: 
-            write_log(pasta)  
             
             if str(pasta) == "nan":  
                 continue
@@ -275,18 +270,19 @@ class CreateProjectStructure:
             for folder in project_folders:                                  
                 session.delete(folder)
         
-        write_log("Project Structure Cleared")
+        log.write("Project Structure Cleared")
             
         session.commit()        
 
 
-class MyCustomAction(BaseAction):
+class CreateProjectStructureAction(BaseAction):
     '''Import Project Data Using CSV File'''
 
     identifier = 'import.csv.project'
-    label = 'Import Project safes'
+    label = 'Create Project Structure'
     variant = None
-    description = 'This is an example action'
+    description = 'This action will create a project structure from CSV files.'
+    icon = 'https://cdn-icons-png.flaticon.com/512/180/180855.png'
     
     def discover(self, session, entities, event):
                 
@@ -300,6 +296,8 @@ class MyCustomAction(BaseAction):
         return True
 
     def launch(self, session, entities, event):
+        
+        log.add_header("Creating New Project Structure")
         
         if 'values' in event['data']:
             values = event['data']['values']
@@ -325,7 +323,8 @@ class MyCustomAction(BaseAction):
                     }
                 
             except Exception as error:
-                write_log(error)
+                
+                log.write(error)
                 
                 return {
                     'success': False,
@@ -347,7 +346,13 @@ class MyCustomAction(BaseAction):
                 'type': 'boolean',
                 'label': 'Clear Current Project Structure',
                 'name': 'clear_project_structure',
-                }
+                },
+                {
+                'label': 'Log Path',
+                'type': 'text',
+                'value': log.get_path(),
+                'name': 'log_path'
+                },
             ]
 
 def register(session, **kw):
@@ -355,14 +360,12 @@ def register(session, **kw):
     if not isinstance(session, ftrack_api.session.Session):
         return
 
-    action_handler = MyCustomAction(session)
+    action_handler = CreateProjectStructureAction(session)
     action_handler.register()
 
 
 if __name__ == '__main__':
-    
-    write_log(reset = True)
-                            
+                                
     session = ftrack_api.Session()
     register(session)
 
