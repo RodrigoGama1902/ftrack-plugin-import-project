@@ -3379,3 +3379,156 @@ Name: 0, dtype: object)
 27/04/2022 16:15:24 Creating Task Link: md6993
 27/04/2022 16:15:25 Creating Task: sh11008
 27/04/2022 16:15:28 Creating Task Link: md6994
+28/04/2022 11:09:40 Clearing Project Structure
+28/04/2022 11:09:47 Creating Service Folder: MLTR
+28/04/2022 11:09:47 Creating Task: md6991
+28/04/2022 11:09:50 Creating Task: md6992
+28/04/2022 11:09:53 Creating Task: md6993
+28/04/2022 11:09:55 Creating Task: md6994
+28/04/2022 11:09:57 Creating Task: md6995
+28/04/2022 11:10:00 Creating Task: md6996
+28/04/2022 11:10:03 Creating Task: md6997
+28/04/2022 11:10:05 Creating Service Folder: rs1319
+28/04/2022 11:10:05 Creating Task: rs1319
+28/04/2022 11:10:08 Creating Task: sh10919
+28/04/2022 11:10:10 Creating Task Link: md6991
+28/04/2022 11:10:11 Creating Task: sh10924
+28/04/2022 11:10:13 Creating Task Link: md6992
+28/04/2022 11:10:14 Creating Task: sh10936
+28/04/2022 11:10:16 Creating Task Link: md6993
+28/04/2022 11:10:17 Creating Task: sh11008
+28/04/2022 11:10:19 Creating Task Link: md6994
+28/04/2022 11:24:02 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\2-LTR.csv
+28/04/2022 11:24:03 Creating Service Folder: rs1319
+28/04/2022 11:24:03 Creating Task: rs1319
+28/04/2022 11:24:05 Server reported error: IntegrityError((MySQLdb._exceptions.IntegrityError) (1062, "Duplicate entry '1993a0ce-c562-11ec-97b1-02a0d5fc5f47-rs1319' for key 'context_parent_id_key'") [SQL: u'INSERT INTO context (context_type, name, parent_id, created_at, id, created_by_id) VALUES (%s, %s, %s, %s, %s, %s)'] [parameters: ('task', 'rs1319', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', datetime.datetime(2022, 4, 28, 14, 24, 4, 848938), u'051385f8-595d-47d1-b0ea-acac1fdc621e', u'bcdf57b0-acc6-11e1-a554-f23c91df1211')] (Background on this error at: http://sqlalche.me/e/gkpj))
+28/04/2022 11:24:25 Clearing Project Structure
+28/04/2022 11:24:27 Server reported error: IntegrityError((MySQLdb._exceptions.IntegrityError) (1062, "Duplicate entry '1993a0ce-c562-11ec-97b1-02a0d5fc5f47-rs1319' for key 'context_parent_id_key'") [SQL: u'INSERT INTO context (context_type, name, parent_id, created_at, id, created_by_id) VALUES (%s, %s, %s, %s, %s, %s)'] [parameters: ('task', 'rs1319', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', datetime.datetime(2022, 4, 28, 14, 24, 25, 916419), u'051385f8-595d-47d1-b0ea-acac1fdc621e', u'bcdf57b0-acc6-11e1-a554-f23c91df1211')] (Background on this error at: http://sqlalche.me/e/gkpj))
+28/04/2022 11:31:38 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\2-LTR.csv
+28/04/2022 11:31:38 Creating Service Folder: rs1319
+28/04/2022 11:31:38 Creating Task: rs1319
+28/04/2022 11:31:41 Server reported error: IntegrityError((MySQLdb._exceptions.IntegrityError) (1062, "Duplicate entry '1993a0ce-c562-11ec-97b1-02a0d5fc5f47-rs1319' for key 'context_parent_id_key'") [SQL: u'INSERT INTO context (context_type, name, parent_id, created_at, id, created_by_id) VALUES (%s, %s, %s, %s, %s, %s)'] [parameters: ('task', 'rs1319', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', datetime.datetime(2022, 4, 28, 14, 31, 40, 750366), u'71ab24be-68df-4b23-a45b-8379eb5b56fa', u'bcdf57b0-acc6-11e1-a554-f23c91df1211')] (Background on this error at: http://sqlalche.me/e/gkpj))
+28/04/2022 11:32:02 Project Structure Cleared
+28/04/2022 11:32:04 Server reported error: IntegrityError((MySQLdb._exceptions.IntegrityError) (1062, "Duplicate entry '1993a0ce-c562-11ec-97b1-02a0d5fc5f47-rs1319' for key 'context_parent_id_key'") [SQL: u'INSERT INTO context (context_type, name, parent_id, created_at, id, created_by_id) VALUES (%s, %s, %s, %s, %s, %s)'] [parameters: ('task', 'rs1319', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', datetime.datetime(2022, 4, 28, 14, 32, 2, 633567), u'71ab24be-68df-4b23-a45b-8379eb5b56fa', u'bcdf57b0-acc6-11e1-a554-f23c91df1211')] (Background on this error at: http://sqlalche.me/e/gkpj))
+28/04/2022 11:37:31 Project Structure Cleared
+28/04/2022 11:37:32 Server reported error: ValueError(Could not find entity Folder with entity_key [u'f07239bc-178c-4e54-a3ce-91ab06159610'].)
+28/04/2022 11:38:14 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\1-MLTR.csv
+28/04/2022 11:38:14 Creating Service Folder: MLTR
+28/04/2022 11:38:14 Creating Task: md6991
+28/04/2022 11:38:16 Server reported error: ValueError(Could not find entity Folder with entity_key [u'f07239bc-178c-4e54-a3ce-91ab06159610'].)
+28/04/2022 11:40:40 Project Structure Cleared
+28/04/2022 11:40:41 Server reported error: ValueError(Could not find entity Folder with entity_key [u'f07239bc-178c-4e54-a3ce-91ab06159610'].)
+28/04/2022 11:46:46 Project Structure Cleared
+28/04/2022 11:46:46 Server reported error: ValueError(Could not find entity Folder with entity_key [u'f07239bc-178c-4e54-a3ce-91ab06159610'].)
+28/04/2022 11:54:42 Project Structure Cleared
+28/04/2022 11:54:43 Server reported error: ValueError(Could not find entity Folder with entity_key [u'f07239bc-178c-4e54-a3ce-91ab06159610'].)
+28/04/2022 11:55:41 _clear_current_project_structure() takes exactly 2 arguments (1 given)
+28/04/2022 11:56:23 _clear_current_project_structure() takes exactly 2 arguments (1 given)
+28/04/2022 11:57:04 Project Structure Cleared
+28/04/2022 11:57:05 MLTR
+28/04/2022 11:57:05 Creating Service Folder: MLTR
+28/04/2022 11:57:05 Creating Task: md6991
+28/04/2022 11:57:08 Creating Task: md6992
+28/04/2022 11:57:11 Creating Task: md6993
+28/04/2022 11:57:13 Creating Task: md6994
+28/04/2022 11:57:16 Creating Task: md6995
+28/04/2022 11:57:18 Creating Task: md6996
+28/04/2022 11:57:21 Creating Task: md6997
+28/04/2022 11:57:25 rs1319
+28/04/2022 11:57:25 Creating Service Folder: rs1319
+28/04/2022 11:57:25 Creating Task: rs1319
+28/04/2022 11:57:29 Creating Task: sh10919
+28/04/2022 11:57:31 Creating Task Link: md6991
+28/04/2022 11:57:33 Creating Task: sh10924
+28/04/2022 11:57:35 Creating Task Link: md6992
+28/04/2022 11:57:36 Creating Task: sh10936
+28/04/2022 11:57:38 Creating Task Link: md6993
+28/04/2022 11:57:39 Creating Task: sh11008
+28/04/2022 11:57:41 Creating Task Link: md6994
+28/04/2022 11:57:42 'delimiter'
+28/04/2022 11:58:16 Project Structure Cleared
+28/04/2022 11:58:18 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\1-MLTR.csv
+28/04/2022 11:58:19 MLTR
+28/04/2022 11:58:19 Creating Service Folder: MLTR
+28/04/2022 11:58:19 Creating Task: md6991
+28/04/2022 11:58:22 Creating Task: md6992
+28/04/2022 11:58:24 Creating Task: md6993
+28/04/2022 11:58:27 Creating Task: md6994
+28/04/2022 11:58:29 Creating Task: md6995
+28/04/2022 11:58:32 Creating Task: md6996
+28/04/2022 11:58:34 Creating Task: md6997
+28/04/2022 11:58:37 'delimiter'
+28/04/2022 11:59:22 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\2-LTR.csv
+28/04/2022 11:59:22 rs1319
+28/04/2022 11:59:22 Creating Service Folder: rs1319
+28/04/2022 11:59:22 Creating Task: rs1319
+28/04/2022 11:59:25 Creating Task: sh10919
+28/04/2022 11:59:28 Creating Task Link: md6991
+28/04/2022 11:59:29 Creating Task: sh10924
+28/04/2022 11:59:31 Creating Task Link: md6992
+28/04/2022 11:59:32 Creating Task: sh10936
+28/04/2022 11:59:34 Creating Task Link: md6993
+28/04/2022 11:59:35 Creating Task: sh11008
+28/04/2022 11:59:37 Creating Task Link: md6994
+28/04/2022 11:59:38 'delimiter'
+28/04/2022 12:00:50 Project Structure Cleared
+28/04/2022 12:00:53 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\1-MLTR.csv
+28/04/2022 12:00:53 MLTR
+28/04/2022 12:00:53 Creating Service Folder: MLTR
+28/04/2022 12:00:53 Creating Task: md6991
+28/04/2022 12:00:56 Creating Task: md6992
+28/04/2022 12:00:59 Creating Task: md6993
+28/04/2022 12:01:02 Creating Task: md6994
+28/04/2022 12:01:04 Creating Task: md6995
+28/04/2022 12:01:07 Creating Task: md6996
+28/04/2022 12:01:09 Creating Task: md6997
+28/04/2022 12:01:12 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\2-LTR.csv
+28/04/2022 12:01:12 rs1319
+28/04/2022 12:01:12 Creating Service Folder: rs1319
+28/04/2022 12:01:12 Creating Task: rs1319
+28/04/2022 12:01:14 Creating Task: sh10919
+28/04/2022 12:01:16 Creating Task Link: md6991
+28/04/2022 12:01:18 Creating Task: sh10924
+28/04/2022 12:01:20 Creating Task Link: md6992
+28/04/2022 12:01:21 Creating Task: sh10936
+28/04/2022 12:01:23 Creating Task Link: md6993
+28/04/2022 12:01:24 Creating Task: sh11008
+28/04/2022 12:01:26 Creating Task Link: md6994
+28/04/2022 12:02:28 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\2-LTR.csv
+28/04/2022 12:02:28 rs1319
+28/04/2022 12:02:28 Creating Service Folder: rs1319
+28/04/2022 12:02:28 Creating Task: rs1319
+28/04/2022 12:02:30 Server reported error: IntegrityError((MySQLdb._exceptions.IntegrityError) (1062, "Duplicate entry '1993a0ce-c562-11ec-97b1-02a0d5fc5f47-rs1319' for key 'context_parent_id_key'") [SQL: u'INSERT INTO context (context_type, name, parent_id, created_at, id, created_by_id) VALUES (%s, %s, %s, %s, %s, %s)'] [parameters: ('task', 'rs1319', u'1993a0ce-c562-11ec-97b1-02a0d5fc5f47', datetime.datetime(2022, 4, 28, 15, 2, 29, 765071), u'f2c46a26-aee8-4a66-86bf-727281757b9f', u'bcdf57b0-acc6-11e1-a554-f23c91df1211')] (Background on this error at: http://sqlalche.me/e/gkpj))
+28/04/2022 12:04:58 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\1-MLTR.csv
+28/04/2022 12:04:59 MLTR
+28/04/2022 12:04:59 Folder already exists
+28/04/2022 12:04:59 CreateFolder instance has no attribute 'folder'
+28/04/2022 12:09:31 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\1-MLTR.csv
+28/04/2022 12:09:32 MLTR
+28/04/2022 12:09:32 Folder already exists
+28/04/2022 12:09:32 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\2-LTR.csv
+28/04/2022 12:09:32 rs1319
+28/04/2022 12:09:32 Folder already exists
+28/04/2022 14:18:09 Project Structure Cleared
+28/04/2022 14:18:12 Creating Project Structure from CSV: C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read\1-MLTR.csv
+28/04/2022 14:18:12 MLTR
+28/04/2022 14:18:13 Creating Service Folder: MLTR
+28/04/2022 14:18:13 Creating Task: md6991
+28/04/2022 14:18:18 Creating Task: md6992
+28/04/2022 14:18:21 Creating Task: md6993
+28/04/2022 14:18:24 Creating Task: md6994
+28/04/2022 14:18:27 Creating Task: md6995
+28/04/2022 14:18:30 Creating Task: md6996
+28/04/2022 14:18:33 Creating Task: md6997
+28/04/2022 14:25:53 Project Structure Cleared
+28/04/2022 14:25:55 rs1319
+28/04/2022 14:25:56 Creating Service Folder: rs1319
+28/04/2022 14:25:56 Creating Task: rs1319
+28/04/2022 14:25:59 Creating Task: sh10919
+28/04/2022 14:26:02 Creating Task Link: md6991
+28/04/2022 14:26:03 Creating Task: sh10924
+28/04/2022 14:26:05 Creating Task Link: md6992
+28/04/2022 14:26:06 Creating Task: sh10936
+28/04/2022 14:26:08 Creating Task Link: md6993
+28/04/2022 14:26:09 Creating Task: sh11008
+28/04/2022 14:26:11 Creating Task Link: md6994
