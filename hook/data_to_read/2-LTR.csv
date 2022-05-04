@@ -1,7 +1,7 @@
 ﻿Nome,Pasta,Description,Assignee,Start Date,Due Date,Priority,Status,SKU,Bid,Scope,Type,Height,Width,Depth,Incoming,Outcoming
 rs1319,rs1319,,,,,P2,Not Started,,0.08,Quoizel,CYCLING,,,,,
-sh10919,rs1319,,rodrigo.gama@ilustraviz.com,,,P2,Not Started,,0.08,Quoizel,CYCLING,,,,md6991,
+sh10919,rs1319,,rodrigo.gama@ilustraviz.com,,,P2,Not Started,,0.08,Quoizel,CYCLING,,,,md6991;md6992 ,
 sh10924,rs1319,,,,,P2,Not Started,,0.08,Quoizel,CYCLING,,,,md6992,
 sh10936,rs1319,,,,,P2,Not Started,,0.08,Quoizel,CYCLING,,,,md6993,
 sh11008,rs1319,,,,,P2,Not Started,,0.08,Quoizel,CYCLING,,,,md6994,
-
+,,,,,,,,,,,,,,,,

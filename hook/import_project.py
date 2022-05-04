@@ -3,7 +3,9 @@ import sys
 import os
 import csv
 
+import arrow
 from datetime import datetime
+from dateutil import tz
 
 import ftrack_api
 from ftrack_action_handler.action import BaseAction
@@ -81,6 +83,15 @@ class CreateTask:
                 'priority': self._get_entity_by_name(session, "Priority", task_dict["Priority"], "P1"),
                 'scopes': [self._get_entity_by_name(session, "Scope", task_dict["Scope"], "None"),],
                 'status': self._get_entity_by_name(session, "Status", task_dict["Status"], "Not Started"),
+                
+                # Bid Days
+                'bid': self._get_bid_days(task_dict["Bid"]),                       
+                
+                # Arrow Time Objects
+                'start_date': self._get_arrow_time(task_dict["_5"]), # For some reason, the start date is begin read as _5
+                'end_date': self._get_arrow_time(task_dict["_6"]),
+                
+                # Custom Attributes
                 'custom_attributes': {
                     'SKU': self._get_correct_task_attribute(task_dict["SKU"],""),
                     'Height': self._get_correct_task_attribute(task_dict["Height"],""),
@@ -99,11 +110,18 @@ class CreateTask:
         
     def _create_task_link(self, session, task_dict, task):
         
-        incoming_task_name = str(task_dict["Incoming"])
+        incoming_task = str(task_dict["Incoming"])
         
-        if not incoming_task_name == "nan":
+        if incoming_task == "nan":
+            return
+        
+        incoming_task_list = incoming_task.split(";")
+        
+        for incoming_task_name in incoming_task_list:  
+            incoming_task_name = incoming_task_name.strip()
             
             log.write("Creating Task Link: " + incoming_task_name)
+            
             incoming_task = session.query('Task where name is ' + incoming_task_name)
             
             if incoming_task:
@@ -112,6 +130,37 @@ class CreateTask:
                         'to' : task
                     })
     
+    @staticmethod
+    def _get_arrow_time(string_data):
+        
+        if str(string_data) == "nan":
+            return ""
+        
+        if not string_data:
+            return ""
+        
+        try:
+            datetime_obj = datetime.strptime(string_data, "%m/%d/%Y")
+            return arrow.get(datetime_obj)
+        
+        except Exception as e:
+            
+            log.write("Error converting date: " + string_data)
+            log.write(e)
+            
+            return ""
+
+    @staticmethod
+    def _get_bid_days(bid):
+        
+        if str(bid) == "nan":
+            return 0
+
+        if not bid:
+            return 0
+        
+        return bid * 86400
+        
     @staticmethod
     def _get_entity_by_name(session, entity_type, name, default_name):
         
@@ -130,14 +179,19 @@ class CreateTask:
         if assignee == "nan":
             return
         
-        user = session.query('User where username is "' + assignee + '"')
+        assignee_list = assignee.split(";")
         
-        if user:
-            session.create('Appointment', {
-                'context': task,
-                'resource': user.one(),
-                'type': 'assignment'
-            })
+        for assignee_item in assignee_list:          
+            assignee_item = assignee_item.strip()
+                        
+            user = session.query('User where username is "' + assignee_item + '"')
+            
+            if user:
+                session.create('Appointment', {
+                    'context': task,
+                    'resource': user.one(),
+                    'type': 'assignment'
+                })
  
     @staticmethod
     def _get_correct_task_attribute(value, default):
@@ -258,7 +312,7 @@ class CreateProjectStructure:
                 
                 if str(task_dict["Nome"]) == "nan":
                     continue
-                 
+                                     
                 CreateTask(task_dict, folder, session)          
     
     @staticmethod                           
@@ -284,6 +338,10 @@ class CreateProjectStructureAction(BaseAction):
     description = 'This action will create a project structure from CSV files.'
     icon = 'https://cdn-icons-png.flaticon.com/512/180/180855.png'
     
+    test_projects = ["a0467cac-cb4a-11ec-940f-02a0d5fc5f47",
+                     "1993a0ce-c562-11ec-97b1-02a0d5fc5f47"
+                     ]
+    
     def discover(self, session, entities, event):
                 
         if len(entities) != 1:
@@ -307,7 +365,7 @@ class CreateProjectStructureAction(BaseAction):
                 entity_type, entity_id = entities[0] 
                 project = session.query('Project where id is "{0}"'.format(entity_id)).one()
                 
-                if project["id"] == "1993a0ce-c562-11ec-97b1-02a0d5fc5f47": # For Safety reasons, this action will execute only in this project
+                if project["id"] in self.test_projects: # For Safety reasons, this action will execute only in this project
                     
                     CreateProjectStructure(session, project, values)
                     

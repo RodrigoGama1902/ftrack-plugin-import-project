@@ -31,3 +31,816 @@
 28/04/2022 15:18:33 Creating Task Link: md6993
 28/04/2022 15:18:35 Creating Task: sh11008
 28/04/2022 15:18:37 Creating Task Link: md6994
+03/05/2022 09:44:14 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 09:44:15 Project Structure Cleared
+03/05/2022 09:44:21 Creating Service Folder: MLTR
+03/05/2022 09:44:21 Creating Task: md6991
+03/05/2022 09:44:25 Creating Task: md6992
+03/05/2022 09:44:28 Creating Task: md6993
+03/05/2022 09:44:31 Creating Task: md6994
+03/05/2022 09:44:34 Creating Task: md6995
+03/05/2022 09:44:36 Creating Task: md6996
+03/05/2022 09:44:39 Creating Task: md6997
+03/05/2022 09:44:42 Creating Service Folder: rs1319
+03/05/2022 09:44:42 Creating Task: rs1319
+03/05/2022 09:44:45 Creating Task: sh10919
+03/05/2022 09:44:48 Creating Task Link: md6991
+03/05/2022 09:44:49 Creating Task: sh10924
+03/05/2022 09:44:51 Creating Task Link: md6992
+03/05/2022 09:44:53 Creating Task: sh10936
+03/05/2022 09:44:55 Creating Task Link: md6993
+03/05/2022 09:44:56 Creating Task: sh11008
+03/05/2022 09:44:58 Creating Task Link: md6994
+03/05/2022 10:16:42 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 10:16:44 Creating Service Folder: MLTR
+03/05/2022 10:16:44 Creating Task: md6991
+03/05/2022 10:16:48 Creating Task: md6992
+03/05/2022 10:16:51 Creating Task: md6993
+03/05/2022 10:16:54 Creating Task: md6994
+03/05/2022 10:16:57 Creating Task: md6995
+03/05/2022 10:17:00 Creating Task: md6996
+03/05/2022 10:17:02 Creating Task: md6997
+03/05/2022 10:19:22 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 10:19:24 Project Structure Cleared
+03/05/2022 10:19:26 Creating Service Folder: MLTR
+03/05/2022 10:19:27 Creating Task: md6991
+03/05/2022 10:19:30 Creating Task: md6992
+03/05/2022 10:19:33 Creating Task: md6993
+03/05/2022 10:19:36 Creating Task: md6994
+03/05/2022 10:19:38 Creating Task: md6995
+03/05/2022 10:19:41 Creating Task: md6996
+03/05/2022 10:19:44 Creating Task: md6997
+03/05/2022 10:19:48 Creating Service Folder: rs1319
+03/05/2022 10:19:48 Creating Task: rs1319
+03/05/2022 10:19:51 Creating Task: sh10919
+03/05/2022 10:19:53 Creating Task Link: md6991
+03/05/2022 10:19:55 Creating Task: sh10924
+03/05/2022 10:19:57 Creating Task Link: md6992
+03/05/2022 10:19:58 Creating Task: sh10936
+03/05/2022 10:20:00 Creating Task Link: md6993
+03/05/2022 10:20:02 Creating Task: sh11008
+03/05/2022 10:20:04 Creating Task Link: md6994
+03/05/2022 10:28:30 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 10:28:32 Project Structure Cleared
+03/05/2022 10:31:48 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 10:31:48 Project Structure Cleared
+03/05/2022 10:31:48 Creating Service Folder: MLTR
+03/05/2022 10:31:49 Creating Task: md6991
+03/05/2022 10:31:52 Creating Task: md6992
+03/05/2022 10:31:54 Creating Task: md6993
+03/05/2022 10:31:57 Creating Task: md6994
+03/05/2022 10:32:00 Creating Task: md6995
+03/05/2022 10:32:04 Creating Task: md6996
+03/05/2022 10:32:08 Creating Task: md6997
+03/05/2022 10:32:11 Creating Task: md6998
+03/05/2022 10:32:14 Creating Task: md6999
+03/05/2022 10:32:17 Creating Task: md7000
+03/05/2022 10:32:20 Creating Task: md7001
+03/05/2022 10:32:24 Creating Task: md7002
+03/05/2022 10:32:28 Creating Task: md7003
+03/05/2022 10:32:30 Creating Task: md7004
+03/05/2022 10:32:33 Creating Task: md7005
+03/05/2022 10:32:36 Creating Task: md7006
+03/05/2022 10:32:39 Creating Task: md7007
+03/05/2022 10:32:42 Creating Task: md7008
+03/05/2022 10:32:44 Creating Task: md7009
+03/05/2022 10:32:47 Creating Task: md7010
+03/05/2022 10:32:50 Creating Task: md7011
+03/05/2022 10:32:53 Creating Task: md7012
+03/05/2022 10:32:56 Creating Task: md7013
+03/05/2022 10:32:59 Creating Task: md7014
+03/05/2022 10:33:02 Creating Task: md7015
+03/05/2022 10:33:05 Creating Task: md7016
+03/05/2022 10:33:09 Creating Task: md7017
+03/05/2022 10:33:12 Creating Task: md7018
+03/05/2022 10:33:15 Creating Task: md7019
+03/05/2022 10:33:17 Creating Task: md7020
+03/05/2022 10:33:20 Creating Task: md7021
+03/05/2022 10:33:24 Creating Task: md7022
+03/05/2022 10:33:27 Creating Task: md7023
+03/05/2022 10:33:30 Creating Task: md7024
+03/05/2022 10:33:33 Creating Task: md7025
+03/05/2022 10:33:36 Creating Task: md7026
+03/05/2022 10:33:39 Creating Task: md7027
+03/05/2022 10:33:41 Creating Task: md7028
+03/05/2022 10:33:44 Creating Task: md7029
+03/05/2022 10:33:47 Creating Task: md7030
+03/05/2022 10:33:50 Creating Task: md7031
+03/05/2022 10:33:53 Creating Task: md7032
+03/05/2022 10:33:56 Creating Task: md7033
+03/05/2022 10:33:59 Creating Task: md7034
+03/05/2022 10:34:02 Creating Task: md7035
+03/05/2022 10:34:04 Creating Task: md7036
+03/05/2022 10:34:07 Creating Task: md7037
+03/05/2022 10:34:10 Creating Task: md7038
+03/05/2022 10:34:13 Creating Task: md7039
+03/05/2022 10:34:16 Creating Task: md7040
+03/05/2022 10:34:19 Creating Task: md7041
+03/05/2022 10:34:22 Creating Task: md7042
+03/05/2022 10:34:25 Creating Task: md7043
+03/05/2022 10:34:28 Creating Task: md7044
+03/05/2022 10:34:31 Creating Task: md7045
+03/05/2022 10:34:34 Creating Task: md7046
+03/05/2022 10:34:37 Creating Task: md7047
+03/05/2022 10:34:40 Creating Task: md7048
+03/05/2022 10:34:43 Creating Task: md7049
+03/05/2022 10:34:46 Creating Task: md7050
+03/05/2022 10:34:49 Creating Task: md7051
+03/05/2022 10:34:52 Creating Task: md7052
+03/05/2022 10:34:55 Creating Task: md7053
+03/05/2022 10:34:57 Creating Task: md7054
+03/05/2022 10:35:01 Creating Task: md7055
+03/05/2022 10:35:05 Creating Task: md7056
+03/05/2022 10:35:08 Creating Task: md7057
+03/05/2022 10:35:10 Creating Task: md7058
+03/05/2022 10:35:13 Creating Task: md7059
+03/05/2022 10:35:16 Creating Task: md7060
+03/05/2022 10:35:19 Creating Task: md7061
+03/05/2022 10:35:22 Creating Task: md7062
+03/05/2022 10:35:25 Creating Task: md7063
+03/05/2022 10:35:27 Creating Task: md7064
+03/05/2022 10:35:30 Creating Task: md7065
+03/05/2022 10:35:33 Creating Task: md7066
+03/05/2022 10:35:36 Creating Task: md7067
+03/05/2022 10:35:39 Creating Task: md7068
+03/05/2022 10:35:42 Creating Task: md7069
+03/05/2022 10:35:45 Creating Task: md7070
+03/05/2022 10:35:47 Creating Task: md7071
+03/05/2022 10:35:50 Creating Task: md7072
+03/05/2022 10:35:53 Creating Task: md7073
+03/05/2022 10:35:56 Creating Task: md7074
+03/05/2022 10:35:59 Creating Task: md7075
+03/05/2022 10:36:02 Creating Task: md7076
+03/05/2022 10:36:05 Creating Task: md7077
+03/05/2022 10:36:08 Creating Task: md7078
+03/05/2022 10:36:11 Creating Task: md7079
+03/05/2022 10:36:14 Creating Task: md7080
+03/05/2022 10:36:17 Creating Task: md7081
+03/05/2022 10:36:19 Creating Task: md7082
+03/05/2022 10:36:22 Creating Task: md7083
+03/05/2022 10:36:25 Creating Task: md7084
+03/05/2022 10:36:28 Creating Task: md7085
+03/05/2022 10:36:31 Creating Task: md7086
+03/05/2022 10:36:34 Creating Task: md7087
+03/05/2022 10:36:37 Creating Task: md7088
+03/05/2022 10:36:40 Creating Task: md7089
+03/05/2022 10:36:42 Creating Task: md7090
+03/05/2022 10:36:46 Creating Task: md7091
+03/05/2022 10:36:49 Creating Task: md7092
+03/05/2022 10:36:52 Creating Task: md7093
+03/05/2022 10:36:55 Creating Task: md7094
+03/05/2022 10:36:58 Creating Task: md7095
+03/05/2022 10:37:01 Creating Task: md7096
+03/05/2022 10:37:03 Creating Task: md7097
+03/05/2022 10:37:07 Creating Task: md7098
+03/05/2022 10:37:09 Creating Task: md7099
+03/05/2022 10:37:12 Creating Task: md7100
+03/05/2022 10:37:15 Creating Task: md7101
+03/05/2022 10:37:18 Creating Task: md7102
+03/05/2022 10:37:21 Creating Task: md7103
+03/05/2022 10:37:24 Creating Task: md7104
+03/05/2022 10:37:27 Creating Task: md7105
+03/05/2022 10:37:30 Creating Task: md7106
+03/05/2022 10:37:32 Creating Task: md7107
+03/05/2022 10:37:35 Creating Task: md7108
+03/05/2022 10:37:38 Creating Task: md7109
+03/05/2022 10:37:41 Creating Task: md7110
+03/05/2022 10:37:44 Creating Task: md7111
+03/05/2022 10:37:47 Creating Task: md7112
+03/05/2022 10:37:50 Creating Task: md7113
+03/05/2022 10:37:53 Creating Task: md7114
+03/05/2022 10:37:57 Creating Task: md7115
+03/05/2022 10:38:00 Creating Task: md7116
+03/05/2022 10:38:02 Creating Task: md7117
+03/05/2022 10:38:05 Creating Task: md7118
+03/05/2022 10:38:08 Creating Task: md7119
+03/05/2022 10:38:11 Creating Task: md7120
+03/05/2022 10:38:14 Creating Task: md7121
+03/05/2022 10:38:17 Creating Task: md7122
+03/05/2022 10:38:19 Creating Task: md7123
+03/05/2022 10:38:22 Creating Task: md7124
+03/05/2022 10:38:25 Creating Task: md7125
+03/05/2022 10:38:28 Creating Task: md7126
+03/05/2022 10:38:31 Creating Task: md7127
+03/05/2022 10:38:34 Creating Task: md7128
+03/05/2022 10:38:37 Creating Task: md7129
+03/05/2022 10:38:39 Creating Task: md7130
+03/05/2022 10:38:42 Creating Task: md7131
+03/05/2022 10:38:45 Creating Task: md7132
+03/05/2022 10:38:48 Creating Task: md7133
+03/05/2022 10:38:51 Creating Task: md7134
+03/05/2022 10:38:54 Creating Task: md7135
+03/05/2022 10:38:57 Creating Task: md7136
+03/05/2022 10:39:00 Creating Task: md7137
+03/05/2022 10:39:03 Creating Task: md7138
+03/05/2022 10:39:06 Creating Task: md7139
+03/05/2022 10:39:09 Creating Task: md7140
+03/05/2022 10:39:12 Creating Task: md7141
+03/05/2022 10:39:15 Creating Task: md7142
+03/05/2022 10:39:18 Creating Task: md7143
+03/05/2022 10:39:21 Creating Task: md7144
+03/05/2022 10:39:24 Creating Task: md7145
+03/05/2022 10:39:26 Creating Task: md7146
+03/05/2022 10:39:29 Creating Task: md7147
+03/05/2022 10:39:32 Creating Task: md7148
+03/05/2022 10:39:35 Creating Task: md7149
+03/05/2022 10:39:38 Creating Task: md7150
+03/05/2022 10:39:41 Creating Task: md7151
+03/05/2022 10:39:44 Creating Task: md7152
+03/05/2022 10:39:47 Creating Task: md7153
+03/05/2022 10:39:49 Creating Task: md7154
+03/05/2022 10:39:52 Creating Task: md7155
+03/05/2022 10:39:56 Creating Task: md7156
+03/05/2022 10:39:59 Creating Task: md7157
+03/05/2022 10:40:01 Creating Task: md7158
+03/05/2022 10:40:04 Creating Task: md7159
+03/05/2022 10:40:07 Creating Task: md7160
+03/05/2022 10:40:10 Creating Task: md7161
+03/05/2022 10:40:13 Creating Task: md7162
+03/05/2022 10:40:16 Creating Task: md7163
+03/05/2022 10:40:19 Creating Task: md7164
+03/05/2022 10:40:22 Creating Task: md7165
+03/05/2022 10:40:25 Creating Task: md7166
+03/05/2022 10:40:27 Creating Task: md7167
+03/05/2022 10:40:30 Creating Task: md7168
+03/05/2022 10:40:33 Creating Task: md7169
+03/05/2022 10:40:36 Creating Task: md7170
+03/05/2022 10:40:39 Creating Task: md7171
+03/05/2022 10:40:42 Creating Task: md7172
+03/05/2022 10:40:45 Creating Task: md7173
+03/05/2022 10:40:48 Creating Task: md7174
+03/05/2022 10:40:50 Creating Task: md7175
+03/05/2022 10:40:53 Creating Task: md7176
+03/05/2022 10:40:57 Creating Task: md7177
+03/05/2022 10:41:00 Creating Task: md7178
+03/05/2022 10:41:03 Creating Task: md7179
+03/05/2022 10:41:05 Creating Task: md7180
+03/05/2022 10:41:08 Creating Task: md7181
+03/05/2022 10:41:11 Creating Task: md7182
+03/05/2022 10:41:14 Creating Task: md7183
+03/05/2022 10:41:17 Creating Task: md7184
+03/05/2022 10:41:20 Creating Task: md7185
+03/05/2022 10:41:23 Creating Task: md7186
+03/05/2022 10:42:22 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 10:42:23 Project Structure Cleared
+03/05/2022 10:42:55 Creating Service Folder: MLTR
+03/05/2022 10:42:55 Creating Task: md6991
+03/05/2022 10:42:57 'Start Date'
+03/05/2022 10:45:59 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 10:45:59 Project Structure Cleared
+03/05/2022 10:46:00 Creating Service Folder: MLTR
+03/05/2022 10:46:00 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 10:46:00 Creating Task: md6991
+03/05/2022 10:46:02 'Start Date'
+03/05/2022 10:47:14 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 10:47:15 Creating Service Folder: MLTR
+03/05/2022 10:47:15 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 10:47:15 Creating Task: md6991
+03/05/2022 10:47:18 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 10:47:19 Creating Task: md6992
+03/05/2022 10:47:21 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 10:47:22 Creating Task: md6993
+03/05/2022 10:47:24 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 10:47:24 Creating Task: md6994
+03/05/2022 10:47:27 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 10:47:27 Creating Task: md6995
+03/05/2022 10:47:30 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 10:47:30 Creating Task: md6996
+03/05/2022 10:47:32 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 10:47:33 Creating Task: md6997
+03/05/2022 11:01:16 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:01:16 Project Structure Cleared
+03/05/2022 11:01:18 Creating Service Folder: MLTR
+03/05/2022 11:01:18 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:01:19 Creating Task: md6991
+03/05/2022 11:01:20 _get_arrow_time() takes exactly 1 argument (2 given)
+03/05/2022 11:02:00 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:02:01 Project Structure Cleared
+03/05/2022 11:02:01 Creating Service Folder: MLTR
+03/05/2022 11:02:01 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:02:02 Creating Task: md6991
+03/05/2022 11:02:03 Error converting date: 4/25/2022
+03/05/2022 11:02:03 Error converting date: 4/25/2022
+03/05/2022 11:02:05 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:02:05 Creating Task: md6992
+03/05/2022 11:02:07 Error converting date: 4/25/2022
+03/05/2022 11:02:07 Error converting date: 4/25/2022
+03/05/2022 11:02:07 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:02:08 Creating Task: md6993
+03/05/2022 11:02:10 Error converting date: 4/25/2022
+03/05/2022 11:02:10 Error converting date: 4/25/2022
+03/05/2022 11:02:10 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:02:10 Creating Task: md6994
+03/05/2022 11:02:12 Error converting date: 4/25/2022
+03/05/2022 11:02:12 Error converting date: 4/25/2022
+03/05/2022 11:02:13 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:02:13 Creating Task: md6995
+03/05/2022 11:02:15 Error converting date: 4/25/2022
+03/05/2022 11:02:15 Error converting date: 4/25/2022
+03/05/2022 11:02:15 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:02:15 Creating Task: md6996
+03/05/2022 11:02:17 Error converting date: 4/25/2022
+03/05/2022 11:02:17 Error converting date: 4/25/2022
+03/05/2022 11:02:18 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:02:18 Creating Task: md6997
+03/05/2022 11:02:20 Error converting date: 4/25/2022
+03/05/2022 11:02:20 Error converting date: 4/25/2022
+03/05/2022 11:03:23 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:03:23 Project Structure Cleared
+03/05/2022 11:03:25 Creating Service Folder: MLTR
+03/05/2022 11:03:25 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:03:25 Creating Task: md6991
+03/05/2022 11:03:27 Error converting date: 4/25/2022
+03/05/2022 11:03:27 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:27 Error converting date: 4/25/2022
+03/05/2022 11:03:27 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:29 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:03:29 Creating Task: md6992
+03/05/2022 11:03:31 Error converting date: 4/25/2022
+03/05/2022 11:03:31 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:31 Error converting date: 4/25/2022
+03/05/2022 11:03:31 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:31 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:03:31 Creating Task: md6993
+03/05/2022 11:03:33 Error converting date: 4/25/2022
+03/05/2022 11:03:33 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:33 Error converting date: 4/25/2022
+03/05/2022 11:03:33 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:34 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:03:35 Creating Task: md6994
+03/05/2022 11:03:37 Error converting date: 4/25/2022
+03/05/2022 11:03:37 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:37 Error converting date: 4/25/2022
+03/05/2022 11:03:37 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:37 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:03:37 Creating Task: md6995
+03/05/2022 11:03:39 Error converting date: 4/25/2022
+03/05/2022 11:03:39 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:39 Error converting date: 4/25/2022
+03/05/2022 11:03:39 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:40 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:03:40 Creating Task: md6996
+03/05/2022 11:03:42 Error converting date: 4/25/2022
+03/05/2022 11:03:42 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:42 Error converting date: 4/25/2022
+03/05/2022 11:03:42 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:42 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:03:43 Creating Task: md6997
+03/05/2022 11:03:44 Error converting date: 4/25/2022
+03/05/2022 11:03:44 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:03:44 Error converting date: 4/25/2022
+03/05/2022 11:03:44 Could not parse timezone expression "America/Sao_Paulo"
+03/05/2022 11:06:00 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:06:01 Project Structure Cleared
+03/05/2022 11:06:03 Creating Service Folder: MLTR
+03/05/2022 11:06:03 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:06:03 Creating Task: md6991
+03/05/2022 11:06:05 Error converting date: 4/25/2022
+03/05/2022 11:06:05 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:05 Error converting date: 4/25/2022
+03/05/2022 11:06:05 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:08 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:06:08 Creating Task: md6992
+03/05/2022 11:06:10 Error converting date: 4/25/2022
+03/05/2022 11:06:10 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:10 Error converting date: 4/25/2022
+03/05/2022 11:06:10 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:10 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:06:11 Creating Task: md6993
+03/05/2022 11:06:13 Error converting date: 4/25/2022
+03/05/2022 11:06:13 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:13 Error converting date: 4/25/2022
+03/05/2022 11:06:13 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:14 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:06:14 Creating Task: md6994
+03/05/2022 11:06:16 Error converting date: 4/25/2022
+03/05/2022 11:06:16 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:16 Error converting date: 4/25/2022
+03/05/2022 11:06:16 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:17 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:06:17 Creating Task: md6995
+03/05/2022 11:06:19 Error converting date: 4/25/2022
+03/05/2022 11:06:19 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:19 Error converting date: 4/25/2022
+03/05/2022 11:06:19 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:19 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:06:20 Creating Task: md6996
+03/05/2022 11:06:21 Error converting date: 4/25/2022
+03/05/2022 11:06:21 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:21 Error converting date: 4/25/2022
+03/05/2022 11:06:21 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:22 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:06:22 Creating Task: md6997
+03/05/2022 11:06:24 Error converting date: 4/25/2022
+03/05/2022 11:06:24 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:06:24 Error converting date: 4/25/2022
+03/05/2022 11:06:24 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:09:59 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:10:00 Project Structure Cleared
+03/05/2022 11:10:02 Creating Service Folder: MLTR
+03/05/2022 11:10:02 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:10:02 Creating Task: md6991
+03/05/2022 11:10:04 Error converting date: 4/25/2022
+03/05/2022 11:10:04 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:04 Error converting date: 4/25/2022
+03/05/2022 11:10:04 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:05 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:10:06 Creating Task: md6992
+03/05/2022 11:10:07 Error converting date: 4/25/2022
+03/05/2022 11:10:07 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:07 Error converting date: 4/25/2022
+03/05/2022 11:10:07 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:08 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:10:08 Creating Task: md6993
+03/05/2022 11:10:10 Error converting date: 4/25/2022
+03/05/2022 11:10:10 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:10 Error converting date: 4/25/2022
+03/05/2022 11:10:10 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:11 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:10:11 Creating Task: md6994
+03/05/2022 11:10:13 Error converting date: 4/25/2022
+03/05/2022 11:10:13 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:13 Error converting date: 4/25/2022
+03/05/2022 11:10:13 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:13 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:10:14 Creating Task: md6995
+03/05/2022 11:10:16 Error converting date: 4/25/2022
+03/05/2022 11:10:16 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:16 Error converting date: 4/25/2022
+03/05/2022 11:10:16 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:16 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:10:16 Creating Task: md6996
+03/05/2022 11:10:18 Error converting date: 4/25/2022
+03/05/2022 11:10:18 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:18 Error converting date: 4/25/2022
+03/05/2022 11:10:18 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:19 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:10:19 Creating Task: md6997
+03/05/2022 11:10:21 Error converting date: 4/25/2022
+03/05/2022 11:10:21 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:10:21 Error converting date: 4/25/2022
+03/05/2022 11:10:21 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:40 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:12:40 Project Structure Cleared
+03/05/2022 11:12:42 Creating Service Folder: MLTR
+03/05/2022 11:12:42 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:12:43 Creating Task: md6991
+03/05/2022 11:12:44 Error converting date: 4/25/2022
+03/05/2022 11:12:44 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:44 Error converting date: 4/25/2022
+03/05/2022 11:12:44 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:46 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:12:46 Creating Task: md6992
+03/05/2022 11:12:48 Error converting date: 4/25/2022
+03/05/2022 11:12:48 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:48 Error converting date: 4/25/2022
+03/05/2022 11:12:48 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:48 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:12:49 Creating Task: md6993
+03/05/2022 11:12:50 Error converting date: 4/25/2022
+03/05/2022 11:12:50 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:50 Error converting date: 4/25/2022
+03/05/2022 11:12:50 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:51 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:12:51 Creating Task: md6994
+03/05/2022 11:12:53 Error converting date: 4/25/2022
+03/05/2022 11:12:53 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:53 Error converting date: 4/25/2022
+03/05/2022 11:12:53 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:53 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:12:54 Creating Task: md6995
+03/05/2022 11:12:55 Error converting date: 4/25/2022
+03/05/2022 11:12:55 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:55 Error converting date: 4/25/2022
+03/05/2022 11:12:55 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:56 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:12:56 Creating Task: md6996
+03/05/2022 11:12:58 Error converting date: 4/25/2022
+03/05/2022 11:12:58 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:58 Error converting date: 4/25/2022
+03/05/2022 11:12:58 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:12:59 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:12:59 Creating Task: md6997
+03/05/2022 11:13:01 Error converting date: 4/25/2022
+03/05/2022 11:13:01 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:13:01 Error converting date: 4/25/2022
+03/05/2022 11:13:01 Can't parse two arguments of types 'datetime', '<type 'NoneType'>'
+03/05/2022 11:14:00 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:14:01 Folder already exists
+03/05/2022 11:14:18 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:14:19 Project Structure Cleared
+03/05/2022 11:14:20 Creating Service Folder: MLTR
+03/05/2022 11:14:20 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:14:20 Creating Task: md6991
+03/05/2022 11:14:23 Server reported error: ValidationError(TypedContext dates must be within project start and end dates.)
+03/05/2022 11:15:36 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:15:36 Project Structure Cleared
+03/05/2022 11:15:54 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:15:54 Project Structure Cleared
+03/05/2022 11:15:55 Creating Service Folder: MLTR
+03/05/2022 11:15:55 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:15:55 Creating Task: md6991
+03/05/2022 11:15:58 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:15:59 Creating Task: md6992
+03/05/2022 11:16:01 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:16:01 Creating Task: md6993
+03/05/2022 11:16:04 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:16:05 Creating Task: md6994
+03/05/2022 11:16:08 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:16:08 Creating Task: md6995
+03/05/2022 11:16:10 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:16:11 Creating Task: md6996
+03/05/2022 11:16:13 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:16:13 Creating Task: md6997
+03/05/2022 11:20:57 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:20:57 Project Structure Cleared
+03/05/2022 11:20:59 Creating Service Folder: MLTR
+03/05/2022 11:20:59 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:20:59 Creating Task: md6991
+03/05/2022 11:21:02 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:02 Creating Task: md6992
+03/05/2022 11:21:04 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:04 Creating Task: md6993
+03/05/2022 11:21:07 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:07 Creating Task: md6994
+03/05/2022 11:21:10 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:10 Creating Task: md6995
+03/05/2022 11:21:12 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:12 Creating Task: md6996
+03/05/2022 11:21:14 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:15 Creating Task: md6997
+03/05/2022 11:21:17 OrderedDict([('Index', 7L), ('Nome', 'md6998'), ('Pasta', 'MLTR'), ('Description', 'ISLAND 6 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN636LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 16.5), ('Width', 35.5), ('Depth', 16.5), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:17 Creating Task: md6998
+03/05/2022 11:21:19 OrderedDict([('Index', 8L), ('Nome', 'md6999'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 2 LIGHTS BRUSHED NICKEL'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ATB1714BN'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 12.75), ('Width', 14.75), ('Depth', 14.75), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:20 Creating Task: md6999
+03/05/2022 11:21:22 OrderedDict([('Index', 9L), ('Nome', 'md7000'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 2 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ATB1714MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 12.75), ('Width', 14.75), ('Depth', 14.75), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:22 Creating Task: md7000
+03/05/2022 11:21:25 OrderedDict([('Index', 10L), ('Nome', 'md7001'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 2 LIGHTS BRUSHED NICKEL'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ATB2814BN'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.5), ('Width', 14.75), ('Depth', 14.75), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:25 Creating Task: md7001
+03/05/2022 11:21:27 OrderedDict([('Index', 11L), ('Nome', 'md7002'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 2 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ATB2814MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.5), ('Width', 14.75), ('Depth', 14.75), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:27 Creating Task: md7002
+03/05/2022 11:21:30 OrderedDict([('Index', 12L), ('Nome', 'md7003'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS OLD BRONZE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ATO5025OZ'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 21.5), ('Width', 25.0), ('Depth', 25.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:30 Creating Task: md7003
+03/05/2022 11:21:32 OrderedDict([('Index', 13L), ('Nome', 'md7004'), ('Pasta', 'MLTR'), ('Description', 'ISLAND 6 LIGHTS OLD BRONZE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ATO632OZ'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 21.5), ('Width', 32.0), ('Depth', 13.75), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:32 Creating Task: md7004
+03/05/2022 11:21:35 OrderedDict([('Index', 14L), ('Nome', 'md7005'), ('Pasta', 'MLTR'), ('Description', 'FANDELIER 4 LIGHTS POLISHED NICKEL'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'BAW3122PK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 15.75), ('Width', 22.0), ('Depth', 22.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:35 Creating Task: md7005
+03/05/2022 11:21:37 OrderedDict([('Index', 15L), ('Nome', 'md7006'), ('Pasta', 'MLTR'), ('Description', 'FANDELIER 4 LIGHTS WEATHERED BRASS'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'BAW3122WS'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 15.75), ('Width', 22.0), ('Depth', 22.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:37 Creating Task: md7006
+03/05/2022 11:21:39 OrderedDict([('Index', 16L), ('Nome', 'md7007'), ('Pasta', 'MLTR'), ('Description', 'MINI PENDANT 1 LIGHT OLD BRONZE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'BEU1506OZ'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 11.0), ('Width', 6.75), ('Depth', 6.75), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:40 Creating Task: md7007
+03/05/2022 11:21:42 OrderedDict([('Index', 17L), ('Nome', 'md7008'), ('Pasta', 'MLTR'), ('Description', 'MINI PENDANT 4 LIGHTS OLD BRONZE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'BEU1512OZ'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 11.75), ('Width', 12.75), ('Depth', 12.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:42 Creating Task: md7008
+03/05/2022 11:21:45 OrderedDict([('Index', 18L), ('Nome', 'md7009'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 4 LIGHTS OLD BRONZE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'BEU1712OZ'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 12.75), ('Width', 12.75), ('Depth', 12.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:45 Creating Task: md7009
+03/05/2022 11:21:47 OrderedDict([('Index', 19L), ('Nome', 'md7010'), ('Pasta', 'MLTR'), ('Description', 'ISLAND 8 LIGHTS OLD BRONZE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'BEU838OZ'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 12.75), ('Width', 38.0), ('Depth', 11.75), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:47 Creating Task: md7010
+03/05/2022 11:21:50 OrderedDict([('Index', 20L), ('Nome', 'md7011'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS BRUSHED NICKEL'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'BGA5021BN'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 29.0), ('Width', 24.25), ('Depth', 24.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:50 Creating Task: md7011
+03/05/2022 11:21:52 OrderedDict([('Index', 21L), ('Nome', 'md7012'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '5/20/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'BGA5021MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 29.0), ('Width', 24.25), ('Depth', 24.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:21:52 Creating Task: md7012
+03/05/2022 11:25:56 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:25:56 Project Structure Cleared
+03/05/2022 11:26:00 Creating Service Folder: MLTR
+03/05/2022 11:26:00 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:26:00 Creating Task: md6991
+03/05/2022 11:26:03 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:26:03 Creating Task: md6992
+03/05/2022 11:26:06 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:26:06 Creating Task: md6993
+03/05/2022 11:26:08 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:26:08 Creating Task: md6994
+03/05/2022 11:26:11 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:26:11 Creating Task: md6995
+03/05/2022 11:26:13 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:26:14 Creating Task: md6996
+03/05/2022 11:26:16 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:26:16 Creating Task: md6997
+03/05/2022 11:27:05 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:27:05 Project Structure Cleared
+03/05/2022 11:27:07 Creating Service Folder: MLTR
+03/05/2022 11:27:07 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com; jonathan@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:27:08 Creating Task: md6991
+03/05/2022 11:27:11 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:27:11 Creating Task: md6992
+03/05/2022 11:27:13 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:27:13 Creating Task: md6993
+03/05/2022 11:27:16 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:27:16 Creating Task: md6994
+03/05/2022 11:27:18 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:27:18 Creating Task: md6995
+03/05/2022 11:27:21 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:27:21 Creating Task: md6996
+03/05/2022 11:27:23 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:27:23 Creating Task: md6997
+03/05/2022 11:28:52 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:28:52 Project Structure Cleared
+03/05/2022 11:28:55 Creating Service Folder: MLTR
+03/05/2022 11:28:55 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com; jonathan@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:28:55 Creating Task: md6991
+03/05/2022 11:28:59 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:28:59 Creating Task: md6992
+03/05/2022 11:29:03 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:29:03 Creating Task: md6993
+03/05/2022 11:29:07 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:29:07 Creating Task: md6994
+03/05/2022 11:29:10 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:29:10 Creating Task: md6995
+03/05/2022 11:29:13 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:29:13 Creating Task: md6996
+03/05/2022 11:29:15 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:29:16 Creating Task: md6997
+03/05/2022 11:30:19 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:30:20 Project Structure Cleared
+03/05/2022 11:30:22 Creating Service Folder: MLTR
+03/05/2022 11:30:22 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com; jonathan@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:30:23 Creating Task: md6991
+03/05/2022 11:30:26 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:30:27 Creating Task: md6992
+03/05/2022 11:30:29 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:30:30 Creating Task: md6993
+03/05/2022 11:30:32 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:30:32 Creating Task: md6994
+03/05/2022 11:30:35 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:30:35 Creating Task: md6995
+03/05/2022 11:30:38 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:30:38 Creating Task: md6996
+03/05/2022 11:30:41 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:30:41 Creating Task: md6997
+03/05/2022 11:31:22 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:31:23 Project Structure Cleared
+03/05/2022 11:31:25 Creating Service Folder: MLTR
+03/05/2022 11:31:25 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com; jonathan@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:31:25 Creating Task: md6991
+03/05/2022 11:31:27 rodrigo.gama@ilustraviz.com
+03/05/2022 11:31:28  jonathan@ilustraviz.com
+03/05/2022 11:31:29 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:31:29 Creating Task: md6992
+03/05/2022 11:31:32 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:31:32 Creating Task: md6993
+03/05/2022 11:31:35 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:31:35 Creating Task: md6994
+03/05/2022 11:31:37 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:31:38 Creating Task: md6995
+03/05/2022 11:31:40 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:31:40 Creating Task: md6996
+03/05/2022 11:31:43 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:31:43 Creating Task: md6997
+03/05/2022 11:32:18 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:32:18 Project Structure Cleared
+03/05/2022 11:32:21 Creating Service Folder: MLTR
+03/05/2022 11:32:21 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com; jonathan@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:32:21 Creating Task: md6991
+03/05/2022 11:32:23 rodrigo.gama@ilustraviz.com
+03/05/2022 11:32:24 jonathan@ilustraviz.com
+03/05/2022 11:32:26 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:32:26 Creating Task: md6992
+03/05/2022 11:32:28 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:32:29 Creating Task: md6993
+03/05/2022 11:32:31 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:32:32 Creating Task: md6994
+03/05/2022 11:32:34 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:32:34 Creating Task: md6995
+03/05/2022 11:32:37 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:32:37 Creating Task: md6996
+03/05/2022 11:32:40 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:32:40 Creating Task: md6997
+03/05/2022 11:36:01 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:36:02 Project Structure Cleared
+03/05/2022 11:36:04 Creating Service Folder: MLTR
+03/05/2022 11:36:04 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com; jonathan@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:36:04 Creating Task: md6991
+03/05/2022 11:36:08 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:36:08 Creating Task: md6992
+03/05/2022 11:36:10 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:36:11 Creating Task: md6993
+03/05/2022 11:36:13 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:36:13 Creating Task: md6994
+03/05/2022 11:36:15 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:36:16 Creating Task: md6995
+03/05/2022 11:36:18 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:36:18 Creating Task: md6996
+03/05/2022 11:36:20 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:36:21 Creating Task: md6997
+03/05/2022 11:37:02 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:37:03 Project Structure Cleared
+03/05/2022 11:37:04 Creating Service Folder: MLTR
+03/05/2022 11:37:04 OrderedDict([('Index', 0L), ('Nome', 'md6991'), ('Pasta', 'MLTR'), ('Description', 'SEMI FLUSH 3 LIGHTS MATTE BLACK'), ('Assignee', 'rodrigo.gama@ilustraviz.com; jonathan@ilustraviz.com'), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL1716MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 19.0), ('Width', 16.0), ('Depth', 16.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:37:04 Creating Task: md6991
+03/05/2022 11:37:08 OrderedDict([('Index', 1L), ('Nome', 'md6992'), ('Pasta', 'MLTR'), ('Description', 'PENDANT 4 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL2820MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 28.0), ('Width', 20.25), ('Depth', 20.25), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:37:09 Creating Task: md6992
+03/05/2022 11:37:11 OrderedDict([('Index', 2L), ('Nome', 'md6993'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 6 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5026MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 31.5), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:37:11 Creating Task: md6993
+03/05/2022 11:37:14 OrderedDict([('Index', 3L), ('Nome', 'md6994'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 9 LIGHTS MATTE BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'ADL5030MBK'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 36.0), ('Width', 30.0), ('Depth', 30.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:37:14 Creating Task: md6994
+03/05/2022 11:37:17 OrderedDict([('Index', 4L), ('Nome', 'md6995'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS ANTIQUE WHITE'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024AWH'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:37:17 Creating Task: md6995
+03/05/2022 11:37:21 OrderedDict([('Index', 5L), ('Nome', 'md6996'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS MOTTLED BLACK'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'AEL5024MB'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.0), ('Width', 24.0), ('Depth', 24.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:37:21 Creating Task: md6996
+03/05/2022 11:37:23 OrderedDict([('Index', 6L), ('Nome', 'md6997'), ('Pasta', 'MLTR'), ('Description', 'CHANDELIER 5 LIGHTS LIGHT GOLD'), ('Assignee', nan), ('_5', '4/25/2022'), ('_6', '4/25/2022'), ('Priority', 'P2'), ('Status', 'MLTR'), ('SKU', 'APN5026LG'), ('Bid', 0.25), ('Scope', 'Quoizel'), ('Type', 'MLTR'), ('Height', 22.75), ('Width', 26.0), ('Depth', 26.0), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:37:23 Creating Task: md6997
+03/05/2022 11:37:26 Creating Service Folder: rs1319
+03/05/2022 11:37:26 OrderedDict([('Index', 0L), ('Nome', 'rs1319'), ('Pasta', 'rs1319'), ('Description', nan), ('Assignee', nan), ('_5', nan), ('_6', nan), ('Priority', 'P2'), ('Status', 'Not Started'), ('SKU', nan), ('Bid', 0.08), ('Scope', 'Quoizel'), ('Type', 'CYCLING'), ('Height', nan), ('Width', nan), ('Depth', nan), ('Incoming', nan), ('Outcoming', nan)])
+03/05/2022 11:37:26 Creating Task: rs1319
+03/05/2022 11:37:29 Server reported error: ValidationError(TypedContext dates must be within project start and end dates.)
+03/05/2022 11:44:05 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:44:05 Project Structure Cleared
+03/05/2022 11:44:07 Creating Service Folder: MLTR
+03/05/2022 11:44:07 Creating Task: md6991
+03/05/2022 11:44:11 Creating Task: md6992
+03/05/2022 11:44:14 Creating Task: md6993
+03/05/2022 11:44:17 Creating Task: md6994
+03/05/2022 11:44:19 Creating Task: md6995
+03/05/2022 11:44:22 Creating Task: md6996
+03/05/2022 11:44:24 Creating Task: md6997
+03/05/2022 11:44:45 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:44:45 Project Structure Cleared
+03/05/2022 11:44:47 Creating Service Folder: MLTR
+03/05/2022 11:44:47 Creating Task: md6991
+03/05/2022 11:44:51 Creating Task: md6992
+03/05/2022 11:44:53 Creating Task: md6993
+03/05/2022 11:44:56 Creating Task: md6994
+03/05/2022 11:44:58 Creating Task: md6995
+03/05/2022 11:45:01 Creating Task: md6996
+03/05/2022 11:45:03 Creating Task: md6997
+03/05/2022 11:45:06 Creating Service Folder: rs1319
+03/05/2022 11:45:06 Creating Task: rs1319
+03/05/2022 11:45:08 Server reported error: ValidationError(TypedContext dates must be within project start and end dates.)
+03/05/2022 11:46:43 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:46:44 Project Structure Cleared
+03/05/2022 11:46:46 Creating Service Folder: MLTR
+03/05/2022 11:46:46 Creating Task: md6991
+03/05/2022 11:46:48 _get_arrow_time() takes exactly 1 argument (2 given)
+03/05/2022 11:47:47 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:47:47 Project Structure Cleared
+03/05/2022 11:47:48 Creating Service Folder: MLTR
+03/05/2022 11:47:48 Creating Task: md6991
+03/05/2022 11:47:52 Creating Task: md6992
+03/05/2022 11:47:55 Creating Task: md6993
+03/05/2022 11:47:57 Creating Task: md6994
+03/05/2022 11:48:00 Creating Task: md6995
+03/05/2022 11:48:02 Creating Task: md6996
+03/05/2022 11:48:05 Creating Task: md6997
+03/05/2022 11:48:08 Creating Service Folder: rs1319
+03/05/2022 11:48:08 Creating Task: rs1319
+03/05/2022 11:48:10 cannot concatenate 'str' and 'float' objects
+03/05/2022 11:49:34 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:49:35 Project Structure Cleared
+03/05/2022 11:49:37 Creating Service Folder: MLTR
+03/05/2022 11:49:38 Creating Task: md6991
+03/05/2022 11:49:42 Creating Task: md6992
+03/05/2022 11:49:45 Creating Task: md6993
+03/05/2022 11:49:47 Creating Task: md6994
+03/05/2022 11:49:50 Creating Task: md6995
+03/05/2022 11:49:52 Creating Task: md6996
+03/05/2022 11:49:55 Creating Task: md6997
+03/05/2022 11:49:58 Creating Service Folder: rs1319
+03/05/2022 11:49:58 Creating Task: rs1319
+03/05/2022 11:50:01 Creating Task: sh10919
+03/05/2022 11:50:03 Creating Task Link: md6991
+03/05/2022 11:50:05 Creating Task: sh10924
+03/05/2022 11:50:07 Creating Task Link: md6992
+03/05/2022 11:50:08 Creating Task: sh10936
+03/05/2022 11:50:10 Creating Task Link: md6993
+03/05/2022 11:50:11 Creating Task: sh11008
+03/05/2022 11:50:13 Creating Task Link: md6994
+03/05/2022 11:51:38 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 11:51:39 Project Structure Cleared
+03/05/2022 11:51:41 Creating Service Folder: MLTR
+03/05/2022 11:51:41 Creating Task: md6991
+03/05/2022 11:51:45 Creating Task: md6992
+03/05/2022 11:51:47 Creating Task: md6993
+03/05/2022 11:51:50 Creating Task: md6994
+03/05/2022 11:51:53 Creating Task: md6995
+03/05/2022 11:51:56 Creating Task: md6996
+03/05/2022 11:51:59 Creating Task: md6997
+03/05/2022 11:52:02 Creating Service Folder: rs1319
+03/05/2022 11:52:02 Creating Task: rs1319
+03/05/2022 11:52:04 Creating Task: sh10919
+03/05/2022 11:52:07 Creating Task Link: md6991
+03/05/2022 11:52:07 Creating Task Link: md6992
+03/05/2022 11:52:09 Creating Task: sh10924
+03/05/2022 11:52:10 Creating Task Link: md6992
+03/05/2022 11:52:12 Creating Task: sh10936
+03/05/2022 11:52:14 Creating Task Link: md6993
+03/05/2022 11:52:15 Creating Task: sh11008
+03/05/2022 11:52:17 Creating Task Link: md6994
+03/05/2022 17:03:39 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 17:03:39 Project Structure Cleared
+03/05/2022 22:37:24 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 22:38:44 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 22:38:45 Project Structure Cleared
+03/05/2022 22:38:49 Folder already exists
+03/05/2022 22:39:11 ############################ CREATING NEW PROJECT STRUCTURE ############################
+03/05/2022 22:39:11 Project Structure Cleared
+03/05/2022 22:39:11 Creating Service Folder: rs1319
+03/05/2022 22:39:12 Creating Task: rs1319
+03/05/2022 22:39:15 Creating Task: sh10919
+03/05/2022 22:39:17 Creating Task Link: md6991
+03/05/2022 22:39:17 Creating Task Link: md6992
+03/05/2022 22:39:19 Creating Task: sh10924
+03/05/2022 22:39:21 Creating Task Link: md6992
+03/05/2022 22:39:22 Creating Task: sh10936
+03/05/2022 22:39:24 Creating Task Link: md6993
+03/05/2022 22:39:25 Creating Task: sh11008
+03/05/2022 22:39:27 Creating Task Link: md6994
