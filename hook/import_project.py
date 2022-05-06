@@ -29,7 +29,11 @@ def load_dependencies_path():
 # Loading Dependencies
 
 load_dependencies_path()
-   
+
+# Script Start
+
+username_not_found = []
+
 class WriteLog:
     '''This class will create both global logs and csv logs'''
         
@@ -67,7 +71,7 @@ class CreateTask:
         
     def __init__(self, task_dict, parent, session):
                                 
-        if session.query('Task where name is "{}"'.format(task_dict["Nome"])).first():
+        if session.query('select name from Task where name is "{}"'.format(task_dict["Nome"])).first():
             log.write("Task already exists")
             return
         
@@ -122,7 +126,7 @@ class CreateTask:
             
             log.write("Creating Task Link: " + incoming_task_name)
             
-            incoming_task = session.query('Task where name is ' + incoming_task_name)
+            incoming_task = session.query('select name from Task where name is ' + incoming_task_name)
             
             if incoming_task:
                 task_link = session.create('TypedContextLink', {
@@ -174,17 +178,23 @@ class CreateTask:
     @staticmethod
     def _task_assigment(session, task_dict, task):
         
+        global username_not_found
+               
         assignee = str(task_dict["Assignee"])
-        
+                        
         if assignee == "nan":
             return
         
         assignee_list = assignee.split(";")
         
-        for assignee_item in assignee_list:          
+        for assignee_item in assignee_list:  
+            
+            if assignee_item in username_not_found:
+                return
+                    
             assignee_item = assignee_item.strip()
                         
-            user = session.query('User where username is "' + assignee_item + '"')
+            user = session.query('select username from User where username is "' + assignee_item + '"')
             
             if user:
                 session.create('Appointment', {
@@ -192,6 +202,10 @@ class CreateTask:
                     'resource': user.one(),
                     'type': 'assignment'
                 })
+                
+            else:
+                username_not_found.append(assignee_item)
+                log.write("User not found {}".format(assignee_item))
  
     @staticmethod
     def _get_correct_task_attribute(value, default):
@@ -213,7 +227,7 @@ class CreateFolder:
     
     def __init__(self, name, project, session):
         
-        if session.query('Folder where name is "{}"'.format(name)).first():
+        if session.query('select name, project_id from Folder where name is "{folder_name}" and project_id is "{project_id}"'.format(folder_name = name, project_id = project["id"])).first():
             log.write("Folder already exists")
             return
         
@@ -253,9 +267,8 @@ class CreateProjectStructure:
         #for file in csv_files:
         #    self._generate_project_structure_from_csv(session, self.project, file)
             
-         
         csv_files = self.values["csv_paths"].split(",")
-        csv_files = [path.strip() for path in csv_files]
+        csv_files = [path.strip() for path in csv_files]               
         
         for file in csv_files:
             if not os.path.exists(file):
@@ -306,7 +319,16 @@ class CreateProjectStructure:
             
             folder_task_dataframe = sheet.loc[sheet['Pasta'] == pasta] # Generating DataFrame with tasks inside the current folder only
             
-            for row in folder_task_dataframe.itertuples():  
+            # Development Only
+            
+            max_rows = 5 # Prevent that creates more than the necessary tasks when in developer mode, set 0 to disable
+            
+            for idx, row in enumerate(folder_task_dataframe.itertuples()):  
+                
+                if max_rows:
+                    if idx == max_rows:
+                        log.write("Task Creation Was Limited for {} Tasks".format(max_rows))
+                        break
                 
                 task_dict = row.__dict__   
                 
@@ -318,7 +340,7 @@ class CreateProjectStructure:
     @staticmethod                           
     def _clear_current_project_structure(session, project):
         
-        project_folders = session.query('Folder where parent.id is ' + str(project['id']))
+        project_folders = session.query('select parent.id from Folder where parent.id is ' + str(project['id']))
         
         if project_folders:
             for folder in project_folders:                                  
@@ -360,7 +382,10 @@ class CreateProjectStructureAction(BaseAction):
         if 'values' in event['data']:
             values = event['data']['values']
             
-            try:    
+            try:   
+                
+                global username_not_found
+                username_not_found = []
     
                 entity_type, entity_id = entities[0] 
                 project = session.query('Project where id is "{0}"'.format(entity_id)).one()
