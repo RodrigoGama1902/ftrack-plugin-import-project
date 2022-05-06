@@ -321,7 +321,7 @@ class CreateProjectStructure:
             
             # Development Only
             
-            max_rows = 5 # Prevent that creates more than the necessary tasks when in developer mode, set 0 to disable
+            max_rows = 0 # Prevent that creates more than the necessary tasks when in developer mode, set 0 to disable
             
             for idx, row in enumerate(folder_task_dataframe.itertuples()):  
                 
@@ -375,6 +375,7 @@ class CreateProjectStructureAction(BaseAction):
 
         return True
 
+
     def launch(self, session, entities, event):
         
         log.add_header("Creating New Project Structure")
@@ -413,6 +414,7 @@ class CreateProjectStructureAction(BaseAction):
                     'success': False,
                     'message': "Something Went Wrong, Please Check Log File",
                 }
+   
     
     def interface(self, session, entities, event):
         
@@ -436,8 +438,29 @@ class CreateProjectStructureAction(BaseAction):
                 'value': log.get_path(),
                 'name': 'log_path'
                 },
-            ]
+            ]    
 
+
+    def register(self):
+              
+        '''Register action.'''
+        self.session.event_hub.subscribe(
+            'topic=ftrack.action.discover and source.user.username={0}'.format(
+                self.session.api_user
+            ),
+            self._discover
+        )
+
+        self.session.event_hub.subscribe(
+            'topic=ftrack.action.launch and data.actionIdentifier={0} and '
+            'source.user.username={1}'.format(
+                self.identifier,
+                self.session.api_user
+            ),
+            self._launch
+        )
+    
+    
 def register(session, **kw):
 
     if not isinstance(session, ftrack_api.session.Session):
@@ -445,7 +468,6 @@ def register(session, **kw):
 
     action_handler = CreateProjectStructureAction(session)
     action_handler.register()
-
 
 if __name__ == '__main__':
                                 
