@@ -1,22 +1,12 @@
-from distutils.fancy_getopt import wrap_text
+
 import sys
 import os
-import csv
 
 import arrow
 from datetime import datetime
-from dateutil import tz
 
 import ftrack_api
 from ftrack_action_handler.action import BaseAction
-
-
-def get_delimiter(file_path, bytes = 4096):
-    sniffer = csv.Sniffer()
-    data = open(file_path, "r").read(bytes)
-    delimiter = sniffer.sniff(data).delimiter
-    return delimiter
-
 
 def load_dependencies_path():
     _cwd = os.path.dirname(__file__)
@@ -24,10 +14,8 @@ def load_dependencies_path():
 
     if _sources_path not in sys.path:
         sys.path.append(_sources_path)
-
-                
+               
 # Loading Dependencies
-
 load_dependencies_path()
 
 # Script Start
@@ -92,8 +80,8 @@ class CreateTask:
                 'bid': self._get_bid_days(task_dict["Bid"]),                       
                 
                 # Arrow Time Objects
-                'start_date': self._get_arrow_time(task_dict["_5"]), # For some reason, the start date is begin read as _5
-                'end_date': self._get_arrow_time(task_dict["_6"]),
+                'start_date': self._get_arrow_time(task_dict["Start Date"]), # For some reason, the start date is begin read as _5
+                'end_date': self._get_arrow_time(task_dict["Due Date"]),
                 
                 # Custom Attributes
                 'custom_attributes': {
@@ -116,7 +104,7 @@ class CreateTask:
         
         incoming_task = str(task_dict["Incoming"])
         
-        if incoming_task == "nan":
+        if incoming_task == "":
             return
         
         incoming_task_list = incoming_task.split(";")
@@ -137,7 +125,7 @@ class CreateTask:
     @staticmethod
     def _get_arrow_time(string_data):
         
-        if str(string_data) == "nan":
+        if str(string_data) == "":
             return ""
         
         if not string_data:
@@ -157,7 +145,7 @@ class CreateTask:
     @staticmethod
     def _get_bid_days(bid):
         
-        if str(bid) == "nan":
+        if str(bid) == "":
             return 0
 
         if not bid:
@@ -182,7 +170,7 @@ class CreateTask:
                
         assignee = str(task_dict["Assignee"])
                         
-        if assignee == "nan":
+        if assignee == "":
             return
         
         assignee_list = assignee.split(";")
@@ -210,7 +198,7 @@ class CreateTask:
     @staticmethod
     def _get_correct_task_attribute(value, default):
         
-        if str(value) == "nan":
+        if str(value) == "":
             return default
         else:
             return value
@@ -261,12 +249,7 @@ class CreateProjectStructure:
         session.commit()
         
     def _create_project_structure(self, session):
-        
-        #csv_files = self._load_csv_files(r"C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\data_to_read")
-        
-        #for file in csv_files:
-        #    self._generate_project_structure_from_csv(session, self.project, file)
-            
+                    
         csv_files = self.values["csv_paths"].split(",")
         csv_files = [path.strip() for path in csv_files]               
         
@@ -276,12 +259,9 @@ class CreateProjectStructure:
             
             if not file.endswith(".csv"):
                 continue
-            
-            #write_csv_log(file, "Creating Project Structure from CSV", reset = False)
-                        
+                                    
             self._generate_project_structure_from_csv(session, self.project, file)
-        
-            
+
     @staticmethod
     def _load_csv_files(csv_folder_path):
         
@@ -297,19 +277,16 @@ class CreateProjectStructure:
 
     @staticmethod
     def _generate_project_structure_from_csv(session, project, csv_file):
+                
+        from csv_helper.csv_to_dict import CSVToDict
         
-        import pandas as pd
+        csv_data = CSVToDict(csv_file)
         
-        sheet = pd.read_csv(csv_file, sep = get_delimiter(csv_file))
-
-        pastas = []
-        for item in sheet['Pasta']:
-            if not item in pastas:
-                pastas.append(item)
+        possible_values = csv_data.possible_values("Pasta")
         
-        for pasta in pastas: 
+        for pasta in possible_values:
             
-            if str(pasta) == "nan":  
+            if str(pasta) == "":  
                 continue
               
             folder = CreateFolder(pasta, project, session).get_folder()
@@ -317,26 +294,17 @@ class CreateProjectStructure:
             if not folder:
                 continue
             
-            folder_task_dataframe = sheet.loc[sheet['Pasta'] == pasta] # Generating DataFrame with tasks inside the current folder only
+            folder_tasks = csv_data.loc("Pasta", pasta)
             
             # Development Only
             
-            max_rows = 0 # Prevent that creates more than the necessary tasks when in developer mode, set 0 to disable
-            
-            for idx, row in enumerate(folder_task_dataframe.itertuples()):  
+            for row in folder_tasks:
                 
-                if max_rows:
-                    if idx == max_rows:
-                        log.write("Task Creation Was Limited for {} Tasks".format(max_rows))
-                        break
-                
-                task_dict = row.__dict__   
-                
-                if str(task_dict["Nome"]) == "nan":
+                if str(row["Nome"]) == "":
                     continue
-                                     
-                CreateTask(task_dict, folder, session)          
-    
+                
+                CreateTask(row, folder, session) 
+                    
     @staticmethod                           
     def _clear_current_project_structure(session, project):
         
