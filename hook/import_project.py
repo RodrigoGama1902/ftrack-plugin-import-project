@@ -8,16 +8,13 @@ from datetime import datetime
 import ftrack_api
 from ftrack_action_handler.action import BaseAction
 
-def load_dependencies_path():
-    _cwd = os.path.dirname(__file__)
-    _sources_path = os.path.abspath(os.path.join(_cwd, '..', 'dependencies'))
-
-    if _sources_path not in sys.path:
-        sys.path.append(_sources_path)
-               
 # Loading Dependencies
-load_dependencies_path()
+_cwd = os.path.dirname(__file__)
+_sources_path = os.path.abspath(os.path.join(_cwd, '..', 'dependencies'))
 
+if _sources_path not in sys.path:
+    sys.path.append(_sources_path)
+               
 # Script Start
 
 username_not_found = []
@@ -99,6 +96,7 @@ class CreateTask:
         self.task = task
         
         session.commit()
+    
         
     def _create_task_link(self, session, task_dict, task):
         
@@ -121,6 +119,10 @@ class CreateTask:
                         'from': incoming_task.one(),
                         'to' : task
                     })
+    
+    
+    def get_task(self):
+        return self.task
     
     @staticmethod
     def _get_arrow_time(string_data):
@@ -203,10 +205,6 @@ class CreateTask:
         else:
             return value
         
-    
-    def get_task(self):
-        return self.task
-
 
 class CreateFolder:
     '''Create a new folder inside a project root'''
@@ -241,14 +239,15 @@ class CreateProjectStructure:
         self.project = project
         self.values = values
         
-        if values["clear_project_structure"]:  
-            self._clear_current_project_structure(session, project)
+        #if values["clear_project_structure"]:  # Not used for now
+        #    self._clear_current_project_structure(session, project)
             
-        self._create_project_structure(session)
+        self._load_csv_input(session)
         
         session.commit()
         
-    def _create_project_structure(self, session):
+    def _load_csv_input(self, session):
+        '''Read all csv paths and create the project structure based on the csv'''
                     
         csv_files = self.values["csv_paths"].split(",")
         csv_files = [path.strip() for path in csv_files]               
@@ -262,26 +261,14 @@ class CreateProjectStructure:
                                     
             self._generate_project_structure_from_csv(session, self.project, file)
 
-    @staticmethod
-    def _load_csv_files(csv_folder_path):
-        
-        csv_files = []
-                
-        if os.path.exists(csv_folder_path):
-            for csv_file in os.listdir(csv_folder_path):      
-                
-                csv_file = os.path.join(csv_folder_path, csv_file)
-                csv_files.append(csv_file)
-        
-        return csv_files
 
     @staticmethod
     def _generate_project_structure_from_csv(session, project, csv_file):
-                
-        from csv_helper.csv_to_dict import CSVToDict
+        '''Read the current CSV, and create the project structure based on it'''
         
-        csv_data = CSVToDict(csv_file)
-        
+        from csv_helper.csv_to_dict import CSVToDict # Importing custom CSV Library
+                        
+        csv_data = CSVToDict(csv_file)  
         possible_values = csv_data.possible_values("Pasta")
         
         for pasta in possible_values:
@@ -305,8 +292,9 @@ class CreateProjectStructure:
                 
                 CreateTask(row, folder, session) 
                     
-    @staticmethod                           
+    @staticmethod  # Not used for now                          
     def _clear_current_project_structure(session, project):
+        '''Clear current project structure'''
         
         project_folders = session.query('select parent.id from Folder where parent.id is ' + str(project['id']))
         
@@ -328,6 +316,7 @@ class CreateProjectStructureAction(BaseAction):
     description = 'This action will create a project structure from CSV files.'
     icon = 'https://cdn-icons-png.flaticon.com/512/180/180855.png'
     
+    # For safety reason, this action will run in these project IDs only
     test_projects = ["a0467cac-cb4a-11ec-940f-02a0d5fc5f47",
                      "1993a0ce-c562-11ec-97b1-02a0d5fc5f47"
                      ]
@@ -342,7 +331,6 @@ class CreateProjectStructureAction(BaseAction):
             return
 
         return True
-
 
     def launch(self, session, entities, event):
         
@@ -382,7 +370,6 @@ class CreateProjectStructureAction(BaseAction):
                     'success': False,
                     'message': "Something Went Wrong, Please Check Log File",
                 }
-   
     
     def interface(self, session, entities, event):
         
@@ -395,11 +382,11 @@ class CreateProjectStructureAction(BaseAction):
                 'label': 'CSV Paths (Separate by ",")',
                 'name': 'csv_paths',
                 },
-                {
-                'type': 'boolean',
-                'label': 'Clear Current Project Structure',
-                'name': 'clear_project_structure',
-                },
+                #{     # Not used for now
+                #'type': 'boolean',
+                #'label': 'Clear Current Project Structure',
+                #'name': 'clear_project_structure',
+                #},
                 {
                 'label': 'Log Path',
                 'type': 'text',
@@ -407,7 +394,6 @@ class CreateProjectStructureAction(BaseAction):
                 'name': 'log_path'
                 },
             ]    
-
 
     def register(self):
               
@@ -426,8 +412,8 @@ class CreateProjectStructureAction(BaseAction):
                 self.session.api_user
             ),
             self._launch
-        )
-    
+        ) 
+ 
     
 def register(session, **kw):
 
@@ -436,6 +422,7 @@ def register(session, **kw):
 
     action_handler = CreateProjectStructureAction(session)
     action_handler.register()
+
 
 if __name__ == '__main__':
                                 
