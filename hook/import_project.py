@@ -1,6 +1,7 @@
 
 import sys
 import os
+import logging
 
 import arrow
 from datetime import datetime
@@ -14,54 +15,24 @@ _sources_path = os.path.abspath(os.path.join(_cwd, '..', 'dependencies'))
 
 if _sources_path not in sys.path:
     sys.path.append(_sources_path)
-               
+                 
 # Script Start
 
-username_not_found = []
-
-class WriteLog:
-    '''This class will create both global logs and csv logs'''
-        
-    def __init__(self, message = "Starting Log"):
-        
-        self.action_log = os.path.realpath(os.path.join(os.path.join(os.path.dirname(__file__),"..","logs", "action_log.log")))
-            
-    def write(self, message = None):
-            
-        message = str(message)
-        now = datetime.now()
-            
-        with open(self.action_log, "a") as log_file:      
-            log_file.write(now.strftime("%d/%m/%Y %H:%M:%S") + " " + message)
-            log_file.write("\n")
-    
-    def add_header(self, message = None):
-            
-        message = str(message)
-        now = datetime.now()
-            
-        with open(self.action_log, "a") as log_file:    
-            log_file.write("")  
-            log_file.write(now.strftime("%d/%m/%Y %H:%M:%S") + " " + "############################ " + message.upper() + " ############################")
-            log_file.write("")
-            log_file.write("\n")
-    
-    def get_path(self):
-        return self.action_log
-    
-log = WriteLog()    
+username_not_found = []  
 
 class CreateTask:
     '''Create a new task inside a parent'''
         
     def __init__(self, task_dict, parent, session):
+        
+        self.logger = logging.getLogger("import-project")  
                                 
         if session.query('select name from Task where name is "{}"'.format(task_dict["Nome"])).first():
-            log.write("Task already exists")
+            self.logger.warning("Task already exists")
             return
         
-        log.write("Creating Task: " + task_dict["Nome"])
-                
+        self.logger.info("Creating Task: " + task_dict["Nome"])
+                        
         task = session.create('Task', {
             
                 'parent' : parent,
@@ -96,7 +67,6 @@ class CreateTask:
         self.task = task
         
         session.commit()
-    
         
     def _create_task_link(self, session, task_dict, task):
         
@@ -110,7 +80,7 @@ class CreateTask:
         for incoming_task_name in incoming_task_list:  
             incoming_task_name = incoming_task_name.strip()
             
-            log.write("Creating Task Link: " + incoming_task_name)
+            self.logger.info("Creating Task Link: " + incoming_task_name)
             
             incoming_task = session.query('select name from Task where name is ' + incoming_task_name)
             
@@ -124,8 +94,8 @@ class CreateTask:
     def get_task(self):
         return self.task
     
-    @staticmethod
-    def _get_arrow_time(string_data):
+    
+    def _get_arrow_time(self, string_data):
         
         if str(string_data) == "":
             return ""
@@ -137,11 +107,9 @@ class CreateTask:
             datetime_obj = datetime.strptime(string_data, "%m/%d/%Y")
             return arrow.get(datetime_obj)
         
-        except Exception as e:
-            
-            log.write("Error converting date: " + string_data)
-            log.write(e)
-            
+        except Exception as e:        
+            self.logger.error("Error", exc_info = True)   
+                     
             return ""
 
     @staticmethod
@@ -165,8 +133,7 @@ class CreateTask:
         else:
             return session.query(entity_type + " where name is '" + default_name + "'").one()
         
-    @staticmethod
-    def _task_assigment(session, task_dict, task):
+    def _task_assigment(self, session, task_dict, task):
         
         global username_not_found
                
@@ -195,7 +162,7 @@ class CreateTask:
                 
             else:
                 username_not_found.append(assignee_item)
-                log.write("User not found {}".format(assignee_item))
+                self.logger.warning("User not found {}".format(assignee_item))
  
     @staticmethod
     def _get_correct_task_attribute(value, default):
@@ -213,11 +180,13 @@ class CreateFolder:
     
     def __init__(self, name, project, session):
         
+        self.logger = logging.getLogger("import-project")  
+        
         if session.query('select name, project_id from Folder where name is "{folder_name}" and project_id is "{project_id}"'.format(folder_name = name, project_id = project["id"])).first():
-            log.write("Folder already exists")
+            self.logger.warning("Folder already exists")
             return
         
-        log.write("Creating Service Folder: " + name)
+        self.logger.info("Creating Service Folder: " + name)
 
         self.folder = session.create('Folder', {
                 'name': name,
@@ -236,6 +205,7 @@ class CreateProjectStructure:
     
     def __init__(self, session, project, values):
         
+        self.logger = logging.getLogger("import-project")   
         self.project = project
         self.values = values
         
@@ -291,9 +261,8 @@ class CreateProjectStructure:
                     continue
                 
                 CreateTask(row, folder, session) 
-                    
-    @staticmethod  # Not used for now                          
-    def _clear_current_project_structure(session, project):
+                                             
+    def _clear_current_project_structure(self, session, project):
         '''Clear current project structure'''
         
         project_folders = session.query('select parent.id from Folder where parent.id is ' + str(project['id']))
@@ -302,7 +271,7 @@ class CreateProjectStructure:
             for folder in project_folders:                                  
                 session.delete(folder)
         
-        log.write("Project Structure Cleared")
+        self.logger.info("Project Structure Cleared")
             
         session.commit()        
 
@@ -334,7 +303,13 @@ class CreateProjectStructureAction(BaseAction):
 
     def launch(self, session, entities, event):
         
-        log.add_header("Creating New Project Structure")
+        logger = logging.getLogger("import-project")
+        handler = logging.FileHandler(os.path.realpath(os.path.join(os.path.join(os.path.dirname(__file__),"..","logs", "import-project.log"))))
+        formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+        handler.setFormatter(formatter)
+        logger.addHandler(handler)
+            
+        logger.info("############################## Creating New Project Structure ##############################")
         
         if 'values' in event['data']:
             values = event['data']['values']
@@ -362,10 +337,10 @@ class CreateProjectStructureAction(BaseAction):
                         'message': "Invalid Project, current project-id: " + str(entity_id),
                     }
                 
-            except Exception as error:
+            except:
                 
-                log.write(error)
-                
+                logger.error("Error", exc_info=True)
+
                 return {
                     'success': False,
                     'message': "Something Went Wrong, Please Check Log File",
@@ -390,7 +365,6 @@ class CreateProjectStructureAction(BaseAction):
                 {
                 'label': 'Log Path',
                 'type': 'text',
-                'value': log.get_path(),
                 'name': 'log_path'
                 },
             ]    

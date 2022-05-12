@@ -1,0 +1,33 @@
+2022-05-12 10:31:36,069 - import-project - WARNING - ############################## Creating New Project Structure ##############################
+2022-05-12 10:31:36,548 - import-project - INFO - Creating Service Folder: MLTR
+2022-05-12 10:31:36,776 - import-project - INFO - Creating Task: md6991
+2022-05-12 10:31:41,823 - import-project - INFO - Creating Task: md6992
+2022-05-12 10:31:44,621 - import-project - INFO - Creating Task: md6993
+2022-05-12 10:31:47,404 - import-project - INFO - Creating Task: md6994
+2022-05-12 10:31:50,180 - import-project - INFO - Creating Task: md6995
+2022-05-12 10:31:53,036 - import-project - INFO - Creating Task: md6996
+2022-05-12 10:31:55,795 - import-project - INFO - Creating Task: md6997
+2022-05-12 10:33:56,890 - import-project - WARNING - ############################## Creating New Project Structure ##############################
+2022-05-12 10:34:31,115 - import-project - WARNING - ############################## Creating New Project Structure ##############################
+2022-05-12 10:34:31,115 - import-project - WARNING - ############################## Creating New Project Structure ##############################
+2022-05-12 10:35:38,609 - import-project - WARNING - ############################## Creating New Project Structure ##############################
+2022-05-12 10:36:55,785 - import-project - WARNING - ############################## Creating New Project Structure ##############################
+2022-05-12 10:38:08,602 - import-project - WARNING - ############################## Creating New Project Structure ##############################
+2022-05-12 10:38:53,769 - import-project - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 10:39:25,760 - import-project - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 10:39:25,989 - import-project - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\import_project.py", line 327, in launch
+    if project["ids"] in self.test_projects: # For Safety reasons, this action will execute only in this project
+  File "C:\Program Files (x86)\ftrack-connect-package-1.1.2\common.zip\ftrack_api\entity\base.py", line 218, in __getitem__
+    raise KeyError(key)
+KeyError: 'ids'
+2022-05-12 10:45:30,865 - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 10:45:31,408 - INFO - Creating Service Folder: MLTR
+2022-05-12 10:45:31,641 - INFO - Creating Task: md6991
+2022-05-12 10:45:36,371 - INFO - Creating Task: md6992
+2022-05-12 10:45:39,351 - INFO - Creating Task: md6993
+2022-05-12 10:45:42,293 - INFO - Creating Task: md6994
+2022-05-12 10:45:45,059 - INFO - Creating Task: md6995
+2022-05-12 10:45:47,805 - INFO - Creating Task: md6996
+2022-05-12 10:45:50,555 - INFO - Creating Task: md6997
