@@ -41,7 +41,7 @@ class CreateTask:
             
                 'parent' : parent,
                 
-                'name': self._get_correct_task_attribute(task_dict["Nome"],"Name"),
+                'name': self._get_correct_task_attribute(task_dict["ID"],"ID"),
                 'description': self._get_correct_task_attribute(task_dict["Description"],""),
                 'type': self._get_entity_type_by_name(session, "Type", task_dict["Type"], "MLTR"),
                 'priority': self._get_entity_type_by_name(session, "Priority", task_dict["Priority"], "P1"),
@@ -61,7 +61,9 @@ class CreateTask:
                     'Height': self._get_correct_task_attribute(task_dict["Height"],""),
                     'Width': self._get_correct_task_attribute(task_dict["Width"],""),
                     'Depth': self._get_correct_task_attribute(task_dict["Depth"],""),
-                    
+                    'Finish': self._get_correct_task_attribute(task_dict["Finish"],""),
+                    'SameProduct': self._get_correct_task_attribute(task_dict["SameProduct"],""),
+                    'Resolution': self._get_correct_task_attribute(task_dict["Resolution"],""),               
                 },
             })
         
@@ -253,19 +255,19 @@ class CreateProjectStructure:
         from csv_helper.csv_to_dict import CSVToDict # Importing custom CSV Library
                         
         csv_data = CSVToDict(csv_file)  
-        possible_values = csv_data.possible_values("Pasta")
+        possible_values = csv_data.possible_values("Folder")
         
-        for pasta in possible_values:
+        for folder in possible_values:
             
-            if str(pasta) == "":  
+            if str(folder) == "":  
                 continue
               
-            folder = CreateFolder(pasta, project, session).get_folder()
+            folder = CreateFolder(folder, project, session).get_folder()
             
             if not folder:
                 continue
             
-            folder_tasks = csv_data.loc("Pasta", pasta)
+            folder_tasks = csv_data.loc("Folder", folder)
                         
             for row in folder_tasks:
                 
