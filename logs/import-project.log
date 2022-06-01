@@ -1,33 +1,143 @@
-2022-05-12 10:31:36,069 - import-project - WARNING - ############################## Creating New Project Structure ##############################
-2022-05-12 10:31:36,548 - import-project - INFO - Creating Service Folder: MLTR
-2022-05-12 10:31:36,776 - import-project - INFO - Creating Task: md6991
-2022-05-12 10:31:41,823 - import-project - INFO - Creating Task: md6992
-2022-05-12 10:31:44,621 - import-project - INFO - Creating Task: md6993
-2022-05-12 10:31:47,404 - import-project - INFO - Creating Task: md6994
-2022-05-12 10:31:50,180 - import-project - INFO - Creating Task: md6995
-2022-05-12 10:31:53,036 - import-project - INFO - Creating Task: md6996
-2022-05-12 10:31:55,795 - import-project - INFO - Creating Task: md6997
-2022-05-12 10:33:56,890 - import-project - WARNING - ############################## Creating New Project Structure ##############################
-2022-05-12 10:34:31,115 - import-project - WARNING - ############################## Creating New Project Structure ##############################
-2022-05-12 10:34:31,115 - import-project - WARNING - ############################## Creating New Project Structure ##############################
-2022-05-12 10:35:38,609 - import-project - WARNING - ############################## Creating New Project Structure ##############################
-2022-05-12 10:36:55,785 - import-project - WARNING - ############################## Creating New Project Structure ##############################
-2022-05-12 10:38:08,602 - import-project - WARNING - ############################## Creating New Project Structure ##############################
-2022-05-12 10:38:53,769 - import-project - INFO - ############################## Creating New Project Structure ##############################
-2022-05-12 10:39:25,760 - import-project - INFO - ############################## Creating New Project Structure ##############################
-2022-05-12 10:39:25,989 - import-project - ERROR - Error
-Traceback (most recent call last):
-  File "C:\Users\T-Gamer\AppData\Local\ftrack\ftrack-connect-plugins\import-project\hook\import_project.py", line 327, in launch
-    if project["ids"] in self.test_projects: # For Safety reasons, this action will execute only in this project
-  File "C:\Program Files (x86)\ftrack-connect-package-1.1.2\common.zip\ftrack_api\entity\base.py", line 218, in __getitem__
-    raise KeyError(key)
-KeyError: 'ids'
-2022-05-12 10:45:30,865 - INFO - ############################## Creating New Project Structure ##############################
-2022-05-12 10:45:31,408 - INFO - Creating Service Folder: MLTR
-2022-05-12 10:45:31,641 - INFO - Creating Task: md6991
-2022-05-12 10:45:36,371 - INFO - Creating Task: md6992
-2022-05-12 10:45:39,351 - INFO - Creating Task: md6993
-2022-05-12 10:45:42,293 - INFO - Creating Task: md6994
-2022-05-12 10:45:45,059 - INFO - Creating Task: md6995
-2022-05-12 10:45:47,805 - INFO - Creating Task: md6996
-2022-05-12 10:45:50,555 - INFO - Creating Task: md6997
+2022-05-12 11:39:15,325 - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 11:39:15,325 - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 11:39:15,855 - INFO - Creating Service Folder: MLTR
+2022-05-12 11:39:15,855 - INFO - Creating Service Folder: MLTR
+2022-05-12 11:39:16,082 - INFO - Creating Task: md6991
+2022-05-12 11:39:16,082 - INFO - Creating Task: md6991
+2022-05-12 11:39:20,657 - INFO - Creating Task: md6992
+2022-05-12 11:39:20,657 - INFO - Creating Task: md6992
+2022-05-12 11:39:23,717 - INFO - Creating Task: md6993
+2022-05-12 11:39:23,717 - INFO - Creating Task: md6993
+2022-05-12 11:39:26,497 - INFO - Creating Task: md6994
+2022-05-12 11:39:26,497 - INFO - Creating Task: md6994
+2022-05-12 11:39:29,440 - INFO - Creating Task: md6995
+2022-05-12 11:39:29,440 - INFO - Creating Task: md6995
+2022-05-12 11:39:32,217 - INFO - Creating Task: md6996
+2022-05-12 11:39:32,217 - INFO - Creating Task: md6996
+2022-05-12 11:39:34,986 - INFO - Creating Task: md6997
+2022-05-12 11:39:34,986 - INFO - Creating Task: md6997
+2022-05-12 11:45:20,683 - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 11:45:20,683 - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 11:45:20,683 - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 11:45:22,174 - INFO - Creating Service Folder: MLTR
+2022-05-12 11:45:22,174 - INFO - Creating Service Folder: MLTR
+2022-05-12 11:45:22,174 - INFO - Creating Service Folder: MLTR
+2022-05-12 11:45:22,417 - INFO - Creating Task: md6991
+2022-05-12 11:45:22,417 - INFO - Creating Task: md6991
+2022-05-12 11:45:22,417 - INFO - Creating Task: md6991
+2022-05-12 11:45:26,983 - INFO - Creating Task: md6992
+2022-05-12 11:45:26,983 - INFO - Creating Task: md6992
+2022-05-12 11:45:26,983 - INFO - Creating Task: md6992
+2022-05-12 11:45:29,967 - INFO - Creating Task: md6993
+2022-05-12 11:45:29,967 - INFO - Creating Task: md6993
+2022-05-12 11:45:29,967 - INFO - Creating Task: md6993
+2022-05-12 11:45:32,822 - INFO - Creating Task: md6994
+2022-05-12 11:45:32,822 - INFO - Creating Task: md6994
+2022-05-12 11:45:32,822 - INFO - Creating Task: md6994
+2022-05-12 11:45:35,618 - INFO - Creating Task: md6995
+2022-05-12 11:45:35,618 - INFO - Creating Task: md6995
+2022-05-12 11:45:35,618 - INFO - Creating Task: md6995
+2022-05-12 11:45:38,516 - INFO - Creating Task: md6996
+2022-05-12 11:45:38,516 - INFO - Creating Task: md6996
+2022-05-12 11:45:38,516 - INFO - Creating Task: md6996
+2022-05-12 11:45:42,055 - INFO - Creating Task: md6997
+2022-05-12 11:45:42,055 - INFO - Creating Task: md6997
+2022-05-12 11:45:42,055 - INFO - Creating Task: md6997
+2022-05-12 11:45:44,980 - INFO - Creating Service Folder: rs1319
+2022-05-12 11:45:44,980 - INFO - Creating Service Folder: rs1319
+2022-05-12 11:45:44,980 - INFO - Creating Service Folder: rs1319
+2022-05-12 11:45:45,210 - WARNING - Task already exists
+2022-05-12 11:45:45,210 - WARNING - Task already exists
+2022-05-12 11:45:45,210 - WARNING - Task already exists
+2022-05-12 11:45:45,447 - WARNING - Task already exists
+2022-05-12 11:45:45,447 - WARNING - Task already exists
+2022-05-12 11:45:45,447 - WARNING - Task already exists
+2022-05-12 11:45:45,686 - WARNING - Task already exists
+2022-05-12 11:45:45,686 - WARNING - Task already exists
+2022-05-12 11:45:45,686 - WARNING - Task already exists
+2022-05-12 11:45:45,930 - WARNING - Task already exists
+2022-05-12 11:45:45,930 - WARNING - Task already exists
+2022-05-12 11:45:45,930 - WARNING - Task already exists
+2022-05-12 11:45:46,177 - WARNING - Task already exists
+2022-05-12 11:45:46,177 - WARNING - Task already exists
+2022-05-12 11:45:46,177 - WARNING - Task already exists
+2022-05-12 11:47:59,206 - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 11:47:59,206 - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 11:47:59,206 - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 11:47:59,206 - INFO - ############################## Creating New Project Structure ##############################
+2022-05-12 11:47:59,783 - INFO - Creating Service Folder: MLTR
+2022-05-12 11:47:59,783 - INFO - Creating Service Folder: MLTR
+2022-05-12 11:47:59,783 - INFO - Creating Service Folder: MLTR
+2022-05-12 11:47:59,783 - INFO - Creating Service Folder: MLTR
+2022-05-12 11:48:00,016 - INFO - Creating Task: md6991
+2022-05-12 11:48:00,016 - INFO - Creating Task: md6991
+2022-05-12 11:48:00,016 - INFO - Creating Task: md6991
+2022-05-12 11:48:00,016 - INFO - Creating Task: md6991
+2022-05-12 11:48:04,552 - INFO - Creating Task: md6992
+2022-05-12 11:48:04,552 - INFO - Creating Task: md6992
+2022-05-12 11:48:04,552 - INFO - Creating Task: md6992
+2022-05-12 11:48:04,552 - INFO - Creating Task: md6992
+2022-05-12 11:48:07,325 - INFO - Creating Task: md6993
+2022-05-12 11:48:07,325 - INFO - Creating Task: md6993
+2022-05-12 11:48:07,325 - INFO - Creating Task: md6993
+2022-05-12 11:48:07,325 - INFO - Creating Task: md6993
+2022-05-12 11:48:10,187 - INFO - Creating Task: md6994
+2022-05-12 11:48:10,187 - INFO - Creating Task: md6994
+2022-05-12 11:48:10,187 - INFO - Creating Task: md6994
+2022-05-12 11:48:10,187 - INFO - Creating Task: md6994
+2022-05-12 11:48:12,970 - INFO - Creating Task: md6995
+2022-05-12 11:48:12,970 - INFO - Creating Task: md6995
+2022-05-12 11:48:12,970 - INFO - Creating Task: md6995
+2022-05-12 11:48:12,970 - INFO - Creating Task: md6995
+2022-05-12 11:48:15,733 - INFO - Creating Task: md6996
+2022-05-12 11:48:15,733 - INFO - Creating Task: md6996
+2022-05-12 11:48:15,733 - INFO - Creating Task: md6996
+2022-05-12 11:48:15,733 - INFO - Creating Task: md6996
+2022-05-12 11:48:18,525 - INFO - Creating Task: md6997
+2022-05-12 11:48:18,525 - INFO - Creating Task: md6997
+2022-05-12 11:48:18,525 - INFO - Creating Task: md6997
+2022-05-12 11:48:18,525 - INFO - Creating Task: md6997
+2022-05-12 11:48:21,377 - INFO - Creating Service Folder: rs1319
+2022-05-12 11:48:21,377 - INFO - Creating Service Folder: rs1319
+2022-05-12 11:48:21,377 - INFO - Creating Service Folder: rs1319
+2022-05-12 11:48:21,377 - INFO - Creating Service Folder: rs1319
+2022-05-12 11:48:21,611 - INFO - Creating Task: rs1319
+2022-05-12 11:48:21,611 - INFO - Creating Task: rs1319
+2022-05-12 11:48:21,611 - INFO - Creating Task: rs1319
+2022-05-12 11:48:21,611 - INFO - Creating Task: rs1319
+2022-05-12 11:48:24,661 - INFO - Creating Task: sh10919
+2022-05-12 11:48:24,661 - INFO - Creating Task: sh10919
+2022-05-12 11:48:24,661 - INFO - Creating Task: sh10919
+2022-05-12 11:48:24,661 - INFO - Creating Task: sh10919
+2022-05-12 11:48:26,849 - INFO - Creating Task Link: md6991
+2022-05-12 11:48:26,849 - INFO - Creating Task Link: md6991
+2022-05-12 11:48:26,849 - INFO - Creating Task Link: md6991
+2022-05-12 11:48:26,849 - INFO - Creating Task Link: md6991
+2022-05-12 11:48:27,328 - INFO - Creating Task Link: md6992
+2022-05-12 11:48:27,328 - INFO - Creating Task Link: md6992
+2022-05-12 11:48:27,328 - INFO - Creating Task Link: md6992
+2022-05-12 11:48:27,328 - INFO - Creating Task Link: md6992
+2022-05-12 11:48:28,765 - INFO - Creating Task: sh10924
+2022-05-12 11:48:28,765 - INFO - Creating Task: sh10924
+2022-05-12 11:48:28,765 - INFO - Creating Task: sh10924
+2022-05-12 11:48:28,765 - INFO - Creating Task: sh10924
+2022-05-12 11:48:30,595 - INFO - Creating Task Link: md6992
+2022-05-12 11:48:30,595 - INFO - Creating Task Link: md6992
+2022-05-12 11:48:30,595 - INFO - Creating Task Link: md6992
+2022-05-12 11:48:30,595 - INFO - Creating Task Link: md6992
+2022-05-12 11:48:31,911 - INFO - Creating Task: sh10936
+2022-05-12 11:48:31,911 - INFO - Creating Task: sh10936
+2022-05-12 11:48:31,911 - INFO - Creating Task: sh10936
+2022-05-12 11:48:31,911 - INFO - Creating Task: sh10936
+2022-05-12 11:48:33,661 - INFO - Creating Task Link: md6993
+2022-05-12 11:48:33,661 - INFO - Creating Task Link: md6993
+2022-05-12 11:48:33,661 - INFO - Creating Task Link: md6993
+2022-05-12 11:48:33,661 - INFO - Creating Task Link: md6993
+2022-05-12 11:48:34,986 - INFO - Creating Task: sh11008
+2022-05-12 11:48:34,986 - INFO - Creating Task: sh11008
+2022-05-12 11:48:34,986 - INFO - Creating Task: sh11008
+2022-05-12 11:48:34,986 - INFO - Creating Task: sh11008
+2022-05-12 11:48:36,763 - INFO - Creating Task Link: md6994
+2022-05-12 11:48:36,763 - INFO - Creating Task Link: md6994
+2022-05-12 11:48:36,763 - INFO - Creating Task Link: md6994
+2022-05-12 11:48:36,763 - INFO - Creating Task Link: md6994

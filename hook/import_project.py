@@ -11,10 +11,14 @@ from ftrack_action_handler.action import BaseAction
 
 # Loading Dependencies
 _cwd = os.path.dirname(__file__)
-_sources_path = os.path.abspath(os.path.join(_cwd, '..', 'dependencies'))
+_sources_path = os.path.abspath(os.path.join(_cwd, '...', 'dependencies'))
 
 if _sources_path not in sys.path:
     sys.path.append(_sources_path)
+    
+# Constants
+
+LOG_RELATIVE_PATH = os.path.realpath(os.path.join(os.path.join(os.path.dirname(__file__),"..","logs", "import-project.log")))
                  
 # Script Start
 
@@ -39,16 +43,16 @@ class CreateTask:
                 
                 'name': self._get_correct_task_attribute(task_dict["Nome"],"Name"),
                 'description': self._get_correct_task_attribute(task_dict["Description"],""),
-                'type': self._get_entity_by_name(session, "Type", task_dict["Type"], "Production"),
-                'priority': self._get_entity_by_name(session, "Priority", task_dict["Priority"], "P1"),
-                'scopes': [self._get_entity_by_name(session, "Scope", task_dict["Scope"], "None"),],
-                'status': self._get_entity_by_name(session, "Status", task_dict["Status"], "Not Started"),
+                'type': self._get_entity_type_by_name(session, "Type", task_dict["Type"], "MLTR"),
+                'priority': self._get_entity_type_by_name(session, "Priority", task_dict["Priority"], "P1"),
+                'scopes': [self._get_entity_type_by_name(session, "Scope", task_dict["Scope"], "None"),],
+                'status': self._get_entity_type_by_name(session, "Status", task_dict["Status"], "Not Started"),
                 
                 # Bid Days
                 'bid': self._get_bid_days(task_dict["Bid"]),                       
                 
                 # Arrow Time Objects
-                'start_date': self._get_arrow_time(task_dict["Start Date"]), # For some reason, the start date is begin read as _5
+                'start_date': self._get_arrow_time(task_dict["Start Date"]), 
                 'end_date': self._get_arrow_time(task_dict["Due Date"]),
                 
                 # Custom Attributes
@@ -61,14 +65,16 @@ class CreateTask:
                 },
             })
         
-        self._task_assigment(session, task_dict, task)
+        self._create_task_assignment(session, task_dict, task)
         self._create_task_link(session, task_dict, task)   
                
         self.task = task
         
         session.commit()
         
+        
     def _create_task_link(self, session, task_dict, task):
+        '''Create task incoming links'''
         
         incoming_task = str(task_dict["Incoming"])
         
@@ -92,10 +98,12 @@ class CreateTask:
     
     
     def get_task(self):
+        '''Return task object'''
         return self.task
     
-    
+  
     def _get_arrow_time(self, string_data):
+        '''Get arrow time to be used in the task due and end dates'''
         
         if str(string_data) == "":
             return ""
@@ -114,6 +122,7 @@ class CreateTask:
 
     @staticmethod
     def _get_bid_days(bid):
+        '''Get correct bid days'''
         
         if str(bid) == "":
             return 0
@@ -124,7 +133,8 @@ class CreateTask:
         return bid * 86400
         
     @staticmethod
-    def _get_entity_by_name(session, entity_type, name, default_name):
+    def _get_entity_type_by_name(session, entity_type, name, default_name):
+        '''Get entity type by name, return a default one if not found'''
         
         entity = session.query(entity_type + " where name is '" + name + "'")
         
@@ -133,7 +143,9 @@ class CreateTask:
         else:
             return session.query(entity_type + " where name is '" + default_name + "'").one()
         
-    def _task_assigment(self, session, task_dict, task):
+        
+    def _create_task_assignment(self, session, task_dict, task):
+        '''Create task assignments by user email'''
         
         global username_not_found
                
@@ -166,6 +178,7 @@ class CreateTask:
  
     @staticmethod
     def _get_correct_task_attribute(value, default):
+        '''Used to return a default value if the value is empty'''
         
         if str(value) == "":
             return default
@@ -194,6 +207,7 @@ class CreateFolder:
             })
         
     def get_folder(self):
+        '''Return folder object'''
         return self.folder
 
 
@@ -252,9 +266,7 @@ class CreateProjectStructure:
                 continue
             
             folder_tasks = csv_data.loc("Pasta", pasta)
-            
-            # Development Only
-            
+                        
             for row in folder_tasks:
                 
                 if str(row["Nome"]) == "":
@@ -304,7 +316,7 @@ class CreateProjectStructureAction(BaseAction):
     def launch(self, session, entities, event):
         
         logger = logging.getLogger("import-project")
-        handler = logging.FileHandler(os.path.realpath(os.path.join(os.path.join(os.path.dirname(__file__),"..","logs", "import-project.log"))))
+        handler = logging.FileHandler(LOG_RELATIVE_PATH)
         formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
         handler.setFormatter(formatter)
         logger.addHandler(handler)
@@ -334,7 +346,7 @@ class CreateProjectStructureAction(BaseAction):
                 else:
                     return {
                         'success': False,
-                        'message': "Invalid Project, current project-id: " + str(entity_id),
+                        'message': "Invalid Project, please add this project ID to the projects list, current project-id:  " + str(entity_id),
                     }
                 
             except:
@@ -365,7 +377,8 @@ class CreateProjectStructureAction(BaseAction):
                 {
                 'label': 'Log Path',
                 'type': 'text',
-                'name': 'log_path'
+                'name': 'log_path', 
+                'value': LOG_RELATIVE_PATH,
                 },
             ]    
 
